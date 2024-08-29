@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const sidebarmain = document.createElement("div");
   sidebarmain.classList.add("macsidebar");
   sidebarmain.setAttribute("id", "sidebar");
-  
+
   sidebarmain.innerHTML = `<a href="/"><img src="/logo.png" alt="" /></a>
   <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
 <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
@@ -73,11 +73,11 @@ document.addEventListener("DOMContentLoaded", function () {
   <ul class="sidebar">
     <h2 class="stitle">MacVG Updates</h2>
     <h3 class="syear">2023</h3>
-    <div id="sidelinks">
+    <div class="sidelinks">
     <a href="/macblog/updates/macvg/2023/previous.html"><li>Prerelease Log</li></a><a href="/macblog/updates/macvg/2023/v1_0.html"><li>Version 1.0 Update</li></a><a href="/macblog/updates/macvg/2023/v1_2.html"><li>Version 1.2 Update</li></a><a href="/macblog/updates/macvg/2023/november.html"><li>November Update</li></a><a href="/macblog/updates/macvg/2023/december.html"><li>December Update</li></a>
     </div>
     <h3 class="syear" id="year">2024</h3>
-    <div id="sidelinks">
+    <div class="sidelinks">
     <a href="/macblog/updates/macvg/2024/january.html"><li>January Update</li></a><a href="/macblog/updates/macvg/2024/february.html"><li>February Update</li></a><a href="/macblog/updates/macvg/2024/march.html"><li>March Update</li></a><a href="/macblog/updates/macvg/2024/april.html"><li>April Update</li></a><a href="/macblog/updates/macvg/2024/may.html"><li>May Update</li></a><a href="/macblog/updates/macvg/2024/june.html"><li>June Update</li></a><a href="/macblog/updates/macvg/2024/july.html"><li>July Update</li></a><a href="/macblog/updates/macvg/2024/august.html"><li>August Update</li></a>
     </div>
   </ul>
@@ -109,6 +109,19 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(styles);
   document.body.appendChild(nav);
   document.body.appendChild(wrappermain);
+  const syear = document.querySelectorAll(".syear");
+  const syearr = document.querySelectorAll(".sidelinks");
+  syear.forEach((year) => {
+    let index = Array.from(syear).indexOf(year);
+    syearr.forEach((yearr) => {
+      let indexx = Array.from(syearr).indexOf(yearr);
+      year.addEventListener("click", (e) => {
+        if (indexx == index) {
+          yearr.classList.toggle("yearclose");
+        }
+      });
+    });
+  });
   const currentPage = window.location.pathname.split("/").pop();
   const dataFile = "data/" + currentPage.split(".")[0] + ".json";
   fetch(dataFile)

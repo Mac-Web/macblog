@@ -80,6 +80,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <div class="sidelinks">
     <a href="/macblog/updates/macblog/2024/april.html"><li>April Update</li></a>
     <a href="/macblog/updates/macblog/2024/july.html"><li>July Update</li></a>
+    <a href="/macblog/updates/macblog/2024/september.html"><li>September Update</li></a>
     </div>
   </ul>
 </div>
@@ -123,7 +124,6 @@ document.addEventListener("DOMContentLoaded", function () {
       })
     })
   })
-  //TODO: copy the above code to each macblog app.js so the year can toggle and collapse
   const currentPage = window.location.pathname.split("/").pop();
   const dataFile = "data/" + currentPage.split(".")[0] + ".json";
   fetch(dataFile)

@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <div class="sidelinks">
     <a href="/macblog/updates/macideas/2024/release.html"><li>June Release</li></a>
     <a href="/macblog/updates/macideas/2024/july.html"><li>July Update</li></a>
+    <a href="/macblog/updates/macideas/2024/september.html"><li>September Update</li></a>
     </div>
   </ul>
 </div>
@@ -109,6 +110,19 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(styles);
   document.body.appendChild(nav);
   document.body.appendChild(wrappermain);
+  const syear = document.querySelectorAll(".syear");
+  const syearr = document.querySelectorAll(".sidelinks");
+  syear.forEach((year) => {
+    let index = Array.from(syear).indexOf(year);
+    syearr.forEach((yearr) => {
+      let indexx = Array.from(syearr).indexOf(yearr);
+      year.addEventListener("click", (e) => {
+        if (indexx == index) {
+          yearr.classList.toggle("yearclose");
+        }
+      });
+    });
+  });
   const currentPage = window.location.pathname.split("/").pop();
   const dataFile = "data/" + currentPage.split(".")[0] + ".json";
   fetch(dataFile)

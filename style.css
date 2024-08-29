@@ -216,8 +216,20 @@ body {
 }
 
 .yearclose {
-  transform: scaleY(0);
-  transform-origin: top;
+  height: 0px;
+  box-sizing: content-box;
+  position: relative;
+}
+
+.yearclose::after {
+  content: "";
+  display: block;
+  background-color: rgb(60, 60, 60);
+  height: 2px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 100%;
 }
 
 .yearclose li {
@@ -621,6 +633,7 @@ footer {
   background-color: rgb(30, 30, 30);
   border-radius: 10px;
   padding: 20px;
+  padding-inline: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
