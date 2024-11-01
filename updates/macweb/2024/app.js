@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
     <h3 class="syear" id="year">2024</h3>
     <div class="sidelinks">
-    <a href="/macblog/updates/macweb/2024/site-material-2.html"><li>Site Material 2</li></a><a href="/macblog/updates/macweb/2024/site-material-2_1.html"><li>Site Material 2.1</li></a><a href="/macblog/updates/macweb/2024/site-material-3.html"><li>Site Material 3</li></a>
+    <a href="/macblog/updates/macweb/2024/site-material-2.html"><li>Site Material 2</li></a><a href="/macblog/updates/macweb/2024/site-material-2_1.html"><li>Site Material 2.1</li></a><a href="/macblog/updates/macweb/2024/site-material-3.html"><li>Site Material 3</li></a><a href="/macblog/updates/macweb/2024/site-material-5.html"><li>Site Material 5</li></a>
     </div>
   </ul>
 </div>

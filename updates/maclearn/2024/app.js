@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <a href="/macblog/updates/maclearn/2024/april.html"><li>April Update</li></a>
     <a href="/macblog/updates/maclearn/2024/july.html"><li>July Update</li></a>
     <a href="/macblog/updates/maclearn/2024/september.html"><li>September Update</li></a>
+    <a href="/macblog/updates/maclearn/2024/november.html"><li>November Update</li></a>
     </div>
   </ul>
 </div>

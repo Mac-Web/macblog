@@ -1,0 +1,38 @@
+{
+  "title": "MacWeb Site Material 5",
+  "date": "10.25.2024",
+  "description": "This is THE single biggest update across all of MacWeb ever! Last time we released a new version of MacWeb Site Material was only version 3, and this update we skipped version 4 and came directly to 5. That's how big this update on our design material is! Our UI, UX, layout, designs, colors, and everything else got changed on this huge site material update! With this huge update, your experience on MacWeb is enhanced and improved by a lot, so let's see what's new with Site Material 5:",
+  "mainarticles": {
+    "count": "4",
+    "sh1": "NEW UI, UX & LAYOUT",
+    "p1": "Our most important goal for this Site Material update is to make the designs and UI of all MacWeb apps look more modern, easier to use, and more consitent with each other. The old Site Material we had on our apps was inconsitent, inefficient, and kind of outdated. That's why we completely redesigned almost everything on all our apps (that's a lot a lot a lot of work trust me)! From a new unified navigation bar design and effects, to brand new layouts on different pages and new sidebars, we've completely revamped the designs of all MacWeb apps! We also changed all the buttons, links, and cards everywhere to work more intuitively, look better, and more consitent across different apps. Check the refreshed redesigned apps out for yourself to see the massive style changes we've applied to the apps 🔥! (note that this is still a work in progress and some things are still being tweaked)",
+    "sh2": "NEW COLORS!",
+    "p2": "We've changed the color palette of Site Material so almost everything has the same main background color, with darker backgrounds for cards, and primary colors for action buttons or places that need to be emphasized. We also changed up different primary colors for each app a little so the design works with the background better and more smoothly. This makes MacWeb apps look more consitent and more modern, and easier to use than ever 🎨.",
+    "sh3": "NEW EFFECTS!",
+    "p3": "New hovering effect when hovering over different tabs within a MacWeb app, for more modern and appealing effects and user experience, and new hover effects on different cards 💡!",
+    "sh4": "NEW UPDATE SCHEDULE!",
+    "p4": "From now on, we'll be applying a new update schedule to all MacWeb apps. From this update forward, each app is going to get an update every 3 months. This means we'll release a new update for it in each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features for each of the apps 📅!"
+  },
+  "others": {
+    "count": "3",
+    "other1": "Content updates for Site Material 5 compatibility.",
+    "other2": "Visual updates for Site Material 5 compatibility.",
+    "other3": "Removed unnecessary files for a faster and cleaner experience."
+  },
+  "menulinks": {
+    "count": "6",
+    "menu1": "Intro",
+    "menu1link": "#home",
+    "menu2": "New UI & UX",
+    "menu2link": "#sh1",
+    "menu3": "New Colors",
+    "menu3link": "#sh2",
+    "menu4": "New Effects",
+    "menu4link": "#sh3",
+    "menu5": "Update Schedule",
+    "menu5link": "#sh4",
+    "menu6": "Others",
+    "menu6link": "#otherslist"
+  },
+  "year": "2024"
+}

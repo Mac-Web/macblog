@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <h2 class="stitle">MacTime Updates</h2>
     <h3 class="syear" id="year"></h3>
     <div class="sidelinks">
-    <a href="/macblog/updates/mactime/2024/january.html"><li>January Update</li></a><a href="/macblog/updates/mactime/2024/february.html"><li>February Update</li></a><a href="/macblog/updates/mactime/2024/march.html"><li>March Update</li></a><a href="/macblog/updates/mactime/2024/april.html"><li>April Update</li></a><a href="/macblog/updates/mactime/2024/july.html"><li>July Update</li></a>
+    <a href="/macblog/updates/mactime/2024/january.html"><li>January Update</li></a><a href="/macblog/updates/mactime/2024/february.html"><li>February Update</li></a><a href="/macblog/updates/mactime/2024/march.html"><li>March Update</li></a><a href="/macblog/updates/mactime/2024/april.html"><li>April Update</li></a><a href="/macblog/updates/mactime/2024/july.html"><li>July Update</li></a><a href="/macblog/updates/mactime/2024/november.html"><li>November Update</li></a>
     </div>
   </ul>
 </div>
