@@ -22,93 +22,105 @@
     <link rel="stylesheet" href="/macblog/style.css" />
   </head>
   <body>
+    <div class="macsidebar" id="sidebar">
+      <a href="/"><img src="/logo.png" alt="" /></a>
+      <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
+      <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
+      <a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
+      <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
+      <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
+    </div>
     <nav class="nav">
       <a href="/macblog/" class="logo">
         <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
       </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
       <a href="/macblog/posts/" class="nav-link">Posts</a>
-      <a href="/macblog/projects/" class="nav-link">Projects</a>
       <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
       <a href="/macblog/updates/" class="nav-link">Updates</a>
-      <div class="select">
-        <span id="header123">Help</span>
-        <ul id="cats">
-          <a href="/macblog/projects/macblog/">About</a>
-          <a href="/macblog/updates/macblog/">Updates</a>
-          <a href="/macblog/projects/macblog/">Docs</a>
-          <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"
-            >Feedback</a
-          >
-        </ul>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
+              Feedback
+            </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
       </div>
     </nav>
-    <div class="homeheader">
-      <h1 class="title">Company Roadmap</h1>
-    </div>
-    <div class="hero">
-      <h1 class="hero-title">
-        Our mission is to empower & fulfill everyone's productivity and
-        entertainment needs with powerful features and customizations,
-        completely for free.
-      </h1>
-      <img src="/logo.png" alt="MacWeb Logo" class="hero-thumb" />
-    </div>
-    <div class="timelines">
-      <div class="timeline">
-        <div class="milestone">
-          <h3 class="milstone-date">Q4 2024</h3>
-          <p class="milestone-des">
-            Complete major and foundational features/tabs/infrastructure on each
-            of our apps.
-          </p>
-        </div>
-        <div class="milestone">
-          <h3 class="milstone-date">Q2 2025</h3>
-          <p class="milestone-des">
-            Major appearance redesigns on each of our apps to make UI more
-            functional, unified, and modern.
-          </p>
-        </div>
-        <div class="milestone">
-          <h3 class="milstone-date">Q4 2025</h3>
-          <p class="milestone-des">
-            Complete small features, enhancements, and customizations on each of
-            our apps.
-          </p>
-        </div>
+    <div class="wrap">
+      <div class="hero">
+        <h1 class="hero-title">Company roadmap</h1>
+        <p class="hero-des">
+          Our mission is to empower & fulfill everyone's productivity and
+          entertainment needs with powerful features and customizations,
+          completely for free.
+        </p>
       </div>
-      <div class="timeline">
-        <div class="milestone">
-          <h3 class="milstone-date">Q2 2026</h3>
-          <p class="milestone-des">
-            Fix all the bugs, broken links and pages, issues, and problems on
-            each of our apps.
-          </p>
+      <div class="timelines">
+        <div class="timeline">
+          <div class="milestone">
+            <h3 class="milstone-date">Q4 2024</h3>
+            <p class="milestone-des">
+              Complete major and foundational features/tabs/infrastructure on
+              each of our apps.
+            </p>
+          </div>
+          <div class="milestone">
+            <h3 class="milstone-date">Q2 2025</h3>
+            <p class="milestone-des">
+              Major appearance redesigns on each of our apps to make UI more
+              functional, unified, and modern.
+            </p>
+          </div>
+          <div class="milestone">
+            <h3 class="milstone-date">Q4 2025</h3>
+            <p class="milestone-des">
+              Complete small features, enhancements, and customizations on each
+              of our apps.
+            </p>
+          </div>
         </div>
-        <div class="milestone">
-          <h3 class="milstone-date">Q4 2026</h3>
-          <p class="milestone-des">
-            Add additional fixes/features/improvements to stabilize and monetize
-            each of our apps.
-          </p>
+        <div class="timeline">
+          <div class="milestone">
+            <h3 class="milstone-date">Q2 2026</h3>
+            <p class="milestone-des">
+              Fix all the bugs, broken links and pages, issues, and problems on
+              each of our apps.
+            </p>
+          </div>
+          <div class="milestone">
+            <h3 class="milstone-date">Q4 2026</h3>
+            <p class="milestone-des">
+              Add additional fixes/features/improvements to stabilize and
+              monetize each of our apps.
+            </p>
+          </div>
+          <div class="milestone">
+            <h3 class="milstone-date">Future</h3>
+            <p class="milestone-des">
+              Continue our mission, expand our company, and change the future of
+              the internet world.
+            </p>
+          </div>
         </div>
-        <div class="milestone">
-          <h3 class="milstone-date">Future</h3>
-          <p class="milestone-des">
-            Continue our mission, expand our company, and change the future of
-            the internet world.
-          </p>
-        </div>
-      </div>
-      <div class="posts">
-        <a href="maclearn.html" class="post">
-          <img src="/MacLearn Logo.png" class="post-thumb">
-          <h2 class="post-title">MacLearn Roadmap</h2>
+      <div class="apps">
+        <a href="maclearn.html" class="app">
+          <img src="/MacLearn Logo.png" />
+          <p class="text">MacLearn Roadmap</p>
         </a>
+        </div>
       </div>
     </div>
-    <footer>
-      <span>© 2024 MacWeb</span>
+    <footer class="footer">
+      <span>© 2024 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="/macblog/app.js"></script>
   </body>
 </html>

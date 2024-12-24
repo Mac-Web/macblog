@@ -22,83 +22,76 @@
     <link rel="stylesheet" href="/macblog/style.css" />
   </head>
   <body>
+    <div class="macsidebar" id="sidebar">
+      <a href="/"><img src="/logo.png" alt="" /></a>
+      <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
+      <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
+      <a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
+      <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
+      <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
+    </div>
     <nav class="nav">
       <a href="/macblog/" class="logo">
         <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
       </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
       <a href="/macblog/posts/" class="nav-link">Posts</a>
-      <a href="/macblog/projects/" class="nav-link">Projects</a>
       <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
       <a href="/macblog/updates/" class="nav-link">Updates</a>
-      <div class="select">
-        <span id="header123">Help</span>
-        <ul id="cats">
-          <a href="/macblog/projects/macblog/">About</a>
-          <a href="/macblog/updates/macblog/">Updates</a>
-          <a href="/macblog/projects/macblog/">Docs</a>
-          <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"
-            >Feedback</a
-          >
-        </ul>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
+              Feedback
+            </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
       </div>
     </nav>
-    <div class="homeheader">
-      <h1 class="title">Posts</h1>
+    <div class="wrap">
+      <div class="hero">
+        <h1 class="hero-title">Posts</h1>
+        <p class="hero-des">
+          You can find posts for tips and ideas about our apps or just about
+          anything else here!
+        </p>
+      </div>
+      <div class="apps">
+        <a href="6-6-24.html" class="app">
+          <p class="text">Fixing a huge bug</p>
+          <p>6/6/24</p>
+        </a>
+        <a href="4-1-24.html" class="app">
+          <p class="text">MacVG maintenance</p>
+          <p>4/1/24</p>
+        </a>
+        <a href="3-5-24.html" class="app">
+          <p class="text">Streamlining downloads</p>
+          <p>3/5/24</p>
+        </a>
+        <a href="2-22-24.html" class="app">
+          <p class="text">Improving countdown</p>
+          <p>2/22/24</p>
+        </a>
+        <a href="12-20-23.html" class="app">
+          <p class="text">Progress restored</p>
+          <p>12/20/23</p>
+        </a>
+        <a href="10-27-23.html" class="app">
+          <p class="text">GitHub Tips</p>
+          <p>10/27/23</p>
+        </a>
+      </div>
     </div>
-    <div class="hero">
-      <img src="/logo.png" alt="MacWeb Logo" class="hero-thumb" />
-      <h1 class="hero-title">
-        Check out all of our posts here, either on tips for our apps, random
-        ideas for the company, or just interesting stories on the development of
-        our apps.
-      </h1>
-    </div>
-    <div class="posts">
-      <a class="post" href="6-6-24.html">
-        <img src="/MacVG Logo.png" alt="MacVG Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">Fixing a Huge Bug</h2>
-          <span class="post-day">6/6/24</span>
-        </div>
-      </a>
-      <a class="post" href="4-1-24.html">
-        <img src="/MacVG Logo.png" alt="MacVG Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">MacVG Maintenance</h2>
-          <span class="post-day">4/1/24</span>
-        </div>
-      </a>
-      <a class="post" href="3-5-24.html">
-        <img src="/MacVG Logo.png" alt="MacVG Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">Streamlining Downloads</h2>
-          <span class="post-day">3/5/24</span>
-        </div>
-      </a>
-      <a class="post" href="2-22-24.html">
-        <img src="/MacTime Logo.png" alt="MacTime Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">Improving Countdown</h2>
-          <span class="post-day">2/22/24</span>
-        </div>
-      </a>
-      <a class="post" href="12-20-23.html">
-        <img src="/MacVG Logo.png" alt="MacVG Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">Progress Restored</h2>
-          <span class="post-day">12/20/23</span>
-        </div>
-      </a>
-      <a class="post" href="10-27-23.html">
-        <img src="/MacVG Logo.png" alt="MacVG Logo" class="post-thumb" />
-        <div class="post-info">
-          <h2 class="post-name">GitHub Tips</h2>
-          <span class="post-day">10/27/23</span>
-        </div>
-      </a>
-    </div>
-    <footer>
-      <span>© 2024 MacWeb</span>
+    <footer class="footer">
+      <span>© 2024 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="/macblog/app.js"></script>
   </body>
 </html>

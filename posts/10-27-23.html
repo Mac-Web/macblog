@@ -19,30 +19,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Finally Being Able to Commit on GitHub Faster | MacBlog</title>
     <link rel="icon" type="image/x-icon" href="/logo.png" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="../style.css" />
     <script src="app.js"></script>
   </head>
   <body>
-    <nav class="nav">
-      <a href="/macblog/" class="logo">
-        <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
-      </a>
-      <a href="/macblog/posts/" class="nav-link">Posts</a>
-      <a href="/macblog/projects/" class="nav-link">Projects</a>
-      <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
-      <a href="/macblog/updates/" class="nav-link">Updates</a>
-      <div class="select">
-        <span id="header123">Help</span>
-        <ul id="cats">
-          <a href="/macblog/projects/macblog/">About</a>
-          <a href="/macblog/updates/macblog/">Updates</a>
-          <a href="/macblog/projects/macblog/">Docs</a>
-          <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"
-            >Feedback</a
-          >
-        </ul>
-      </div>
-    </nav>
     <div class="macsidebar" id="sidebar">
       <a href="/"><img src="/logo.png" alt="" /></a>
       <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
@@ -51,6 +31,30 @@
       <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
       <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
     </div>
+    <nav class="nav">
+      <a href="/macblog/" class="logo">
+        <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
+      </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
+      <a href="/macblog/posts/" class="nav-link">Posts</a>
+      <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
+      <a href="/macblog/updates/" class="nav-link">Updates</a>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
+              Feedback
+            </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
+      </div>
+    </nav>
     <div class="wrap">
       <h1 class="post-title">Finally Being Able to Commit on GitHub Faster</h1>
       <span class="post-date">10/27/2023</span>
@@ -70,8 +74,9 @@
         disabled SSH, and it worked successfully!
       </p>
     </div>
-    <footer>
-      <span>© 2024 MacWeb</span>
+    <footer class="footer">
+      <span>© 2024 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="/macblog/app.js"></script>
   </body>
 </html>

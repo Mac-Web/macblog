@@ -1,53 +1,32 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const styles = document.createElement("style");
-  styles.innerHTML = `
-  .time {
-    text-align: left !important;
-    width: 100%;
-  }
-
-  hr {
-    background-color: white;
-    border: none;
-    height: 2px;
-    width: 100%;
-  }
-
-  .bold {
-    padding-block: 30px;
-    display: block;
-    font-size: 28px;
-  }
-
-  .main-art {
-    width: 70%;
-    margin-inline: 15%;
-    font-size: 18px;
-  }`;
   const nav = document.createElement("nav");
   nav.classList.add("nav");
-  nav.innerHTML = `<a href="/macblog" class="logo">
-  <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
-</a>
-<a href="/macblog/posts/" class="nav-link">Posts</a>
-<a href="/macblog/projects/" class="nav-link">Projects</a>
-<a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
-<a href="/macblog/updates/" class="nav-link">Updates</a>
-<div class="select">
-  <span id="header123">Help</span>
-  <ul id="cats">
-    <a href="/macblog/projects/macblog/">About</a>
-    <a href="/macblog/updates/macblog/">Updates</a>
-    <a href="/macblog/projects/macblog/">Docs</a>
-    <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"
-      >Feedback</a
-    >
-  </ul>
-</div>`;
+  nav.innerHTML = `<a href="/macblog/" class="logo">
+        <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
+      </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
+      <a href="/macblog/posts/" class="nav-link">Posts</a>
+      <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
+      <a href="/macblog/updates/" class="nav-link">Updates</a>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
+              Feedback
+            </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
+      </div>`;
   const sidebarmain = document.createElement("div");
   sidebarmain.classList.add("macsidebar");
   sidebarmain.setAttribute("id", "sidebar");
-  
+
   sidebarmain.innerHTML = `<a href="/"><img src="/logo.png" alt="" /></a>
   <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
 <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
@@ -69,48 +48,69 @@ document.addEventListener("DOMContentLoaded", function () {
   const wrappermain = document.createElement("div");
   wrappermain.classList.add("wrapp");
   wrappermain.innerHTML = `
-<div class="side">
   <ul class="sidebar">
-    <h2 class="stitle">MacBlog Updates</h2>
-    <h3 class="syear">2023</h3>
+    <h2 class="sidebar-title">MacBlog Updates</h2>
+    <li class="syear">2023</li>
     <div class="sidelinks">
-    <a href="/macblog/updates/macblog/2023/previous.html"><li>Prerelease Updates</li></a>
+      <a href="/macblog/updates/macblog/2023/previous.html">
+        <li>Prerelease Updates</li>
+      </a>
     </div>
-    <h3 class="syear" id="year">2024</h3>
+    <li class="syear">2024</li>
     <div class="sidelinks">
-    <a href="/macblog/updates/macblog/2024/april.html"><li>April Update</li></a>
-    <a href="/macblog/updates/macblog/2024/july.html"><li>July Update</li></a>
-    <a href="/macblog/updates/macblog/2024/september.html"><li>September Update</li></a>
+      <a href="/macblog/updates/macblog/2024/april.html"><li>April Update</li></a>
+      <a href="/macblog/updates/macblog/2024/july.html"><li>July Update</li></a>
+      <a href="/macblog/updates/macblog/2024/september.html"><li>September Update</li></a>
     </div>
   </ul>
-</div>
-<div class="mainp">
-  <div class="homeheader" id="home">
-    <h1 class="title" id="title" style="margin-block: 50px; font-size: 35px"></h1>
-    <p class="time" id="date"></p>
-    <hr />
-  </div>
-  <p class="main-art" style="margin-top: 40px" id="description"></p>
-  <div id="articlewrapper">
-  </div>
-  <b class="bold">Other Improvements, Changes, and Fixes include:</b>
-  <ul style="margin-bottom: 50px" id="otherslist">
-  </ul>
-  <footer>
-    <span>© 2024 MacWeb</span>
-  </footer>
-</div>
-<div class="side">
-  <ul class="sidebar">
-    <h2 class="stitle">On this page</h2>
-    <div id="menulinks">
-    </div>
-  </ul>
-</div>
-`;
-  document.body.appendChild(styles);
+  <div class="content">
+    <article class="article">
+      <h1 class="article-title" id="title"></h1>
+      <h3 class="author"><span class="date" id="date"></span></h3>
+      <hr />
+      <p class="main-art" style="margin-top: 40px" id="description"></p>
+      <div class="table-contents">
+        <h2 class="stitle">Table of Contents</h2>
+        <div id="menulinks">
+        </div>
+      </div>
+      <div id="articlewrapper">
+      </div>
+      <b class="bold">Other Improvements, Changes, and Fixes include:</b>
+      <ul style="margin-bottom: 50px" id="otherslist">
+      </ul>
+      <footer style="text-align: center; padding-block: 30px;">
+        &copy; 2024 <a href="/" style="color: rgb(215,215,215)">MacWeb</a>
+      </footer>
+    </article>
+  </div>`;
   document.body.appendChild(nav);
   document.body.appendChild(wrappermain);
+  const helpMenuItems = document.getElementById("cats");
+  const helpMenu = document.getElementById("help-menu");
+  const helpCaret = document.getElementById("caret");
+  let helpOpen = false;
+  document.addEventListener("click", (e) => {
+    if (!e.target.classList.contains("help-menu")) {
+      helpMenuItems.style.transform = "scaleY(0)";
+      helpMenu.removeAttribute("style");
+      helpCaret.removeAttribute("style");
+      helpOpen = false;
+    }
+  });
+  helpMenu.addEventListener("click", () => {
+    if (helpOpen === false) {
+      helpMenuItems.style.transform = "scaleY(1)";
+      helpMenu.style.backgroundColor = "rgba(15, 15, 15, 0.8)";
+      helpCaret.style.transform = "rotate(0deg)";
+      helpOpen = true;
+    } else {
+      helpMenuItems.style.transform = "scaleY(0)";
+      helpMenu.removeAttribute("style");
+      helpCaret.removeAttribute("style");
+      helpOpen = false;
+    }
+  });
   const syear = document.querySelectorAll(".syear");
   const syearr = document.querySelectorAll(".sidelinks");
   syear.forEach((year) => {
@@ -155,16 +155,13 @@ document.addEventListener("DOMContentLoaded", function () {
       }
       for (let i = 1; i <= parseInt(data.menulinks.count); i++) {
         let link = document.createElement("a");
-        let item = document.createElement("li");
-        item.setAttribute("id", "menu" + i);
+        link.setAttribute("id", "menu" + i);
         let propName = "menu" + i;
-        item.textContent = data.menulinks[propName];
+        link.textContent = data.menulinks[propName];
         let proName = "menu" + i + "link";
         link.setAttribute("href", data.menulinks[proName]);
         document.getElementById("menulinks").appendChild(link);
-        link.appendChild(item);
       }
-      document.getElementById("year").textContent = data.year;
     })
     .catch((error) => console.error("Error fetching data:", error));
 });

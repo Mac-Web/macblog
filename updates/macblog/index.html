@@ -22,78 +22,72 @@
     <link rel="stylesheet" href="/macblog/style.css" />
   </head>
   <body>
+    <div class="macsidebar" id="sidebar">
+      <a href="/"><img src="/logo.png" alt="" /></a>
+      <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
+      <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
+      <a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
+      <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
+      <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
+    </div>
     <nav class="nav">
       <a href="/macblog/" class="logo">
         <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
       </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
       <a href="/macblog/posts/" class="nav-link">Posts</a>
-      <a href="/macblog/projects/" class="nav-link">Projects</a>
       <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
       <a href="/macblog/updates/" class="nav-link">Updates</a>
-      <div class="select">
-        <span id="header123">Help</span>
-        <ul id="cats">
-          <a href="/macblog/projects/macblog/">About</a>
-          <a href="/macblog/updates/macblog/">Updates</a>
-          <a href="/macblog/projects/macblog/">Docs</a>
-          <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"
-            >Feedback</a
-          >
-        </ul>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
+              Feedback
+            </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
       </div>
     </nav>
-    <div class="homeheader">
-      <h1 class="title" style="margin: 0">MacBlog Updates</h1>
-      <p class="sub">
-        Check out all the release notes, updates, and changes about MacWeb's
-        information hub: MacBlog!
-      </p>
-    </div>
-    <a href="2024/september.html" style="text-decoration: none">
-      <div class="featured">
-        <div class="section-img">
-          <img src="/MacBlog Logo.png" alt="MacBlog Logo" />
-        </div>
-        <div class="section-text">
-          <h1>MacBlog September Update!</h1>
-          <div class="info">
-            <span class="tag">MacBlog</span><span class="date">9.1.2024</span>
-          </div>
-          <p>New tabs, new pages, new features, and more!</p>
-        </div>
+    <div class="wrap">
+      <div class="hero">
+        <h1 class="hero-title">MacBlog Updates</h1>
+        <p class="hero-des">
+          Check out all the release notes, updates, and changes about MacWeb's
+          information hub: MacBlog!
+        </p>
       </div>
-    </a>
-    <div class="list">
-      <a href="2024/july.html" style="text-decoration: none">
-        <div class="section">
-          <img src="/MacBlog Logo.png" alt="MacBlog Logo" />
-          <h2>MacBlog July Update!</h2>
-          <div class="info">
-            <span class="tag">MacBlog</span><span class="date">7.1.2024</span>
-          </div>
-        </div>
-      </a>
-      <a href="2024/april.html" style="text-decoration: none">
-        <div class="section">
-          <img src="/MacBlog Logo.png" alt="MacBlog Logo" />
-          <h2>MacBlog April Update!</h2>
-          <div class="info">
-            <span class="tag">MacBlog</span><span class="date">4.1.2024</span>
-          </div>
-        </div>
-      </a>
-      <a href="2023/previous.html" style="text-decoration: none">
-        <div class="section">
-          <img src="/MacBlog Logo.png" alt="MacBlog Logo" />
-          <h2>MacBlog Prerelease Log</h2>
-          <div class="info">
-            <span class="tag">MacBlog</span><span class="date">3.1.2024</span>
-          </div>
-        </div>
-      </a>
+      <div class="apps">
+        <a href="2024/september.html" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog September Update</p>
+          <p>9.1.24</p>
+        </a>
+        <a href="2024/july.html" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog July Update</p>
+          <p>7.1.24</p>
+        </a>
+        <a href="2024/april.html" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog April Update</p>
+          <p>4.1.24</p>
+        </a>
+        <a href="2023/previous.html" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog Prerelease Log</p>
+          <p>3.1.24</p>
+        </a>
+      </div>
     </div>
-    <footer>
-      <span>© 2024 MacWeb</span>
+    <footer class="footer">
+      <span>© 2024 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="/macblog/app.js"></script>
   </body>
 </html>

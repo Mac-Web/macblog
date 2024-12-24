@@ -17,10 +17,9 @@
     </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>How We Solved the MacVG 2.0 Progress Lost Issue | MacBlog</title>
+    <title>Apps | MacBlog</title>
     <link rel="icon" type="image/x-icon" href="/logo.png" />
-    <link rel="stylesheet" href="../style.css" />
-    <script src="app.js"></script>
+    <link rel="stylesheet" href="/macblog/style.css" />
   </head>
   <body>
     <div class="macsidebar" id="sidebar">
@@ -56,27 +55,44 @@
       </div>
     </nav>
     <div class="wrap">
-      <h1 class="post-title">
-        How We Solved the MacVG 2.0 Progress Lost Issue
-      </h1>
-      <span class="post-date">12/20/2023</span>
-      <p class="post-paragraph">
-        We recently decided to embed all games using iframes so users can have
-        more games on the screen, more control, and extra features. With the new
-        2.0 update, we introduced a brand-new UI for each game page and updated
-        URLs and links for each game.
-      </p>
-      <p class="post-paragraph">
-        At first, we placed the game HTML files with the new UI outside the
-        original parent folder for the games. This caused local storage access
-        issues due to browser cross-origin problems, resulting in game progress
-        resets. So, we moved the refreshed HTML files inside the games' folders
-        to avoid cross-origin issues and make sure your progress is saved.
-      </p>
-      <p class="post-paragraph">
-        Thanks to this change, your game progress is safe and sound. Enjoy your
-        uninterrupted gaming experience!
-      </p>
+      <div class="hero">
+        <h1 class="hero-title">MacWeb Apps</h1>
+        <p class="hero-des">
+          Check out more information on our apps and future projects here!
+        </p>
+      </div>
+      <div class="apps">
+        <a href="macideas/" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">MacIdeas</p>
+          <p>The productivity app that captures your ideas and thoughts!</p>
+        </a>
+        <a href="maclearn/" class="app">
+          <img src="/MacLearn Logo.png" />
+          <p class="text">MacLearn</p>
+          <p>Learn, strengthen, and master new web development skills!</p>
+        </a>
+        <a href="mactime/" class="app">
+          <img src="/MacTime Logo.png" />
+          <p class="text">MacTime</p>
+          <p>The all in one app that manages your time more effectively.</p>
+        </a>
+        <a href="macvg/" class="app">
+          <img src="/MacVG Logo.png" />
+          <p class="text">MacVG</p>
+          <p>The best gaming platform with hundreds of games.</p>
+        </a>
+        <a href="macblog/" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog</p>
+          <p>The information hub for everything related to our apps.</p>
+        </a>
+        <a href="macweb/" class="app">
+          <img src="/logo.png" />
+          <p class="text">MacWeb</p>
+          <p>Your best internet bud for productivity and entertainment.</p>
+        </a>
+      </div>
     </div>
     <footer class="footer">
       <span>© 2024 <a href="/">MacWeb</a></span>

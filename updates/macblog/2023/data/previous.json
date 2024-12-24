@@ -16,17 +16,15 @@
     "other1": "Revamped and rewritten articles multiple times."
   },
   "menulinks": {
-    "count": "5",
-    "menu1": "Intro",
-    "menu1link": "#home",
-    "menu2": "3.1.2024",
-    "menu2link": "#sh1",
-    "menu3": "1.19.2024",
-    "menu3link": "#sh2",
-    "menu4": "11.30.2023",
-    "menu4link": "#sh3",
-    "menu5": "Others",
-    "menu5link": "#otherslist"
+    "count": "4",
+    "menu1": "3.1.2024",
+    "menu1link": "#sh1",
+    "menu2": "1.19.2024",
+    "menu2link": "#sh2",
+    "menu3": "11.30.2023",
+    "menu3link": "#sh3",
+    "menu4": "Others",
+    "menu4link": "#otherslist"
   },
   "year": "2024"
 }

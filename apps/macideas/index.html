@@ -17,10 +17,9 @@
     </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>How We Solved the MacVG 2.0 Progress Lost Issue | MacBlog</title>
+    <title>MacIdeas | MacBlog</title>
     <link rel="icon" type="image/x-icon" href="/logo.png" />
-    <link rel="stylesheet" href="../style.css" />
-    <script src="app.js"></script>
+    <link rel="stylesheet" href="/macblog/style.css" />
   </head>
   <body>
     <div class="macsidebar" id="sidebar">
@@ -56,27 +55,46 @@
       </div>
     </nav>
     <div class="wrap">
-      <h1 class="post-title">
-        How We Solved the MacVG 2.0 Progress Lost Issue
-      </h1>
-      <span class="post-date">12/20/2023</span>
-      <p class="post-paragraph">
-        We recently decided to embed all games using iframes so users can have
-        more games on the screen, more control, and extra features. With the new
-        2.0 update, we introduced a brand-new UI for each game page and updated
-        URLs and links for each game.
-      </p>
-      <p class="post-paragraph">
-        At first, we placed the game HTML files with the new UI outside the
-        original parent folder for the games. This caused local storage access
-        issues due to browser cross-origin problems, resulting in game progress
-        resets. So, we moved the refreshed HTML files inside the games' folders
-        to avoid cross-origin issues and make sure your progress is saved.
-      </p>
-      <p class="post-paragraph">
-        Thanks to this change, your game progress is safe and sound. Enjoy your
-        uninterrupted gaming experience!
-      </p>
+      <div class="hero">
+        <h1 class="hero-title">MacIdeas</h1>
+        <p class="hero-des">
+          MacIdeas is the ultimate productivity tool for capturing and writing
+          down your ideas, thoughts, and anything! With the integration of
+          tasks, notes, drawings, and more, you can manage your imagination and
+          thoughts easily!
+        </p>
+      </div>
+      <h2 class="section-title">Tips and Documentation</h2>
+      <div class="apps">
+        <a href="manual.html" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">Capturing Your Thoughts Using MacIdeas</p>
+        </a>
+        <a href="" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">Other Recources and Info about MacIdeas</p>
+        </a>
+      </div>
+      <h2 class="section-title">Updates</h2>
+      <div class="apps">
+        <a href="/macblog/updates/macideas/2024/november.html" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">MacIdeas November Update</p>
+        </a>
+        <a href="/macblog/updates/macideas/2024/september.html" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">MacIdeas September Update</p>
+        </a>
+        <a href="/macblog/updates/macideas/2024/july.html" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">MacIdeas July Update</p>
+        </a>
+        <a href="/macblog/updates/macideas/2024/release.html" class="app">
+          <img src="/MacIdeas Logo.png" />
+          <p class="text">MacIdeas June Release</p>
+        </a>
+        <a href="/macblog/updates/macideas/" class="action-btn">View All</a>
+      </div>
     </div>
     <footer class="footer">
       <span>© 2024 <a href="/">MacWeb</a></span>
