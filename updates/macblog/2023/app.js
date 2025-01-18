@@ -30,14 +30,11 @@ document.addEventListener("DOMContentLoaded", function () {
   sidebarmain.innerHTML = `<a href="/"><img src="/logo.png" alt="" /></a>
   <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
 <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
-<a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
+<a href="/mactools/"><img src="/MacTools Logo.png" alt="" /></a>
 <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
 <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>`;
   document.addEventListener("mousemove", function (event) {
-    if (
-      event.clientX <= 5 &&
-      sidebarmain.classList.contains("movingbar") !== true
-    ) {
+    if (event.clientX <= 5 && sidebarmain.classList.contains("movingbar") !== true) {
       sidebarmain.classList.add("movingbar");
     }
   });
@@ -62,6 +59,10 @@ document.addEventListener("DOMContentLoaded", function () {
       <a href="/macblog/updates/macblog/2024/july.html"><li>July Update</li></a>
       <a href="/macblog/updates/macblog/2024/september.html"><li>September Update</li></a>
     </div>
+      <li class="syear">2025</li>
+      <div class="sidelinks">
+        <a href="/macblog/updates/macblog/2025/winter.html"><li>Winter Update</li></a>
+      </div>
   </ul>
   <div class="content">
     <article class="article">

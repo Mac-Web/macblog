@@ -2,10 +2,7 @@
 <html lang="en">
   <head>
     <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"
-    ></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -27,7 +24,7 @@
       <a href="/"><img src="/logo.png" alt="" /></a>
       <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
       <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
-      <a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
+      <a href="/mactools/"><img src="/MacTools Logo.png" alt="" /></a>
       <a href="/macvg/"><img src="/MacVG Logo.png" alt="" /></a>
       <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
     </div>
@@ -47,48 +44,60 @@
             <a href="/macblog/apps/macblog/">About</a>
             <a href="/macblog/updates/macblog/">Updates</a>
             <a href="/macblog/apps/macblog/">Docs</a>
-            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
-              Feedback
-            </a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"> Feedback </a>
           </ul>
         </div>
         <img src="/profile.svg" class="profile" id="profile" />
       </div>
     </nav>
+    <div class="modal-background">
+      <div class="modal">
+        <h2 class="modal-title">MacBlog Winter Update</h2>
+        <img src="./update.png" class="modal-img" />
+        <p class="modal-des">
+          With a huge redesign & refresh, new content, fixes and improvements, and more, the MacBlog Winter Update is here!
+        </p>
+        <a href="/macblog/updates/macblog/2025/winter.html" class="modal-link" target="_blank"> What's new </a>
+      </div>
+    </div>
+    <script>
+      let updateModal = document.querySelector(".modal-background");
+      if (localStorage.macblogmodal) {
+        updateModal.style.display = "none";
+      }
+    </script>
     <div class="wrap">
       <div class="hero">
         <h1 class="hero-title">Welcome to MacBlog!</h1>
-        <p class="hero-des">
-          MacBlog keeps you in the loop with info and updates about our apps.
-        </p>
+        <p class="hero-des">MacBlog keeps you in the loop with info and updates about our apps.</p>
       </div>
       <h2 class="section-title">Latest News</h2>
       <div class="apps">
         <a href="updates/macvg/2025/winter.html" class="app">
           <img src="/MacVG Logo.png" />
           <p class="text">MacVG Winter Update</p>
-          <p>Version 3.0, new games, and more.</p>
+          <p>1.1.25</p>
         </a>
-        <a href="updates/maclearn/2024/november.html" class="app">
+        <a href="updates/mactools/2025/winter.html" class="app">
+          <img src="/MacTools Logo.png" />
+          <p class="text">MacTools Winter Update</p>
+          <p>2.1.24</p>
+        </a>
+        <a href="updates/maclearn/2025/winter.html" class="app">
           <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn November Update!</p>
-          <p>Redesign, new courses, and more.</p>
+          <p class="text">MacLearn Winter Update</p>
+          <p>2.1.24</p>
         </a>
-        <a href="updates/macvg/2024/november.html" class="app">
-          <img src="/MacVG Logo.png" />
-          <p class="text">MacVG November Update!</p>
-          <p>New games, fixes, and more.</p>
-        </a>
-        <a href="updates/mactime/2024/november.html" class="app">
-          <img src="/MacTime Logo.png" />
-          <p class="text">MacTime November Update</p>
-          <p>Redesign, new features, and more.</p>
+        <a href="updates/macblog/2025/winter.html" class="app">
+          <img src="/MacBlog Logo.png" />
+          <p class="text">MacBlog Winter Update</p>
+          <p>2.1.24</p>
         </a>
       </div>
       <h2 class="section-title">Explore our categories</h2>
       <div class="apps">
         <a href="posts/" class="app">
-          <img src="/MacTime Logo.png" />
+          <img src="/MacTools Logo.png" />
           <p class="text">MacWeb Posts</p>
           <p>Tips, announcements, and other stuff.</p>
         </a>
@@ -120,58 +129,34 @@
       </div>
       <h2 class="section-title">Have feedback? Submit them here!</h2>
       <div class="apps">
-        <a
-          href="https://forms.gle/fpMRFAcJU28VLpwt9"
-          target="_blank"
-          class="app"
-        >
+        <a href="https://forms.gle/fpMRFAcJU28VLpwt9" target="_blank" class="app">
           <img src="/MacIdeas Logo.png" />
           <p class="text">MacIdeas</p>
         </a>
-        <a
-          href="https://forms.gle/P5QfiZFgZ3KURdbJ8"
-          target="_blank"
-          class="app"
-        >
+        <a href="https://forms.gle/P5QfiZFgZ3KURdbJ8" target="_blank" class="app">
           <img src="/MacLearn Logo.png" />
           <p class="text">MacLearn</p>
         </a>
-        <a
-          href="https://forms.gle/dWn2LQ2Bdzn6GaLEA"
-          target="_blank"
-          class="app"
-        >
-          <img src="/MacTime Logo.png" />
-          <p class="text">MacTime</p>
+        <a href="https://forms.gle/dWn2LQ2Bdzn6GaLEA" target="_blank" class="app">
+          <img src="/MacTools Logo.png" />
+          <p class="text">MacTools</p>
         </a>
-        <a
-          href="https://forms.gle/UpHgbAmLtUPCD5bs8"
-          target="_blank"
-          class="app"
-        >
+        <a href="https://forms.gle/UpHgbAmLtUPCD5bs8" target="_blank" class="app">
           <img src="/MacVG Logo.png" />
           <p class="text">MacVG</p>
         </a>
-        <a
-          href="https://forms.gle/8ATGPGkr7mqKrJ1e9"
-          target="_blank"
-          class="app"
-        >
+        <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank" class="app">
           <img src="/MacBlog Logo.png" />
           <p class="text">MacBlog</p>
         </a>
-        <a
-          href="https://forms.gle/iacBWZAYAizBsfyt9"
-          target="_blank"
-          class="app"
-        >
+        <a href="https://forms.gle/iacBWZAYAizBsfyt9" target="_blank" class="app">
           <img src="/logo.png" />
           <p class="text">MacWeb</p>
         </a>
       </div>
     </div>
     <footer class="footer">
-      <span>© 2024 <a href="/">MacWeb</a></span>
+      <span>© 2025 <a href="/">MacWeb</a></span>
     </footer>
   </body>
 </html>

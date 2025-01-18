@@ -1,0 +1,48 @@
+{
+  "title": "MacTools v.2.0 Winter Update",
+  "date": "2.1.2025",
+  "description": "This huge update basically turned MacTools into a new app: renamed it from MacTime to MacTools, new utilities, new features, a bunch of changes, fixes, and more! MacTime was only about tools on time mangement, but MacTools expands the scope to utilities on many aspects like math, text, time, and more! This app is no longer a time app, but a helpful companion that provides a tool for anything you need!",
+  "mainarticles": {
+    "count": "6",
+    "sh1": "RENAMED APP!",
+    "p1": "MacTime, the old app, was already good enough with a bunch of powerful tabs and features. But we didn't feel satisfied. That's why we've expanded the scope of the new app, called MacTools, to a place where you can find all sorts of tools and utilities, not just for time, but for general needs like math, text, time, and more coming in the future. That's also why we renamed the app to MacTools, a place for tools. We're really excited to make this change because MacTools can serve you and more people with a bunch of new tools on different needs instead of just time mangement utilities. We also changed the logo from a clock to a wrench and a hammer, representing tools 🔨! (Note that this is a very big change, so there's still some work in progress across the MacWeb platform.)",
+    "sh2": "NEW MATH UTILITIES!",
+    "p2": "Developing math utilities is one of our focuses in this version 2.0 update and expanding the scope of the new app. No matter who you are, an algebra student or a professional engineer, you can use MacTool's new math calculators to get your work done. We're introducing the Algebra Formulas Calculator (distance and quadratic formula and slope of line), the Unit Converter (data and temperature), Geometry Formulas Calculator (area and other properties on a variety of shapes), and the Geometric Sequences Calculator (sum of terms and last term). We hope to bring a little more convenience with math using these brand new tools and calculators ➗!",
+    "sh3": "NEW TEXT UTILITIES!",
+    "p3": "Creating text utilities is another one of our focuses in this version 2.0 update and expanding the scope of the new app. We're bringing 3 convenient text tools in this update: Cipher Decoder and Encoder (Atbash, Caesar, and Vigenere) and the Text Formatter, where you can do all sorts of formatting and modifying with text. You can crack/create codes or make your text look however you want with these new tools 💬!",
+    "sh4": "TIME UTILITIES CHANGES!",
+    "p4": "Because we're adding so many new tools and features, we organized the original time tools into a Time Dropdown where you can access all the original tabs, except for Calendar. We moved the Calendar from MacTime to MacIdeas recently, because we thought Calendar matched with MacIdeas' productivity theme better and doesn't really fit in the tools theme of the new MacTools. We also did some slight modifications and fixes on the original time utilities ⌚.",
+    "sh5": "NEW TAB: Tools!",
+    "p5": "To make it easier and more convenient to browse all our wide range of new tools, we made a new Tools Tab where you can find all the tool categories, utilities, and sections on MacTools. Easily find the tool you need and get things done with the new Tools tab ✅!",
+    "sh6": "CONTENT IMPROVEMENTS!",
+    "p6": "With all these new tools and utilities, we had to update the content of the app a lot. We updated the homepage so you can easily browse all our tools and the featured utilities, and we also removed the widget pinning feature on the homepage because of all the new tools. We'll bring the widget pinning feature back in the future with the Widgets tab. We also updated the navigation bar with many dropdowns to organize all the tools and enhance the browsing experience on MacTools. We also optimized a bunch of code and files so everything runs faster and more smoothly 🔥."
+  },
+  "others": {
+    "count": "5",
+    "other1": "New appearance.",
+    "other2": "Updated navigation bar tabs and dropdowns.",
+    "other3": "Updated general appearance throughout the whole app.",
+    "other4": "Minor appearance and functionality fixes on some tabs.",
+    "other5": "Updated navigation and homepage content."
+  },
+  "menulinks": {
+    "count": "8",
+    "menu1": "Intro",
+    "menu1link": "#home",
+    "menu2": "Renamed App",
+    "menu2link": "#sh1",
+    "menu3": "New Math Utilities",
+    "menu3link": "#sh2",
+    "menu4": "New Text Utilities",
+    "menu4link": "#sh3",
+    "menu5": "Time Utilities Changes",
+    "menu5link": "#sh4",
+    "menu6": "New Tab: Tools",
+    "menu6link": "#sh5",
+    "menu7": "Content Improvements",
+    "menu7link": "#sh5",
+    "menu8": "Others",
+    "menu8link": "#otherslist"
+  },
+  "year": "2025"
+}

@@ -44,23 +44,17 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(sidebarmain);
   const wrappermain = document.createElement("div");
   wrappermain.classList.add("wrapp");
-  wrappermain.innerHTML = `
-  <ul class="sidebar">
-    <h2 class="sidebar-title">MacLearn Updates</h2>
-    <li class="syear">2024</li>
-    <div class="sidelinks">
-    <a href="/macblog/updates/maclearn/2024/anniversary.html"><li>Anniversary Update</li></a>
-    <a href="/macblog/updates/maclearn/2024/march.html"><li>March Update</li></a>
-    <a href="/macblog/updates/maclearn/2024/april.html"><li>April Update</li></a>
-    <a href="/macblog/updates/maclearn/2024/july.html"><li>July Update</li></a>
-    <a href="/macblog/updates/maclearn/2024/september.html"><li>September Update</li></a>
-    <a href="/macblog/updates/maclearn/2024/november.html"><li>November Update</li></a>
-    </div>
+  wrappermain.innerHTML = `<ul class="sidebar">
+      <h2 class="sidebar-title">MacTools Updates</h2>
+      <li class="syear">2024</li>
+      <div class="sidelinks">
+      <a href="/macblog/updates/mactools/2024/january.html"><li>January Update</li></a><a href="/macblog/updates/mactools/2024/february.html"><li>February Update</li></a><a href="/macblog/updates/mactools/2024/march.html"><li>March Update</li></a><a href="/macblog/updates/mactools/2024/april.html"><li>April Update</li></a><a href="/macblog/updates/mactools/2024/july.html"><li>July Update</li></a><a href="/macblog/updates/mactools/2024/november.html"><li>November Update</li></a>
+      </div>
       <li class="syear">2025</li>
       <div class="sidelinks">
-      <a href="/macblog/updates/maclearn/2025/winter.html"><li>Winter Update</li></a>
+      <a href="/macblog/updates/mactools/2025/winter.html"><li>Winter Update</li></a>
       </div>
-  </ul>
+    </ul>
   <div class="content">
     <article class="article">
       <h1 class="article-title" id="title"></h1>

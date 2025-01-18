@@ -1,0 +1,29 @@
+{
+  "title": "MacIdeas v.1.5 Winter Update!",
+  "date": "2.1.2024",
+  "description": "The MacIdeas v.1.5 Winter Update is here! With the refreshed redesign look, the brand new Calendar Tab, and more features and improvements! Check out what's new to MacIdeas this update below:",
+  "mainarticles": {
+    "count": "2",
+    "sh1": "REDESIGNED & REFRESHED",
+    "p1": "MacIdeas was a completely different app, Ify, a year ago, so it has a lot of outdated design, styling, and appearance. With the recent release of MacWeb Site Material 5.0, we've decided to use this opportunity to completely redesign the looks and layouts of MacIdeas using MacWeb Site Material 5.0. We made it so that the platform looks more consitent from page to page, more modern, and focuses your attention on the important information and your tasks. We also made the user experience more intuitive and easier to navigate. From now on, you can enjoy a sleeker, more modern, organized, appealing, useful, and intuitive experience when using MacIdeas 💡!",
+    "sh2": "NEW TAB: Calendar!",
+    "p2": "Recently, we renamed our time app, MacTime, to MacTools with a bunch of new features and new tabs, and the app now focuses on small utilitiy tools instead of productivity apps. Because of this, we've moved the Calendar tab from MacTools to MacIdeas because MacIdeas is all about making your ideas come to life and making you more productive with your tasks and work. With the new Calendar tab now in MacIdeas, you can keep track of all your events, tasks, and more all in one place along with other productivity tools! This will make MacIdeas more powerful than ever and we'll integrate tasks and lists with Calendar in the future 📅!"
+  },
+  "others": {
+    "count": "3",
+    "other1": "Changed update announcement to a modal to match with MacWeb Site Material 5.0.",
+    "other2": "Minor appearance updates.",
+    "other3": "Minor bug fixes."
+  },
+  "menulinks": {
+    "count": "4",
+    "menu1": "Intro",
+    "menu1link": "#home",
+    "menu2": "Redesign",
+    "menu2link": "#sh1",
+    "menu3": "New Tab: Calendar",
+    "menu3link": "#sh2",
+    "menu4": "Others",
+    "menu4link": "#otherslist"
+  }
+}

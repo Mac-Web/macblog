@@ -1,0 +1,33 @@
+{
+  "title": "MacLearn v.0.25 Winter Update",
+  "date": "2.1.2025",
+  "description": "This huge update is yet another big step towards MacLearn's version 1.0. With this update, we've completed applying the Site Material 5.0 redesign across the entire platform and every single page, updated site content, improved and fixed a bunch of stuff, and so much more! Here are what we changed in this crazy update:",
+  "mainarticles": {
+    "count": "2",
+    "sh1": "REDESIGN COMPLETED!",
+    "p1": "Since last update, we've been hard at work to complete applying the new Site Material 5.0 redesign across the entire platform to improve usability, visual appearance, and overall performance of MacLearn. In this update, we updated every HTML tutorial page to give them the cleaner better redesigned view and interface. We also applied the redesign to every HTML and CSS quiz page and some other pages on MacLearn to ensure everything works properly and look unified 🔥!",
+    "sh2": "CONTENT IMPROVEMENTS!",
+    "p2": "To ensure each page works as expected with the new Site Material 5.0 redesign, we updated every HTML tutorial page's content and user interface. We also temporarily removed the Save, Report, and Share features to make sure the platform doesn't break. Don't worry, they'll come back next update or in the near future. We also fixed a bunch of appearance bugs and updated some site appearance on older pages to match with the redesign. We removed some unneccesary files and code and optimized some code as well. We also changed the update announcement modal with a new thumbnail image and layout to match with MacWeb's design system 💪."
+  },
+  "others": {
+    "count": "5",
+    "other1": "Updated some interactive Code Labs.",
+    "other2": "Updated some tutorials' content.",
+    "other3": "Fixed broken styling and layouts on older pages.",
+    "other4": "Removed extra code and files.",
+    "other5": "Appearance and functionality changes.",
+    "other6": "Minor bug fixes."
+  },
+  "menulinks": {
+    "count": "4",
+    "menu1": "Intro",
+    "menu1link": "#home",
+    "menu2": "Redesign Completed",
+    "menu2link": "#sh1",
+    "menu3": "Content Improvements",
+    "menu3link": "#sh2",
+    "menu4": "Others",
+    "menu4link": "#otherslist"
+  },
+  "year": "2025"
+}
