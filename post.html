@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link rel="shortcut icon" href="/logo.png" type="image/x-icon" class="favicon" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="macsidebar" id="sidebar">
+      <a href="/"><img src="/logo.png" /></a>
+      <a href="/macideas/"><img src="/MacIdeas Logo.png" /></a>
+      <a href="/maclearn/"><img src="/MacLearn Logo.png" /></a>
+      <a href="/mactools/"><img src="/MacTools Logo.png" /></a>
+      <a href="/macvg/"><img src="/MacVG Logo.png" /></a>
+      <a href="/macblog/"><img src="/MacBlog Logo.png" /></a>
+    </div>
+    <nav class="nav">
+      <a href="/macblog/" class="logo">
+        <img src="/macblog/macblog-logo.png" alt="MacBlog Logo" />
+      </a>
+      <a href="/macblog/apps/" class="nav-link">Apps</a>
+      <a href="/macblog/posts/" class="nav-link">Posts</a>
+      <a href="/macblog/roadmap/" class="nav-link">Roadmap</a>
+      <a href="/macblog/updates/" class="nav-link">Updates</a>
+      <div class="right">
+        <div class="select help-menu" id="help-menu">
+          <span id="header123" class="help-menu">Help</span>
+          <img src="/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="help-menu" style="transform: scaleY(0)">
+            <a href="/macblog/apps/macblog/">About</a>
+            <a href="/macblog/updates/macblog/">Updates</a>
+            <a href="/macblog/apps/macblog/">Docs</a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"> Feedback </a>
+          </ul>
+        </div>
+        <img src="/profile.svg" class="profile" id="profile" />
+      </div>
+    </nav>
+    <div class="wrapp">
+      <ul class="sidebar" id="post-sidebar">
+        <h2 class="sidebar-title" id="sidebar-title"></h2>
+      </ul>
+      <div class="content">
+        <article class="article">
+          <h1 class="article-title" id="title"></h1>
+          <h3 class="author"><span class="date" id="date"></span><span id="author"></span></h3>
+          <hr />
+          <p class="main-art" id="description"></p>
+          <div class="table-contents">
+            <h2 class="stitle">Table of Contents</h2>
+            <div id="menulinks"></div>
+          </div>
+          <div id="paragraphs"></div>
+          <b class="bold">Other Improvements, Changes, and Fixes include:</b>
+          <ul id="otherslist"></ul>
+          <footer>© 2025 <a href="/">MacWeb</a></footer>
+        </article>
+      </div>
+    </div>
+    <script>
+      let newArray = [];
+      const params = new URLSearchParams(window.location.search);
+      const targetUrl = params.get("post");
+      if (!targetUrl) window.location.href = "/macblog/";
+      const sidebar = document.getElementById("post-sidebar");
+      const sidebarTitle = document.getElementById("sidebar-title");
+      const title = document.getElementById("title");
+      const date = document.getElementById("date");
+      const author = document.getElementById("author");
+      const description = document.getElementById("description");
+      const menuLinks = document.getElementById("menulinks");
+      const paragraphs = document.getElementById("paragraphs");
+      const othersList = document.getElementById("otherslist");
+      fetch("posts.json")
+        .then((response) => response.json())
+        .then((data) => {
+          newArray = data;
+          newArray.forEach((post) => {
+            if (post.id === parseInt(targetUrl)) {
+              let processedDate = post.date.split("-");
+              let postContent = post.content;
+              document.getElementsByTagName("title")[0].innerHTML = post.title + " | MacBlog";
+              //Above is code for setting things up
+              let matchingPosts = newArray.filter((postt) => postt.category === post.category && postt.app === post.app);
+              const groupedByYear = matchingPosts.reduce((acc, post) => {
+                const year = post.date.slice(0, 4);
+                if (!acc[year]) {
+                  acc[year] = [];
+                }
+                acc[year].push(post);
+                return acc;
+              }, {});
+              Object.entries(groupedByYear).forEach(([year, posts]) => {
+                const newYear = document.createElement("h3");
+                newYear.classList.add("syear");
+                newYear.innerHTML = year;
+                newYear.addEventListener("click", () => {
+                  newYear.nextSibling.classList.toggle("yearclose");
+                });
+                sidebar.appendChild(newYear);
+                const sideLinks = document.createElement("div");
+                sideLinks.classList.add("sidelinks");
+                sidebar.appendChild(sideLinks);
+                posts.forEach((post) => {
+                  const a = document.createElement("a");
+                  a.href = `/macblog/post.html?post=${post.id}`;
+                  a.innerHTML = post.sidetitle ? post.sidetitle : post.title.replace(post.app, "");
+                  sideLinks.appendChild(a);
+                });
+              });
+              sidebarTitle.innerHTML = post.app + " " + post.category + "s";
+              //Above is code for generating sidebar links
+              title.innerHTML = post.title;
+              date.innerHTML = `${processedDate[1]}/${processedDate[2]}/${processedDate[0]}`;
+              author.innerHTML = "By " + post.author;
+              description.innerHTML = postContent.description;
+              postContent.menulinks.forEach((link, index) => {
+                const a = document.createElement("a");
+                a.href = `#st${index}`;
+                a.innerHTML = link;
+                if (index == postContent.menulinks.length - 1) {
+                  a.innerHTML = "Others";
+                  a.href = "#otherslist";
+                }
+                menulinks.appendChild(a);
+              });
+              postContent.paragraphs.forEach((paragraph, index) => {
+                const b = document.createElement("b");
+                b.className = "bold";
+                b.id = `st${index}`;
+                b.innerHTML = paragraph.title;
+                const p = document.createElement("p");
+                p.className = "main-art";
+                p.innerHTML = paragraph.content;
+                paragraphs.appendChild(b);
+                paragraphs.appendChild(p);
+              });
+              postContent.others.forEach((other) => {
+                const li = document.createElement("li");
+                li.innerHTML = other;
+                othersList.appendChild(li);
+              });
+              //Above is code for generating the actual post content
+            }
+          });
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+      //Above is code for generating the postdocument.addEventListener("DOMContentLoaded", function () {
+      const bar = document.getElementById("sidebar");
+      const helpMenuItems = document.getElementById("cats");
+      const helpMenu = document.getElementById("help-menu");
+      const helpCaret = document.getElementById("caret");
+      let helpOpen = false;
+      document.addEventListener("click", function () {
+        bar.classList.remove("movingbar");
+      });
+      document.addEventListener("mousemove", function (event) {
+        if (event.clientX <= 5 && bar.classList.contains("movingbar") !== true) {
+          bar.classList.add("movingbar");
+        }
+      });
+      document.addEventListener("click", (e) => {
+        if (!e.target.classList.contains("help-menu")) {
+          helpMenuItems.style.transform = "scaleY(0)";
+          helpMenu.removeAttribute("style");
+          helpCaret.removeAttribute("style");
+          helpOpen = false;
+        }
+      });
+      helpMenu.addEventListener("click", () => {
+        if (helpOpen === false) {
+          helpMenuItems.style.transform = "scaleY(1)";
+          helpMenu.style.backgroundColor = "rgba(15, 15, 15, 0.8)";
+          helpCaret.style.transform = "rotate(0deg)";
+          helpOpen = true;
+        } else {
+          helpMenuItems.style.transform = "scaleY(0)";
+          helpMenu.removeAttribute("style");
+          helpCaret.removeAttribute("style");
+          helpOpen = false;
+        }
+      });
+      //Above is code for the sidebar and help menu
+    </script>
+  </body>
+</html>

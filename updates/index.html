@@ -57,32 +57,38 @@
           features, changes, and more from here!
         </p>
       </div>
-      <div class="apps">
-        <a href="macvg/2025/winter.html" class="app">
-          <img src="/MacVG Logo.png" />
-          <p class="text">MacVG Winter Update</p>
-          <p>1.1.25</p>
-        </a>
-        <a href="mactools/2025/winter.html" class="app">
-          <img src="/MacTools Logo.png" />
-          <p class="text">MacTools Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-        <a href="maclearn/2025/winter.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-        <a href="macblog/2025/winter.html" class="app">
-          <img src="/MacBlog Logo.png" />
-          <p class="text">MacBlog Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-      </div>
+      <div class="apps" id="updates"></div>
     </div>
     <footer class="footer">
-      <span>© 2024 <a href="/">MacWeb</a></span>
+      <span>© 2025 <a href="/">MacWeb</a></span>
     </footer>
+    <script>
+      let newArray = [];
+      const updates = document.getElementById("updates");
+      fetch("/macblog/posts.json")
+        .then((response) => response.json())
+        .then((data) => {
+          newArray = data;
+          newArray = newArray.sort((a, b) => {
+            return new Date(b.date) - new Date(a.date);
+          });
+          newArray
+            .filter((post) => post.category === "Update")
+            .slice(0, 4)
+            .forEach((post) => {
+              const app = document.createElement("a");
+              let processedDate = post.date.split("-");
+              app.href = "/macblog/post.html?post=" + post.id;
+              app.classList.add("app");
+              app.innerHTML = `
+            <img src="/${post.app} Logo.png" />
+            <p class="text">${post.sidetitle ? post.sidetitle : post.title}</p>
+            <p>${processedDate[1]}/${processedDate[2]}/${processedDate[0]}</p>`;
+              updates.appendChild(app);
+            });
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    </script>
     <script src="/macblog/app.js"></script>
   </body>
 </html>

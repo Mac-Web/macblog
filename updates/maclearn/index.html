@@ -2,10 +2,7 @@
 <html lang="en">
   <head>
     <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"
-    ></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -46,9 +43,7 @@
             <a href="/macblog/apps/macblog/">About</a>
             <a href="/macblog/updates/macblog/">Updates</a>
             <a href="/macblog/apps/macblog/">Docs</a>
-            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
-              Feedback
-            </a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"> Feedback </a>
           </ul>
         </div>
         <img src="/profile.svg" class="profile" id="profile" />
@@ -58,46 +53,18 @@
       <div class="hero">
         <h1 class="hero-title">MacLearn Updates</h1>
         <p class="hero-des">
-          Check out all the release notes, updates, and changes about the best
-          online learning platform: MacLearn!
+          Check out all the release notes, updates, and changes about the best online learning platform: MacLearn!
         </p>
       </div>
-      <div class="apps">
-        <a href="2024/november.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn November Update</p>
-          <p>11.1.24</p>
-        </a>
-        <a href="2024/september.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn September Update</p>
-          <p>9.1.24</p>
-        </a>
-        <a href="2024/july.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn July Update</p>
-          <p>7.1.24</p>
-        </a>
-        <a href="2024/april.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn April Update</p>
-          <p>4.1.24</p>
-        </a>
-        <a href="2024/march.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn March Update</p>
-          <p>3.1.24</p>
-        </a>
-        <a href="2024/anniversary.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn Anniversary Update</p>
-          <p>2.11.24</p>
-        </a>
-      </div>
+      <div class="apps" id="updates"></div>
     </div>
     <footer class="footer">
-      <span>© 2024 <a href="/">MacWeb</a></span>
+      <span>© 2025 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="../appUpdates.js"></script>
+    <script>
+      renderUpdates("MacLearn");
+    </script>
     <script src="/macblog/app.js"></script>
   </body>
 </html>

@@ -53,7 +53,7 @@
     <div class="modal-background">
       <div class="modal">
         <h2 class="modal-title">MacBlog Winter Update</h2>
-        <img src="./update.png" class="modal-img" />
+        <img src="./media/update.png" class="modal-img" />
         <p class="modal-des">
           With a huge redesign & refresh, new content, fixes and improvements, and more, the MacBlog Winter Update is here!
         </p>
@@ -72,28 +72,7 @@
         <p class="hero-des">MacBlog keeps you in the loop with info and updates about our apps.</p>
       </div>
       <h2 class="section-title">Latest News</h2>
-      <div class="apps">
-        <a href="updates/macvg/2025/winter.html" class="app">
-          <img src="/MacVG Logo.png" />
-          <p class="text">MacVG Winter Update</p>
-          <p>1.1.25</p>
-        </a>
-        <a href="updates/mactools/2025/winter.html" class="app">
-          <img src="/MacTools Logo.png" />
-          <p class="text">MacTools Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-        <a href="updates/maclearn/2025/winter.html" class="app">
-          <img src="/MacLearn Logo.png" />
-          <p class="text">MacLearn Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-        <a href="updates/macblog/2025/winter.html" class="app">
-          <img src="/MacBlog Logo.png" />
-          <p class="text">MacBlog Winter Update</p>
-          <p>2.1.24</p>
-        </a>
-      </div>
+      <div class="apps" id="updates"></div>
       <h2 class="section-title">Explore our categories</h2>
       <div class="apps">
         <a href="posts/" class="app">
@@ -158,5 +137,29 @@
     <footer class="footer">
       <span>© 2025 <a href="/">MacWeb</a></span>
     </footer>
+    <script>
+      let newArray = [];
+      const updates = document.getElementById("updates");
+      fetch("/macblog/posts.json")
+        .then((response) => response.json())
+        .then((data) => {
+          newArray = data;
+          newArray = newArray.sort((a, b) => {
+            return new Date(b.date) - new Date(a.date);
+          });
+          newArray.slice(0, 4).forEach((post) => {
+            const app = document.createElement("a");
+            let processedDate = post.date.split("-");
+            app.href = "/macblog/post.html?post=" + post.id;
+            app.classList.add("app");
+            app.innerHTML = `
+            <img src="/${post.app} Logo.png" />
+            <p class="text">${post.title}</p>
+            <p>${processedDate[1]}/${processedDate[2]}/${processedDate[0]}</p>`;
+            updates.appendChild(app);
+          });
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    </script>
   </body>
 </html>

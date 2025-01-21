@@ -2,10 +2,7 @@
 <html lang="en">
   <head>
     <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"
-    ></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FT223HSV3Z"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -46,9 +43,7 @@
             <a href="/macblog/apps/macblog/">About</a>
             <a href="/macblog/updates/macblog/">Updates</a>
             <a href="/macblog/apps/macblog/">Docs</a>
-            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank">
-              Feedback
-            </a>
+            <a href="https://forms.gle/8ATGPGkr7mqKrJ1e9" target="_blank"> Feedback </a>
           </ul>
         </div>
         <img src="/profile.svg" class="profile" id="profile" />
@@ -57,47 +52,17 @@
     <div class="wrap">
       <div class="hero">
         <h1 class="hero-title">MacWeb Updates</h1>
-        <p class="hero-des">
-          Check out all the release notes, updates, and changes about your
-          all-in-one online app here!
-        </p>
+        <p class="hero-des">Check out all the release notes, updates, and changes about your all-in-one online app here!</p>
       </div>
-      <div class="apps">
-        <a href="2024/site-material-5.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">Site Material 5.0</p>
-          <p>10.25.24</p>
-        </a>
-        <a href="2024/site-material-3.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">Site Material 3.0</p>
-          <p>5.1.24</p>
-        </a>
-        <a href="2024/site-material-2_1.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">Site Material 2.1</p>
-          <p>3.16.24</p>
-        </a>
-        <a href="2024/site-material-2.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">Site Material 2.0</p>
-          <p>1.19.24</p>
-        </a>
-        <a href="2023/nav.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">Site Material 1.5</p>
-          <p>11.28.23</p>
-        </a>
-        <a href="2023/pre.html" class="app">
-          <img src="/logo.png" />
-          <p class="text">MacWeb Prerelease Log</p>
-          <p>11.6.23</p>
-        </a>
-      </div>
+      <div class="apps" id="updates"></div>
     </div>
     <footer class="footer">
-      <span>© 2024 <a href="/">MacWeb</a></span>
+      <span>© 2025 <a href="/">MacWeb</a></span>
     </footer>
+    <script src="../appUpdates.js"></script>
+    <script>
+      renderUpdates("MacWeb");
+    </script>
     <script src="/macblog/app.js"></script>
   </body>
 </html>
