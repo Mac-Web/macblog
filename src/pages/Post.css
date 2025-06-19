@@ -1,0 +1,191 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.post-wrap {
+  width: 100%;
+  display: flex;
+  padding-bottom: 50px;
+  background-color: var(--primary-bg);
+}
+
+.sidebar {
+  height: calc(100vh - 70px);
+  min-width: 230px;
+  max-width: 230px;
+  list-style-type: none;
+  padding-bottom: 60px;
+  margin-left: 80px;
+  padding-right: 20px;
+  position: sticky;
+  top: 70px;
+  overflow: auto;
+}
+
+.sidebar-title {
+  color: var(--primary-text);
+  font-size: 20px;
+  padding-block: 30px;
+  padding-left: 20px;
+  box-sizing: content-box;
+}
+
+.sidebar a,
+.syear {
+  text-decoration: none;
+  display: block;
+  padding-block: 10px;
+  padding-inline: 20px;
+  border-radius: 5px;
+  width: 100%;
+  color: var(--secondary-text);
+  margin-bottom: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.syear {
+  font-weight: bold;
+  padding-block: 15px;
+}
+
+.yearclose {
+  height: 0px;
+  box-sizing: content-box;
+  position: relative;
+}
+
+.yearclose a {
+  display: none;
+  padding: 0;
+}
+
+.sidebar a:hover {
+  background-color: var(--secondary-bg);
+}
+
+.content {
+  width: calc(100% - 200px);
+}
+
+.table-contents {
+  margin-block: 30px;
+}
+
+.main-art {
+  margin-top: 40px;
+  color: var(--secondary-text);
+}
+
+.menu-links a {
+  text-decoration: none;
+  display: block;
+  color: var(--secondary-text);
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+.menu-links a:hover {
+  text-decoration: underline;
+}
+
+.sidebar-menu {
+  display: none;
+}
+
+.article {
+  margin-right: 100px;
+  margin-left: 50px;
+  color: var(--secondary-text);
+}
+
+.paragraph-content {
+  padding: 20px;
+  padding-inline: 0;
+  font-size: 18px;
+  color: var(--secondary-text);
+  line-height: 28px;
+  margin-top: 0 !important;
+}
+
+.article-hr {
+  width: 100%;
+  margin-inline: 0;
+  height: 5px;
+  border: none;
+  background-color: var(--primary-color);
+  border-radius: 20px;
+}
+
+.article ul {
+  list-style-position: inside;
+}
+
+.article-subheading {
+  color: var(--primary-text);
+  padding-block: 30px;
+  font-size: 25px;
+}
+
+.author {
+  padding-inline: 0;
+  color: var(--secondary-text);
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  padding-block: 10px;
+}
+
+.paragraph-title {
+  padding-block: 30px;
+  display: block;
+  font-size: 28px;
+  color: var(--primary-text);
+}
+
+.post-title {
+  color: var(--primary-text);
+  font-size: 35px;
+  line-height: 50px;
+  text-align: center;
+  padding-block: 50px;
+}
+
+.post-subheader {
+  font-size: 25px;
+  padding-block: 10px;
+  color: var(--primary-text);
+}
+
+.paragraph {
+  color: var(--secondary-text);
+  font-size: 18px;
+  padding-block: 20px;
+  line-height: 30px;
+}
+
+.post-date {
+  font-size: 18px;
+  color: var(--secondary-text);
+}
+
+.post-paragraph {
+  color: var(--secondary-text);
+  font-size: 20px;
+  line-height: 32px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.others-list {
+  color: var(--secondary-text);
+  padding-inline: 20px;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.others-list li {
+  margin-bottom: 20px;
+}

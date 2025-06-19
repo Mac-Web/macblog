@@ -1,0 +1,2200 @@
+[
+  {
+    "id": 0,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Prerelease Update Log",
+    "sidetitle": "Prerelease Log",
+    "date": "2023-06-10",
+    "author": "Tony",
+    "content": {
+      "description": "Here are the logs for MacVG updates before version 1.0 official release in October. Since this was before release, all the updates aren't very detailed so just note that. Here are the prerelease update logs:",
+      "paragraphs": [
+        {
+          "title": "v0.13 | 7/21/23",
+          "content": "Added the About section on the More page, updated the Settings section on the More page,overall performance improvements, and fixed some issues and bugs."
+        },
+        {
+          "title": "v0.12 | 7/18/23",
+          "content": "Added the Featured category and games, added a game (Moon Phases), added footer on each page, updated the Settings and Other Apps sections on the More page, updated appearance, and fixed some issues and bugs."
+        },
+        {
+          "title": "v0.11 | 7/10/23",
+          "content": "Added the Tab Cloaker feature, added brief introductions on each category page, updated appearance, updated Settings section on the More page, and fixed some issues and bugs."
+        },
+        {
+          "title": "v0.10 | 7/5/23",
+          "content": "Edited and categorized every game into the action, strategy, sports, and casual games categories, added the Other Apps section on the More page, updated appearance, fixed issues and bugs, and overall improvements update."
+        },
+        {
+          "title": "v0.8 | 6/20/23",
+          "content": "Added the Search Games feature, added the action, strategy, sports, and casual games categories, updated 131 games on styling, improvements, and thumbnails, updated appearance, fixed many bugs and errors, and overall improvements update."
+        },
+        {
+          "title": "v0.7 | 6/17/23",
+          "content": "Added feedback feature on Home and More pages, updated 80 games on styling and improvements, updated 140 games on thumbnails, updated 30 games on in-game improvements, updated home page on styling and improvements, updated appearance, fixed many bugs and errors, and deleted the files, pages, and directories from the forked version of railingames.github.io."
+        },
+        {
+          "title": "v0.6 | 6/10/23",
+          "content": "In the first update (creation) of MacVG, we forked the main branch of 75kh0.github.io, website created by 3kh0, Echo the Coder, added all 281 games from 3kh0, uploaded new pages, codes, and files pre-made by me, added the update log, updated website structure, pages, files, and appearance, updated 70 games on styling and improvements, updated 10 games on thumbnails, published the website, and deleted the unnecessary files, pages and directories, 503 in total."
+        }
+      ],
+      "others": ["Renamed the website to TonyMac129."],
+      "menulinks": ["7.21.2023", "7.18.2023", "7.10.2023", "7.5.2023", "6.20.2023", "6.17.2023", "6.10.2023", "Others"]
+    }
+  },
+  {
+    "id": 1,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG v.1.0 Update",
+    "date": "2023-10-13",
+    "author": "Tony",
+    "content": {
+      "description": "WOAH!!! FINALLY! Ladies and gentlemen, we are introducing: MacVG Stable Version 1.0! The first official stable version of MacVG! This is a HUGE update on everything MacVG! From the name of the website, to newly optimized games, we really changed and refreshed the game site in this remarkable update milestone! Thanks to all you, we are able to continue publish new feautres, changes, and more to MacVG in the past months and we are now ready for version 1.0. EVERYONE, HERE IT IS!",
+      "paragraphs": [
+        {
+          "title": "WEBSITE REBRANDING",
+          "content": "This is definitely the biggest update item in MacVG ever! We renamed the unblocked game site to MacVG, where the VG stands for video games, and the Mac is the prefix for every app from MacVG's parent company, MacWeb. Because of the founding of MacWeb, we refreshed every single app with new looks, new names, with brand new features and content! Other than the new name, we also applied new appearance, organizations, and changes to unify with other MacWeb apps!"
+        },
+        {
+          "title": "NEWLY OPTIMIZED GAMES",
+          "content": "Newly optimized games with fixed content, title, appearance, and performance so you can enjoy and play them on MacVG more smoothly than ever without lagging or any issues 😎!"
+        },
+        {
+          "title": "NEW CLOAKER",
+          "content": "Other than just renaming the title of the page in the browser, the Cloaker can also change the logo, and even change the page title to your desired cloaking website ⚙️!"
+        },
+        {
+          "title": "NEW WEBSITE APPEARANCE",
+          "content": "New and more modern navigation bar and games interactive experience 🆕!"
+        },
+        {
+          "title": "NEW PAGE: Updates!",
+          "content": "Added Updates page for more detailed update release notes for updates after the version 1.0 launch 📕!"
+        },
+        {
+          "title": "NEW FEATURES COMING SOON",
+          "content": "Favorites and Download are releasing in November! You will be able to favorite games and access them quicker and download games for offline use! Other than those two, we still have A LOT features to release, so be hold 😲!"
+        }
+      ],
+      "others": [
+        "Briefly removed MacVG from GitHub for HUGE maintainance and organization purposes.",
+        "Improved UI and UX: More functionality and better visuals.",
+        "Fixed a lot of games that weren't working or crashing.",
+        "Fixed many games lagging and glitching issues.",
+        "Fixed game thumbnails/links not working.",
+        "New page navigations and content on each page.",
+        "Removed 25 games for maintainance and optimization."
+      ],
+      "menulinks": [
+        "Website Rebranding",
+        "Optimized Games",
+        "New Cloaker",
+        "New Appearance",
+        "New Page",
+        "Features Coming",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG v.1.2 Update",
+    "date": "2023-10-22",
+    "author": "Tony",
+    "content": {
+      "description": "Well, to be honest, we didn't put that much effort into this update since we're focusing on the overall MacWeb app tree and file organization stuff. During this update, there were quite a few changes to MacWeb and it was chaotic. So here they are, our first steps toward the best, the most feature-packed, and the most modern game site out there!",
+      "paragraphs": [
+        {
+          "title": "NEW FEATURE: Random Game Selector!",
+          "content": "There's a new button next to the search bar on the home page that selects a random game for more convenient and easier game browsing 🎲!"
+        },
+        {
+          "title": "NEW FEATURE: Tool Bar!",
+          "content": "4 handy buttons 4 better gaming experience! Now you can use Fullscreen to play games, Back to go back to homepage, Favorites and Download coming in November Update 📅!"
+        },
+        {
+          "title": "NEW MACVG UPDATE SCHEDULE",
+          "content": "MacVG will receive monthly updates on the first day of the month with new features 😎!"
+        }
+      ],
+      "others": [
+        "Fixed where the Tool Bar isn't showing or too small.",
+        "Fixed 7 games that weren't working.",
+        "Fixed Random Game Selector not working.",
+        "Removed 5 games for maintenance and crashing issues."
+      ],
+      "menulinks": ["Random Game Selector", "Tool Bar", "Update Schedule", "Others"]
+    }
+  },
+  {
+    "id": 3,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG November Update",
+    "date": "2023-11-01",
+    "author": "Tony",
+    "content": {
+      "description": "This update is relatively a smaller update for MacVG but there's some really big and useful features! The update is the first monthly update starting from v1.2 and we did a lot of changes, optimizations, organizations, and more to make MacVG a better and better game site everyday. We've come a long way but we still have a lot of other things to set. So let's see what new features and changes are here in the MacVG November Update!",
+      "paragraphs": [
+        {
+          "title": "NEW FEATURE: Favorites!",
+          "content": "Like a game a lot and play it a lot? No problem, just click on the star icon in the Tool Bar in each game, and the game will show up at the top of MacVG homepage for quicker access ⭐!"
+        },
+        {
+          "title": "NEW FEATURE: Download!",
+          "content": "Want to play a game whenever and wherever, even without the internet? Just click on the download button in the Tool Bar for each game and fill out the download request form to download the game 💻!"
+        },
+        {
+          "title": "NEW FEATURE: Bug Report!",
+          "content": "There's often problems and bugs on each game, so now you can submit a bug report or a suggestion now right from the convenient Tool Bar 🪲!"
+        }
+      ],
+      "others": [
+        "Fixed where the Tool Bar isn't showing or too small.",
+        "Fixed 7 games that weren't working.",
+        "Fixed Random Game Selector not working.",
+        "Removed 5 games for maintenance and crashing issues."
+      ],
+      "menulinks": ["Favorites", "Download", "Bug Report", "Others"]
+    }
+  },
+  {
+    "id": 4,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG December Update",
+    "date": "2023-12-01",
+    "author": "Tony",
+    "content": {
+      "description": "Wow, what a big update the December update is! With the 30 new games added, 7 new features, and more! It's very exciting to share them all with you! The most exciting part about the future of MacVG must be the Themes we're adding to the updates to come and the website will be more personalized and liked than ever! Thank you for checking out this update note and all the feature descriptions, and let's get right into it!",
+      "paragraphs": [
+        {
+          "title": "NEW FEATURE: Panic Button!",
+          "content": "You can now set a custom panic button or a combination which you would press when a teacher comes near, so you can quickly redirect to another site without them noticing that you were playing games! This works universally on the site. For more info, check here⚡!"
+        },
+        {
+          "title": "NEW FEATURE: Movable Tool Bar!",
+          "content": "Sometimes the Tool Bar gets in the way of an important button for the game. That's why we made the Tool Bar movable so you can move the Tool Bar around to play the game without inconvenience, but also using the convenient Tool Bar features ✅!"
+        },
+        {
+          "title": "NEW FEATURE: Game Information!",
+          "content": "Don't know how to play a game or want more detailed descriptions? No worries! Just click the \"i\" icon at the bottom of the tool bar for a popup window that tells you how to play the game and other related information! The report bug button is also moved into the window with a brand new modern design 📢!"
+        },
+        {
+          "title": "NEW FEATURE: Share Game!",
+          "content": "Want to spread the fun to your friends? No problemo! You can now press the share button on the Tool Bar to copy the game link and put it anywhere to share the game with others 📨!"
+        },
+        {
+          "title": "NEW FEATURE: Uncloak!",
+          "content": "Now you can change the website back to its original beautiful MacVG favicon and title if you don't want to use the cloaking feature anymore ⌨️!"
+        },
+        {
+          "title": "NEW 30+ GAMES!",
+          "content": "Check them all out in the New Tab and play the newest games added to MacVG 🆕!"
+        },
+        {
+          "title": "NEW THEME: The Holidays!",
+          "content": "A brand new feature is coming to MacVG - Themes! With awesome backgrounds, styles, and even customized logos, you can now enjoy playing unblocked games while enjoying different themes 🎄!"
+        }
+      ],
+      "others": [
+        "Minor page layout, button, and tool bar visual appearance changes and updates.",
+        "Fixed Custom Cloaker not working, cloaker settings not working, and Favorites not working.",
+        "Removed 2 games for maintenance and crashing issues."
+      ],
+      "menulinks": [
+        "Panic Button",
+        "Movable Tool Bar",
+        "Game Information",
+        "Share Game",
+        "Uncloak",
+        "New 30+ Games",
+        "New Theme",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.0 January Update",
+    "sidetitle": "January Update",
+    "date": "2024-01-01",
+    "author": "Tony",
+    "content": {
+      "description": "Happy New Year! New Year is the new beginning of everything. It's the start of an awesome year 2024, the beginning of a new change, and also, the new beginning of MacVG. Because it's the New Year, MacVG is now updated to version 2.0! A brand new and revamped version of MacVG is here with the massive January Update. From a brand new look for each game page, to new tabs, features, and more, this update is the most exiciting to share with you so far, so let's see what's new with the New Year!",
+      "paragraphs": [
+        {
+          "title": "NEW GAME PAGE LAYOUT",
+          "content": "This is probably the biggest change on MacVG ever! Now, you will see a more information-rich game page when you select a game to play! You can enjoy the game however you want on the top left game player, and if you scroll down, you can see even more in-depth info about the game, similar games, and featured games! We removed the floating Tool Bar and changed it to a horizontal bar at the bottom of the game player with a bunch of useful new buttons, so it won't cover any content but also serves its purpose well! Other than that, there's still so much more to the new game page layout, so go check it out yourself 🕹️!"
+        },
+        {
+          "title": "NEW TAB: New!",
+          "content": "Don't want to miss any new games added to MacVG and you want to play them all? Don't worry! Just click on the New Tab on the navigational bar on the top, and you can see all the exiciting new games added in this update 🆕!"
+        },
+        {
+          "title": "NEW TAB: Trending!",
+          "content": "If you want to play the games everybody's playing, just click on the Trending Tab and see what games are the most played in the previous week so you can also join the trend! We sort the top 10 games by how many times the game was clicked in the past 7 days 🔥!"
+        },
+        {
+          "title": "NEW TAB: Chat!",
+          "content": "Have fun enjoying a really good game but you only have it to yourself? That's what the new Chat Tab is for! You can now chat with people from around the world in real-time and share your gaming experience with others, or you can also just chat whatever you want 🗣️!"
+        },
+        {
+          "title": "NEW TAB: Groups!",
+          "content": "WOW! How many new features and updates are in this update?! A TON! In the new Groups Tab, you can see collections of similar games or game series so you can play them all! We'll keep adding different groups for you to explore new games that you never knew about! Even more exciting, you will be able to create game groups yourself for better game orginization in the future 📁!"
+        },
+        {
+          "title": "NEW TAB: MacBoard!",
+          "content": "Because of the new Collapsible Catagories Menu and some other navigational changes, we added MacWeb's own soundboard MacBoard to the navigational bar so you can have fun playing the funny sounds directly from the MacBoard Tab, and we also added more sounds in this update, making it a 200-sound rich soundboard 🔊!"
+        },
+        {
+          "title": "NEW FEATURE: Themes!",
+          "content": "One more exciting feature is here with the 2.0 update, Themes! Now you can choose between dark and light themes for a personalized gaming experience! This feature made MacVG's accessibility better and everyone can use it however they want! While gaming and having fun is good, but having a customized website is even better, so because of that, we will continue to release new themes for more choices 🖌️!"
+        },
+        {
+          "title": "NEW COLLAPSIBLE CATAGORIES MENU!",
+          "content": "Because of so many new tabs and features, the navigational bar can't fit in so many tabs, so we grouped all the Catagory Tabs together into the collapsible menu on the top right corner of the screen. It saves a lot of space while also keeping the Catagory Tabs. Simpy hover over the Catagories Button and you will see a list of Catagories pop up, from there, you can choose your own catagory of games to play 🎲!"
+        },
+        {
+          "title": "8 NEW GAMES!",
+          "content": "Only 8? We know what you're thinking. Yep, only 8 games are released in this update. We spent so much time working on the new game page layout, new tabs, new features, that we didn't have a lot of time to add more unblocked free games for you awesome players. But trust us, we're first focusing on the quality, features, and functionality of the website, and then we're gonna add a whole lot more games to the game library 8️⃣!"
+        },
+        {
+          "title": "Renamed More Tab to Settings!",
+          "content": "We moved the About section of the original More Tab to MacBlog, where you can access every app's related information and documentation. We also moved the Update Log section to MacBlog, so the old More Tab only has settings left, so we just renamed it to Settings for more clear naming ⚙️!"
+        },
+        {
+          "title": "What Does the Future of MacVG Hold?",
+          "content": "As I said earlier, we're focusing on the quality, features, and functionality of MacVG first, and after all features are at their bests, we'll roll out more and more unblocked free games and become one of the best, biggest, and popular online gaming platforms in the world 🌎!"
+        }
+      ],
+      "others": [
+        "New animation affects on search.",
+        "Added 10 new sounds to MacBoard.",
+        "Fixed Favorites not working, catagory navigational problems, and cloaker problems.",
+        "Minor visual appearance changes and updates.",
+        "Updated different catagories because of new games and removal of old games.",
+        "Removed 10 games for not working, maintainance, crashing issues, including Escaping the Prison, Shellshockers, Starve.io, Ballistic Chickens, Suviv, Zombs Royale, Jack Smith, Google Snake, Double Wires, and Chrome Dino. (Believe me, they're the only problemetic games that wasn't took care of for a really long time, so we finally got rid of them in the 2.0 update!)",
+        "Redid file organization and other file management for simpler and more clear code.",
+        "Removed the Portfolio link at the footer."
+      ],
+      "menulinks": [
+        "New Games Page Layout",
+        "New Tab: New",
+        "New Tab: Trending",
+        "New Tab: Chat",
+        "New Tab: Groups",
+        "New Tab: MacBoard",
+        "New Feature: Themes",
+        "New Menu",
+        "8 New Games",
+        "Renamed Settings",
+        "Future of MacVG",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.1 February Update",
+    "sidetitle": "February Update",
+    "date": "2024-02-01",
+    "author": "Tony",
+    "content": {
+      "description": "Hope you all's new year's going well so far. Following our past updates, we accidentally released an update with way more features, again. New tabs, new features, new looks, goodbye Chat... we can't list them all in one paragraph. So let's dig in and see what's new!",
+      "paragraphs": [
+        {
+          "title": "NEW FEATURE: Recent Games!",
+          "content": "Played a game on MacVG that's fun, but can't remember the name? No worries! From now on, all the games you've every played on MacVG are listed here, ordered by played date! Now you can access what you were previously playing in ease 🕒!"
+        },
+        {
+          "title": "NEW TAB: Originals!",
+          "content": "This is one of the most exciting new features we're announcing in this update! The MacVG development team is starting to create our own original games for you to enjoy! Currently, there's only MacBoard available, with Cosmic Clicker coming in the March Update. Stay tuned for more awesome orignal games from us 🕹️!"
+        },
+        {
+          "title": "NEW COLLAPSIBLE MENUS!",
+          "content": "With the success of the release of the Catagories Menu last update, we're refreshing and adding new collapsible menus to the navigation bar! We gave the existing Catagories Menu a refreshed modern look, and we also added a new Help Menu for MacVG support, updates, documentation, about, and feedback! We're also rolling out the Help Menu on other MacWeb apps in the future, so you can have more support using our apps 💁‍♂️!"
+        },
+        {
+          "title": "NEW SIDEBAR!",
+          "content": "We just announced the release of MacWeb Site Material 2, and we're adding a sidebar to each MacVG page for easier navigation betweent all MacWeb apps! Simply move your mouse to the left edge of the screen, and a small sidebar will pop up, providing convenient navigation to other MacWeb apps in one click! To hide it, just click on any other place on the screen 🆕!"
+        },
+        {
+          "title": "NEW LOGO! (kind of)",
+          "content": "Following the release of MacWeb's Site Material 2, we're giving each of our apps, including MacVG, a new logo for the navigation bar and other uses. This makes the apps more distinct from each other, and it also gives the app a unique modern feel 🖌️!"
+        },
+        {
+          "title": "25 NEW GAMES!",
+          "content": "25 new games are here at MacVG! Our main goal of recent updates is to make the game site into the most feature-rich game site ever, and we're very closed to reaching that goal. Because of that, we have more time to add new games to the site, so we added 25 new games for MacVG to have exactly 300 games! We'll bring more and more games and features to MacVG in the future updates, so stay put 🆕!"
+        }
+      ],
+      "others": [
+        "Removed the Chat Tab because of inappropriate uses and abuse.",
+        "New and more modern update announcement message.",
+        "Fixed outdated contents and improved optimization on each page.",
+        "Fixed MacBoard navigation problems and added 1 new sound.",
+        "Fixed bugs and flaws including page keeps scrolling down when pressing space bar and Favorites not showing games.",
+        "New animation effect when clicking on game tiles.",
+        "Minor visual appearance changes and updates.",
+        "Updated different catagories because of new games and organization.",
+        "Added the YouTube link at the footer."
+      ],
+      "menulinks": ["Recent Games", "New Tab: Originals", "New Menus", "New Sidebar", "New Logo", "25 New Games", "Others"]
+    }
+  },
+  {
+    "id": 7,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.2 March Update",
+    "sidetitle": "March Update",
+    "date": "2024-03-01",
+    "author": "Tony",
+    "content": {
+      "description": "This month, we focused on massively updating MacLearn and MacTime, without spending too much time working on MacVG, as it's already pretty good. One massive change is the new colors and a more sleek appearance throughout the whole user interface, other than that and some minor changes and bug fixes, there isn't anything too big. This update is more like a small maintainance update that enhances the site just a little bit. So let's see what's new with this update.",
+      "paragraphs": [
+        {
+          "title": "NEW APPEARANCE",
+          "content": "This major change includes two reworks: primary color and general design. MacVG originally had dark blue for logo color, gold for accent color, random colors in random places, and neutral colors for background and elements. In this change, we unified the logo color and the accent color into this brand new vibrant orange color that guides you through the website. This makes your experience more unified, modern, and it's easier to distinguish between different MacWeb apps as they all got their own colors. Orange also asociates with excitement, fun, and vibrancy, which reflects what MacVG does: providing fun and exciting entertainment for you. We also changed element appearance including remade input fields that look more polished and more modern buttons. These design changes help with your experience and your eyes, making your game time at MacVG more comfortable 🎨."
+        },
+        {
+          "title": "NEW THEME: Deep Dark!",
+          "content": "We already had dark and light modes for you to choose from, but that's not enough. In this update, we're rolling out Deep Dark Mode that you can select from the Settings tab that makes everything pure black. This change helps a lot when it comes to eye comfort and low light environments. This also made MacVG a more accessible place for everyone to enjoy. Deep Dark also adds a unique touch that hopefully you'll like, enjoy 🔥!"
+        }
+      ],
+      "others": [
+        "Fixed panic button and cloaker bugs and problems.",
+        "Fixed light mode problems and bugs and made it more polished.",
+        "Added new links and removed broken links from the navigational pane on the top right corner of game pages due to new pages and page removals.",
+        "Removed combination panic buttons because of inefficiency and bugs.",
+        "Removed some appearance bugs and animations.",
+        "Removed the back button from the tool bar because it's ... useless."
+      ],
+      "menulinks": ["New Appearance", "Deep Dark Theme", "Others"]
+    }
+  },
+  {
+    "id": 8,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.5 April Update",
+    "sidetitle": "April Update",
+    "date": "2024-04-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this big update, we released a bunch of new features and fixed a lot of old ones to help make your gaming experience simpler and better, with a ton of new customization. With this update, MacVG is becoming more stable due to reworks and bug fixes and it's becoming one of the most feature-rich game sites out there! Let's see what we did and fixed:",
+      "paragraphs": [
+        {
+          "title": "DOWNLOAD REWORK",
+          "content": "Let's be honest, the old Download was really bad. When you clicked on the button, it redirected you to a Google Form to fill out your download request, and 80% of the games don't work when you download them. This was very inefficient, slow, and annoying. That's why we completed removed the Download button on games that don't work when you download them, and for the 80 games that do work, when you click on the Download button, it's gonna download the game folder immediately, and you can simply unzip the folder and start playing the game offline, which makes downloading games much more efficient, faster, and we also don't need to process that many requests. Enjoy the new Download 📁!"
+        },
+        {
+          "title": "SETTINGS REWORK",
+          "content": "In this rework, we fixed almost every Settings option. First, we added an input field for the link of your desired tab favicon icon, so not only can you customize the tab's name, you can also customize the tab's icon, making it even harder for teachers to catch you. Second, we fixed the panic button settings, so that you can only enter one panic button instead of a combination, because of glitches and inefficiency. Third, we fixed the glitch where if you click on a setting, the page refreshes. Finally, we added the https:// prefix before the URL inputs, so it's easier for you to enter the URL in the Settings. We also fixed some other minor glitches and appearance issues on the Settings page ⚙️."
+        },
+        {
+          "title": "CUSTOM THEME!",
+          "content": "This is one of the most exciting feature drops we've had on MacVG. You can now create your own themes to your likings! How cool is that? Not only can you enjoy your favorite games with your favorite colors, you can also customize MacVG! To create your own theme, go to the Settings tab, navigate to the themes section, click on custom, set your main color (background) and your accent color, then click on any other place on the page, and you can see your own theme! If you don't like it, simply click on the custom button again, and change your colors so it's the perfect theme for you (btw light mode for custom themes isn't yet supported, so we'll work on that). Don't worry, it saves everytime you modify it, so have fun building your custom theme 🎨!"
+        },
+        {
+          "title": "VISUAL ENHANCEMENTS",
+          "content": "You may have already noticed the gradient glowing title on each page that changes colors. This creates a cool neon effect that matches with gaming perfectly. Hint: glowing title works best with Deep Dark or darker themes! We also tweaked the styles for the game page a little bit so it works well with all the different themes, including custom themes! Other than that, we released a new cyberpunk gaming theme and fixed some styling transitions, bugs, and issues. Also, there's a \"New\" icon next to new features so it's more recognizable and you can try the new feature out 🆕!"
+        },
+        {
+          "title": "NEW FEATURE: About:blank Embedder!",
+          "content": "This is a really awesome new feature in the Settings tab we're announcing in this update. There's a new section where you can type in the URL of the website that you want to open in an about:blank tab! So...why do you want to use it? Well, everything you do and every website you go to using the about:blank embedder will NOT show up in your browsing history! Now, you can game or do *other stuff* without it showing up in your history! The link also doesn't show up if you open the site in about:blank. If you want to game on MacVG without the teachers noticing, this is the way to go 🔥! (Note that this isn't a proxy)"
+        }
+      ],
+      "others": [
+        "Added data analytics on each game page for data analytics.",
+        "Fixed broken links and features.",
+        "The update announcement banner is now only on the homepage.",
+        "Minor appearance updates.",
+        "Removed some appearance bugs and animations.",
+        "New descriptions and information on several games for more info-rich experience.",
+        "Updated tool bar appearance because of new features and Download Rework."
+      ],
+      "menulinks": ["Download Rework", "Settings Rework", "Custom Theme", "Visual Enhancements", "About:blank Embedder", "Others"]
+    }
+  },
+  {
+    "id": 9,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.7 May Update",
+    "sidetitle": "May Update",
+    "date": "2024-05-01",
+    "author": "Tony",
+    "content": {
+      "description": "As the weather's becoming warmer and the summer break's coming closer, we released a bunch of new features, fixes, and most importantly, new games, to MacVG, as we haven't added any game for a pretty long time now. Hope you enjoy this update, and let's see what's new:",
+      "paragraphs": [
+        {
+          "title": "12 NEW GAMES",
+          "content": "After the big update we released almost 5 months ago, we haven't released any new game, so we're starting to add more and more new games on each update to keep your experience on MacVG fresh and exiciting. In this update, we added 12 new popular games that you'll enjoy playing. You can check out all the new games in the New tab of MacVG! We also updated the content on each tab because of new games and some minor adjustments 🕹️."
+        },
+        {
+          "title": "NEW LOOKS",
+          "content": "Following the release of MacWeb site material 3, we added responsive designs and features to all our apps, including MacVG, because a lot of people have been complaining about website not working when using a phone, a smaller screen, or when zooming in. With this improvement, MacVG will automatically adjust its content to fit the screen size perfectly without not being able to use some features or links. This change made it easier for people to access the website and enjoy the same experience. We also updated the hover animation of games to match the site material 👍."
+        },
+        {
+          "title": "MACBOARD REWORK",
+          "content": "We barely updated MacBoard since the release of it, which was more than half a year ago, and it had a lot of things that need to be updated and fixed. Other than changing the appearance of it, we also added a bunch of new features, like Repeat Sound, Download Sound, and Favorite Sound. These buttons will show when you hover over a sound. These features make it easy to have fun with the sounds while having maximum control over them! To stop repeating a sound, simply click on Stop All at the top of the page. We also improved the search functionality, random sound button, and other features. You can now play with the sounds with ways never seen before. On top of all that, we also added more than 20 new sounds from users' requests. Enjoy the new soundboard 🗣️🔥!"
+        },
+        {
+          "title": "BUG FIXES",
+          "content": "We fixed a lot of bugs caused by previous updates to keep your experience seamless and smooth. We patched the bug of Favorite and full screen not working on downloadable games, Download 2.0 not working, overflowing menu showing, custom theme not working on MacBoard, glowing not working on MacBoard, and fixed the bug caused by some styling issues. With these bugs patched, your gaming time on MacVG will be better than ever 🪲!"
+        }
+      ],
+      "others": [
+        "Added Remove Favorites button to remove all Favorited games at once.",
+        "Delayed the release of Cosmic Clicker to August. (🙁)",
+        "The update announcement banner is now only on the homepage.",
+        "Minor appearance updates.",
+        "Removed some appearance bugs and animations.",
+        "New descriptions and information on several games.",
+        "Removed the Similar Games section on some games.",
+        "Removed 2 games, Monkey Mart and Run 3, due to very strange glitches and crashes."
+      ],
+      "menulinks": ["12 New Games", "New Looks", "MacBoard Rework", "Bug Fixes", "Others"]
+    }
+  },
+  {
+    "id": 10,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.9 June Update",
+    "sidetitle": "June Update",
+    "date": "2024-06-01",
+    "author": "Tony",
+    "content": {
+      "description": "Are you guys ready for summer break? Good news: it's only less than a month away! MacVG is also getting its own break with a bunch of bug fixes and stablization changes. After all the crazy updates, features, games, and reworks from the previous months, this update is more of a improvements update. We fixed a lof of bugs, issues, and glitched games, updated a lot of content, and improved our games' optimizations and performance with less lag and glitches. Here are the release notes for this update:",
+      "paragraphs": [
+        {
+          "title": "10 NEW GAMES",
+          "content": "We've been reading everyone's feedbacks and game requests, and almost everyone wants more new games. That's why we added 10 new fun games in this update that we hope you'll enjoy! Simply go the the New tab and check out the new games added in this update. Maybe you'll find your new favorite game there after playing them 🕹️!"
+        },
+        {
+          "title": "NEW FEATURE: Side Search!",
+          "content": "In this update, we finally got rid of the weird games listed on the right side of each game page! They were problematic because they're pretty useless, there isn't a lot of games there, and they slowed down the loading time of the game. Instead, you'll see a new search bar on the right of each game page that lets you search any game on MacVG just like you would on the home page. This search bar makes navigating between games way easier and faster. To get from a game to another game, you no longer need to go back to the home page, search for the game, and click on it. Instead, you can just search up the game from the game page, and start playing instantly 🔎!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "With last month's appearance updates, there were some broken thumbnails and styling for the games, so we added some new thumbnails and styling improvements. We also updated the content in each catagory and added a new group in the Groups tab because of new games. We also added a bunch more game descriptions and information on several games. There are also a couple new additions on MacBoard. We reorganized and cleaned up some files. On top of all these changes, we also improved our code efficiency and enchanced our game optimizations, meaning there will be less lag now 🔥!"
+        },
+        {
+          "title": "BUG FIXES",
+          "content": "To keep your gaming experience seamless and smooth, we fixed a bunch of bugs, old and new. We fixed the MacBoard navigation issue, fixed new animation not showing on some games when hovering, slight improvements on Custom Theme, fixed tiny styling issues, fixed update announcement covering the page title, and updated the site's styling. We also fixed the long lasted issues of not being able to play We Become What We Behold properly and Cut the Rope games not being displayed in the new game page UI, which means you can now favorite, share, report, and play Cut the Rope in full screen and see the related information on the games 🐛!"
+        }
+      ],
+      "others": [
+        "New slogan on the home page.",
+        "New scrollbar appearance.",
+        "Improved data analytics.",
+        "Minor appearance updates.",
+        "Minor bug patches.",
+        "Removed the Similar Games section on some games.",
+        "Added a new button in the about:blank section in Settings to open MacVG in about:blank quicker."
+      ],
+      "menulinks": ["10 New Games", "Side Search", "Content Changes", "Bug Fixes", "Others"]
+    }
+  },
+  {
+    "id": 11,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.10 July Update",
+    "sidetitle": "July Update",
+    "date": "2024-07-01",
+    "author": "Tony",
+    "content": {
+      "description": "July is the month of summer! Most of you are probably already out of school in summer break, and you should be spending time with your family outside touching grass instead of being indoors playing unblocked games. Seriously, get off the game site. But anyways, we're still publishing our monthly updates, so here's what this relatively small stabilization update is about, from new games to bug fixes and more:",
+      "paragraphs": [
+        {
+          "title": "30 NEW GAMES",
+          "content": "This is the most games we've ever added in a single update since the initial release of MacVG with about 250 games more than a year ago. We spent a lot of time adding these new games, optimizing them, and putting them onto MacVG, so please go to the New Tab and check them out, maybe you'll find your favorite games there! From sports and idle games to adventure and reactions games, there's a ton of new fun waiting for you 🔥!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "Because of the new games added, we updated the content on many pages and updated some features because of this. We also reorganized MacVG's files into simple folders and cleaned-up, decluttered, merged, and optimized many execution and page files, along with updating some content and deleting unnecessary files, for a smoother, faster, and cleaner experience when using MacVG 🧹."
+        },
+        {
+          "title": "BUG FIXES",
+          "content": "We fixed a lot of bugs in this update. From minor bugs to major bugs that made several games unplayable, they're all fixed in this update! The most important bug fix in this update is making it possible to type and interact in some games! A lot of you have mentioned this bug of not being able to type in many games, thus affecting game play, and we finally fixed it! A ton of the games are now playable because of this fix, so go check them out! We also fixed some bugs on the cloaker, Side Search, page content, layouts, and some other small appearance issues. Enjoy the bugless game site 🛠️!"
+        }
+      ],
+      "others": [
+        "Made a lot of games playable by fixing a couple major bugs. (yay!)",
+        "Renamed a few games and updated some thumbnails.",
+        "Updated Shoology cloaker favicon.",
+        "Updated game description content.",
+        "Fixed announcement showing on the Originals Tab.",
+        "Fixed favicon not showing on game pages when using Chrome.",
+        "Fixed Side Search not working when there's no Recent games.",
+        "Fixed iframe game layout on some games.",
+        "Minor appearance updates.",
+        "Removed info.css and info implementations in all game.html files.",
+        "Removed MacVG User Survey."
+      ],
+      "menulinks": ["30 New Games", "Content Changes", "Bug Fixes", "Others"]
+    }
+  },
+  {
+    "id": 12,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.12 August Update",
+    "sidetitle": "August Update",
+    "date": "2024-08-01",
+    "author": "Tony",
+    "content": {
+      "description": "August is the second month of summer break, and school is literally just a couple weeks away. As you prepare to go back to school, we're releasing a bunch of new games, features, and more on MacVG we hope you'll enjoy! Here's what's new in the August update:",
+      "paragraphs": [
+        {
+          "title": "NEW MACVG ORIGINAL: Atomic Survival!",
+          "content": "We're very excited to announce that we've released a new MacVG original game (other than the soundboard MacBoard), called Atomic Survival! In this game, you need to gather atoms to generate energy in a world where matter is no longer stable. Then use the energy to unlock and buy different upgrades that boost your energy generation even more! Even better, energy still keeps generating while idle, so you can make progress by not even playing the game! We'll keep updating the game to add more upgrades, chellenges, and fun! Go to the Originals tab to check out Atomic Survival now ⚛️!"
+        },
+        {
+          "title": "NEW FEATURE: Sort & Filter!",
+          "content": "The whole point of game sites is to provide games for you to browse, play, and have a good time with to enjoy and relax. What's better to achieve this than being able to sort and filter all of MacVG's games to browse the games you like easily? With the new Sort & Filter feature right on the home page, you can choose a category you'd like to filter, and browse the games in the category you want! Or you can sort and organize the games in a certain way to view all of them with a different order. This feature adds even more freedom and ease to browsing and searching the large collections of games on MacVG, and we'll add more options in the future 🔍!"
+        },
+        {
+          "title": "10 NEW GAMES!",
+          "content": "In this relatively small update, we added 10 new interesting games from different categories and genres that we hope you'll like! Simply go to the New tab and check the newly optimized games out! Maybe you'll find your new favorite game there 🎮!"
+        },
+        {
+          "title": "SITE IMPROVEMENTS",
+          "content": "In this update, we fixed a couple small bugs from the game iframe layout and the Side Search feature. We also updated some of the games' titles and thumbnails to keep them up to date, easier to browse, and relevant to the game. We also updated different tabs' and pages' content because of new game arrivals and to optimize for the new Sort & Filter feature. Enjoy the faster and cleaner MacVG 🛠️!"
+        }
+      ],
+      "others": [
+        "New search bar placeholder.",
+        "New default game sorting order on the homepage.",
+        "Added total game count and category game count.",
+        "Fixed small iframe typing issues.",
+        "Minor bug fixes.",
+        "Minor appearance updates."
+      ],
+      "menulinks": ["Atomic Survival", "Sort & Filter", "10 New Games", "Site Improvements", "Others"]
+    }
+  },
+  {
+    "id": 13,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 2.13 November Update",
+    "sidetitle": "November Update",
+    "date": "2024-11-01",
+    "author": "Tony",
+    "content": {
+      "description": "This update on MacVG is a fairly small adjustment update, as we only applied some slight improvements and fixed some bugs. We also removed some things, so let's see what we did:",
+      "paragraphs": [
+        {
+          "title": "40+ NEW GAMES!",
+          "content": "As we've already finished releasing all the major features we wanted to add to MacVG, we'll be adding a lot more games every update, starting from this update! We're introducing 41 brand new games across multiple genres, and maybe you'll be able to find your new favorite game here! Go to the New tab to check them out 🎮!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like the new update schedule we're applying to other MacWeb apps, MacVG is also getting a new update schedule. From this update forward, MacVG is going to get an update every 3 months. This means we'll release a new update for MacVG each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consistent and regular, and we have more time to develop exciting new features 📅!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "Since we applied a new redesign to MacVG recently, the navigation bar can't fit that many tabs, and we want to keep your experience on MacVG fresh and useful. That's why, with a heavy heart, we've decided to remove the Groups tab because it had no practical usage and no one used it/benefited from it. Other than that, we also removed a couple of bugged games that weren't playable at all. In addition to these, we also fixed some games for you to enjoy, fixed navigation links not working, fixed the Recent tab not showing any games, and updated the Originals tab with new content 🔨."
+        }
+      ],
+      "others": [
+        "Improved game thumbnails color contrast.",
+        "Improved navigation dropdown sensitivity.",
+        "Applied redesign styling to Sort & Filter buttons.",
+        "Minor bug fixes.",
+        "Minor appearance updates."
+      ],
+      "menulinks": ["40+ New Games", "Update Schedule", "Content Improvements", "Others"]
+    }
+  },
+  {
+    "id": 14,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG Version 3.0 Winter Update 🥳",
+    "sidetitle": "Winter Update",
+    "date": "2025-01-01",
+    "author": "Tony",
+    "content": {
+      "description": "The third major version of MacVG is here with the MacVG 3.0 Winter Update, bringing a bunch of new games, massive improvements, and exciting new features to the platform! We've restructured the game system, made everything more dynamic, and added new ways to explore your favorite games. With better performance, a revamped interface, and a whole new genre tag page, MacVG is more fun and functional than ever before!",
+      "paragraphs": [
+        {
+          "title": "RESTRUCTURED MACVG!",
+          "content": "As we kept adding more and more new games, MacVG became too large and we hadn't been able to deploy any new updates to MacVG for almost a full year, causing it to get outdated. This was a huge problem because we couldn't add new games, features, or fixes to MacVG. With the version 3.0 update, we've moved all the games and their files to separate repositories sorted by the games' categories. We've made 4 new repositories on GitHub: Action, Strategy, Driving, and Casual to host all the games. This effectivly cuts down the size of MacVG while still keeping all the games. This was the only way to deploy new updates to MacVG, so we're very sorry that this change reset all the progress on the games. This was the single biggest change to MacVG ever, so enjoy the new site 🔥!"
+        },
+        {
+          "title": "HUGELY OPTIMIZED GAME PAGE!",
+          "content": "Just like the new update schedule we're applying to other MacWeb apps, MacVG is also getting a new update schedule. From this update forward, MacVG is going to get an update every 3 months. This means we'll release a new update for MacVG each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consistent and regular, and we have more time to develop exciting new features 📅!"
+        },
+        {
+          "title": "NEW PAGE: Genre!",
+          "content": "The whole point of MacVG is to make it easier to browse and explore different games. With the release of the new Genre page, you can view all the games in a genre to discover new similar games that are in the same genre! If you find a game's gameplay unique and interesting, you can click on the link on its genre, and you will see all the other games in the same genre and see a description of the genre! This also improves the organization and structure of MacVG. Easily discover new games based on your interests with the new Genre page 📁!"
+        },
+        {
+          "title": "50+ NEW GAMES!",
+          "content": "Other than all these huge changes to MacVG, we also added more than 50 new games for more fun! You can view them all at the New Tab, and maybe you'll find your new favorite game! Feel free to try them out and play these new games 🆕!"
+        },
+        {
+          "title": "ADVERTISEMENTS!",
+          "content": "MacVG has come a long way. It really has, from June of 2023 to January of 2025, we've finally decided to put advertisements to the platform. We've worked on the site very hard almost everyday, spent hours adding new games and features, all for free. But with ad integration, our efforts can finally pay off. Ads help support us so we can continuosly roll out new features, ne games, and more. You will now see ads on almost every page on MacVG, but we promise they will never be intrusive or annoying. Please disable adblockers if you're using them on MacVG because this is the only MacVG can survive and keep adding new content for you guys. Thanks 💻."
+        },
+        {
+          "title": "QUALITY OF LIFE FEATURES!",
+          "content": "We added a bunch of quality of life features to MacVG this update to make everything easier and faster. There's a new Clear Search button that appears on the search bar when you type something so you can search up a new game more easily. We also added Featured and Downloadable filters to the filter dropdown for you to browse new games! Other than these new features, there's also a new Sort Direction button next to the Sort & Filter dropdowns that sorts all the games by acsending or descending order. This makes looking up new games easier and saves you from scrolling to the bottom. With these quality of life changes, MacVG is now friendlier and easier to use than ever 🌱!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "We have content improvements every single MacVG update, but this one definitely has the most changes and improvements. To name a few, we hugely optimized the code, added new game descriptions and controls and made unfinished game descriptions and game controls invisible, search is now not laggy at all and results appear instantly, and deleted and organized a bunch of files to make the site faster. We're also transitioning from an unblocked game site for school to an actual game platform for the general audience. Because of this, we removed the panic button as it's buggy and not many people actually use it. We also updated the Settings tab and its description. Other than all these, we also fixed the Recents Tab so it actually works and shows all the games you've played recently. We also added a new Clear Recents option in case the page gets too cluttered up. We also removed some broken games and updated some games' thumbnails. With these updates, we hope to provide a better experience while using MacVG 📈!"
+        }
+      ],
+      "others": [
+        "New logo with new colors.",
+        "Recategorized some games to new genres.",
+        "Changed update announcement to a modal with new thumbnail.",
+        "Fixed Minecraft and a few other games not working.",
+        "Reordered game information bullet points.",
+        "Removed dedicated Originals tab and replaced by a dropdown.",
+        "Removed dedicated category pages.",
+        "Removed category link on game pages.",
+        "Removed game developer link on game frames.",
+        "Corrected spelling.",
+        "Bug fixes.",
+        "Appearance updates."
+      ],
+      "menulinks": [
+        "Restructured MacVG",
+        "Hugely Optimized Game Page",
+        "New Page: Genre",
+        "50+ New Games",
+        "Advertisements",
+        "Quality of Life Features",
+        "Content Improvements",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog Prerelease Update Log",
+    "sidetitle": "Prerelease Log",
+    "date": "2023-11-30",
+    "author": "Tony",
+    "content": {
+      "description": "Note that this isn't really a prerelease update log, as MacBlog was already released since the first log on this page. This is just a collection of not very detailed updates before the huge official 2024 April update. Also the dates aren't accurate so yeah. So here are all the changes we made to MacBlog before April 2024.",
+      "paragraphs": [
+        {
+          "title": "v.0.6 | 3.1.2024",
+          "content": "This is a relatively larger update (it's actually a bundle of smaller updates) than the others, as we improved your MacBlog experience by quite a lot this update, so let's see what's new. First, we have the MacBlog Rebranding: New logo, appearance, and color. Originally, we used a dark blue color for logo, gold for accent, and a lot of other random colors, but in this update, we changed both the logo and accent color to purple, which doesn't only distinguish MacBlog from other MacWeb apps, it also makes your experiecne more clean, modern, organized, and comfortable. Purple also represents ambition, and MacBlog is a place where we share our \"ambitious\" plans and other info about MacWeb, making purple a perfect fit. We also added a collapsible help menu, feedback form, and other helpful resources about MacBlog, making its experience more unified with other MacWeb apps. We also fixed broken pages, navigation problems, styling issues, pages not showing, and project pages, removed the About tab because added a collapsible menu with that link. This unifies MacBlog experience with other MacWeb apps, removed outdated and unrelated information and content on MacBlog because of roadmap and project plan changes, removed and reorganized files and content, installed Google Analytics on every page for better user experience tracking, which helps us improve MacBlog. Finally, here's the future of MacBlog: we haven't really focused on working on MacBlog, as you can see, a lot of pages aren't working or lacking stuff and features that need to be fixed. In the next couple updates we'll hopefully be focusing on MacBlog's content, user interface, and features, making its quality better and more user friendly for everyone to see related information about MacWeb."
+        },
+        {
+          "title": "v.0.2 | 1.19.2024",
+          "content": "The new MacBlog: following the release of MacWeb Site Material 2, the overall appearance, logo, and navigation of MacBlog also got a little bit of changes and updates to look more moder, more functional, and more unified with other MacWeb apps! We also fixed navigation problems, pages not showing, and overall update following the MacWeb Site Material 2."
+        },
+        {
+          "title": "v.0.1 | 11.30.2023",
+          "content": "Officially renamed MacBlog from Blogs to MacBlog, and NEW HUGE APPEARANCE UPDATES COMING SOON!!!!!!! LETS GO!!!!! (there's also updates before this v.0.1 update, but weren't recorded)"
+        }
+      ],
+      "others": ["Revamped and rewritten articles multiple times."],
+      "menulinks": ["3.1.2024", "1.19.2024", "11.30.2023", "Others"]
+    }
+  },
+  {
+    "id": 16,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog April Update",
+    "sidetitle": "April Update",
+    "date": "2024-04-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this update, we made a lot of changes to MacBlog, including new pages, broken page fixes, improved appearance and functionaily across all pages and posts, and more. Let's see what's new:",
+      "paragraphs": [
+        {
+          "title": "NEW LOOKS ON EACH ARTICLE!",
+          "content": "In this update, we drastically improved our appearance and functionaily across all pages so you can access different pages and information quicker than ever. There's new navigation and menus to help you navigate through MacBlog easily while having a modern design, including the addition of sidebars, table of contents, and more. This makes each article in the middle of the page, with the sidebar on the left and the table of contents on the right. Now each page is more complete to help you with everything MacWeb 📄!"
+        },
+        {
+          "title": "NEW FEATURE: Sidebar!",
+          "content": "On the left of every article page, there's a new sidebar of related articles that you can click on to learn more about the topic. The sidebar also organizes every page into different categories that you can access easily, improving MacBlog navigation and performance a lot 📝."
+        },
+        {
+          "title": "NEW FEATURE: Table of Contents!",
+          "content": "Want to learn about an update or a post fast, but don't want to skim? Table of Contents have got you covered! On the right of each article page, there's a new table of contents bar that has all the links to important sections of the post, so if you're interested in a particular section in the table of contents, just click on it and it will guide you to the section so you can learn more about it easily, without scrolling through the entire article 📃!"
+        },
+        {
+          "title": "NEW PAGES!",
+          "content": "As we plan on more projects and expanding the MacWeb empire, we also added some new project pages, renamed a couple updates and renewed their content, and update pages for more complete information and navigation across the entire MacWeb information hub, MacBlog 🗺️."
+        },
+        {
+          "title": "CONTENT ADDITIONS!",
+          "content": "We also added new content and information on some of the outdated old articles to keep MacBlog and your experience on it more seamless and up to date 🔧."
+        }
+      ],
+      "others": [
+        "Implemented MacWeb Sidebar (not the sidebar mentioned above) to every page.",
+        "Fixed broken pages and content (there's a lot of them).",
+        "Removed the search bar on the top right corner of some pages because there's no functionaily available and to unify all the pages.",
+        "Removed update log pages because of new pages and structural changes."
+      ],
+      "menulinks": ["New Looks", "New Sidebar", "New Table of Contents", "New Pages", "Content Additions", "Others"]
+    }
+  },
+  {
+    "id": 17,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog July Update",
+    "sidetitle": "July Update",
+    "date": "2024-07-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this really tiny patch update, we created new pages, fixed old and outdated content, and kept your experience on MacBlog up-to-date. So let's see what we did this time:",
+      "paragraphs": [
+        {
+          "title": "New Pages",
+          "content": "With the exciting release of MacIdeas, we created new pages and updated some pages' content for this brand new app, and we also updated and created new pages for different updates across all our other apps 🆕."
+        },
+        {
+          "title": "Content Improvements",
+          "content": "There's still a lot of outdated, broken, and other stuff and content that need to be updated in MacBlog, so we fixed many pages, updated their content, and changed some descriptions to keep MacBlog updated and consistent."
+        },
+        {
+          "title": "New Update Schedule!",
+          "content": "MacBlog is your information hub for MacWeb, and it doesn't need new features or that much attention seeing that it's just an info center. Because there isn't a lot to update on MacBlog, so we'll be ditching the old monthly update schedule for MacBlog (we never did it anyway), and we'll be having random cummulative updates on an irregular interval. These kinds of updates are a bundle of stuff we did during the period to make the update have more content or changes. We'll be releasing these updates on the first day of a month, as usual, and our other apps won't be affected by this change 📅."
+        }
+      ],
+      "others": [
+        "Updated page titles and descriptions.",
+        "Updated page contents.",
+        "Fixed date format and other info on many pages.",
+        "Fixed many old broken pages and content.",
+        "Fixed and updated sidebar and menu content."
+      ],
+      "menulinks": ["New Pages", "Content Improvements", "Update Schedule", "Others"]
+    }
+  },
+  {
+    "id": 18,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog September Update",
+    "sidetitle": "September Update",
+    "date": "2024-09-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this update, we bring more new tabs, pages, and features to MacBlog to keep your experience on MacBlog more informational, fast, and clean. We also fixed and tweaked a few things. Here's what's new:",
+      "paragraphs": [
+        {
+          "title": "New Tabs & Pages!",
+          "content": "The homepage of MacBlog and the Roadmap and Posts tabs had been \"Coming Soon\" for a very long time now, and in this update, we finally added content to these pages! Now, you can access MacWeb's lastest news, different post categories, and feedback forms directly from the homepage of MacBlog, and you can finally check out our blog posts and our future plans for MacWeb in the Roadmap tab! Other than these major new pages, we also added new pages for the new update posts, blog posts, and indivisual app's own update page with every update post listed on it. We also added Terms and Conditions and Privacy Policy for you to check out our regulations and data collection plans. You can access them from the homepage 🆕."
+        },
+        {
+          "title": "New Feature: Sidebar Collapse!",
+          "content": "With an update every two months, our app's update pages are filling the navigation sidebar fast. That's why we added the new Sidebar Collapse feature, where if you click on the year header on the sidebar, every update page from that year will be collapsed, saving space from the sidebar! To view the pages again, just click on the collapsed year again. Simple and clean 🖱️!"
+        },
+        {
+          "title": "Content Improvements",
+          "content": "To keep your experience on MacBlog helpful, clean, and efficient, we improved many pages and our navigation across the site, while fixing small issues and bugs everywhere. We also improved and updated some outdated content and links 🐛."
+        }
+      ],
+      "others": [
+        "Updated page content.",
+        "Updated appearance.",
+        "Fixed broken links.",
+        "Fixed and updated sidebar and menu content.",
+        "Fixed minor bugs and issues."
+      ],
+      "menulinks": ["New Tabs", "Sidebar Collapse", "Site Improvements", "Others"]
+    }
+  },
+  {
+    "id": 19,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog Winter Update",
+    "sidetitle": "Winter Update",
+    "date": "2025-01-19",
+    "author": "Tony",
+    "content": {
+      "description": "In this huge update to MacBlog, we changed the site's appearance a lot with a brand new redesign following the recent release of MacWeb Site Material 5.0. We also updated a bunch of tabs and content to enhance user experience and aesthetic on the platform.  Here's what's new with this big udpate:",
+      "paragraphs": [
+        {
+          "title": "UI REDESIGN",
+          "content": "Since we rarely update MacBlog and it's one of our oldest apps, its styling, design, and UI were very outdated and chaotic, so with the recent release of MacWeb Site Material 5.0, we've decided to use this opportunity to compltely redesign the looks and layouts of MacBlog from the ground up on every single page using MacWeb Site Material 5.0. We made it so that the platform looks more consitent from page to page, more modern, and focuses your attention on the important information. We also made the user experience more intuitive and easier to navigate. From now on, you can enjoy an easier, more modern, organized, appealing, useful, and intuitive experience when using MacBlog! Some major changes including moving the Table of Contents inside the article itself instead of being on the right sidebar. This makes the page look less crowded 🖊️!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "We really made a lot of random changes this update, so it's kinda hard to categorize them into big sub sections for the update release log. First of all, we updated the Roadmap tab to adjust to slight changes of MacWeb's future plans. We also added a bunch of new update posts and other content across the platform. We renamed the Projects tab to the Apps tab and rearranged the items in the navigation bar as well. We also added a new update announcement modal to fit with the new Site Material 5.0 redesign. Other than that, we updated some content and moved the disclaimers to Terms and Conditions page 🔥."
+        }
+      ],
+      "others": [
+        "Updated scrollbar appearance.",
+        "Updated page content.",
+        "Updated appearance.",
+        "Fixed broken links.",
+        "Fixed and updated sidebar and menu content.",
+        "Fixed minor bugs and issues.",
+        "Removed Intro link on some pages.",
+        "Removed thumb images for posts.",
+        "Removed featured update section on the Updates tab."
+      ],
+      "menulinks": ["Redesign", "Content Improvements", "Others"]
+    }
+  },
+  {
+    "id": 20,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas v.0.7 June Release",
+    "sidetitle": "June Release",
+    "date": "2024-06-01",
+    "author": "Tony",
+    "content": {
+      "description": "Today, we're releasing the long developed new MacWeb productivity app: MacIdeas! Use MacIdeas to capture your thoughts, record down your ideas, manage your tasks, and do way more easily! Interact with Tasks, Notes, Drawings, Lists, and Boards on MacIdeas to boost your productivity like never before. See more on what we're releasing below!",
+      "paragraphs": [
+        {
+          "title": "NEW APP!!!",
+          "content": "What's better for a productivity app than an app that manages your tasks, notes, lists, and most importantly, ideas? MacIdeas does exactly just that! We're releasing this brand new powerful task management tool today to boost your productivity to the max! You can create tasks, write notes, draw drawings, manage lists, and make boards to easily manage and create ideas with MacIdeas 💡!"
+        },
+        {
+          "title": "NEW TAB: Tasks!",
+          "content": "Tasks are arguably one the most important parts of work and productivity. Record down your goals, your job, and reminders using tasks to make yourself focus on one specific goal before the due date. Tasks also remind you of events or jobs that need to be done, making you more productive. With MacIdeas Tasks, write down your tasks, manage them, edit them, and most importantly, achieve and complete them for maximum work productivity ✅!"
+        },
+        {
+          "title": "NEW TAB: Notes!",
+          "content": "Great ideas can slip away and be lost forever. That's why MacIdeas Notes is here to help! Quickly jot down your ideas, write down what you've learned, or record important information with ease. Capture anything that boosts your productivity with MacIdeas Notes, so you never miss out on inspiration again! You can manage your notes, edit them, and bring your ideas to life 📝!"
+        },
+        {
+          "title": "NEW TAB: Lists!",
+          "content": "For the next major feature we're releasing for MacIdeas in this release, we've got Lists. No matter what list it is, MacIdeas is here to help. Create detailed lists in seconds and modify or edit them easily with Lists' built in features! You can also rename or delete the list, and more awesome features will come out in the future updates 📃!"
+        },
+        {
+          "title": "NEW FEATURES COMING SOON!",
+          "content": "MacWeb's mission is to bring many awesome features to many awesome apps to everyone for free. That's why we're rolling out lots and lots of new features and updates on MacIdeas in the near future for even more productivity! Drawings, Boards, task folders, note lists,... it goes on and on. We'll try to bring all these features to MacIdeas in the next updates! So stay tuned, and see you there 🔥!"
+        },
+        {
+          "title": "NEW APPEARANCE",
+          "content": "Brand new app comes with a brand new appearance! Other than the standard MacWeb Site Material 3 on each of our apps, MacIdeas has its own appearance. On the left of each tab is the sidebar, which contains a list of your tasks, notes, or lists. There's also folders and other features on the sidebar that we'll release in the future. On the right is the main area, where you can create, edit, and manage your tasks, notes, or lists. More features will also be added to boost your productivity in the future updates, so stay tuned 🎨!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like the new update schedule we recently appiled to every other MacWeb app execpt for MacVG, MacIdeas is getting an update every 2 months. We made this change because we believe that quality is more important than quantity, and every app should have \"quality\" development time before rushing out an update, so all the apps get \"quality\" features without bugs, while giving our developers a \"quality\" break time. This means that each update comes with more features and changes that are refined and tested, ensuring the \"quality\" of the app 📅!"
+        }
+      ],
+      "others": [
+        "MacIdeas is officially published under MacWeb for the first time.",
+        "Ify got renamed to MacWork, then to MacIdeas.",
+        "Ify was aquired for free by MacWeb and renamed MacWork on October 23th, 2023."
+      ],
+      "menulinks": [
+        "New App",
+        "New Tab: Tasks",
+        "New Tab: Notes",
+        "New Tab: Lists",
+        "Features Coming",
+        "New Appearance",
+        "Update Schedule",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas v.0.12 July Update",
+    "sidetitle": "July Update",
+    "date": "2024-07-01",
+    "author": "Tony",
+    "content": {
+      "description": "This is the first update on MacIdeas since the initial release last month, and we have a bunch of changes, new features, and updates to share with you, so let's dive in and see what's new with this update:",
+      "paragraphs": [
+        {
+          "title": "Notes Rework",
+          "content": "Taking notes is one of the most important aspects on productivity, education, and many other jobs, but MacIdeas Notes didn't work properly before the update. That's why we completely reworked Notes and reimagined it from the ground up. Notes now feature a clean backdrop for you to jot down the important notes, and a floating tool bar at the bottom for key functionalities that help you when taking notes such as bolding, font size, and more coming in the future. This change makes the app clean and simple, with much more space to work with your notes comfortably. We also remade the sidebar on Notes so you can actually rename, delete, and manage different notes now. With this major rework, you can finally jot down notes at your convenience with powerful managing and editing features with MacIdeas Notes 📝!"
+        },
+        {
+          "title": "Lists Rework",
+          "content": "The old Lists worked fine, but the appearance and the features of it didn't match up with MacWeb and our expectations. That's why we also completed reworked, reimagined, and remade MacIdeas Lists from scratch. Now, there's a side bar on the left of the screen, just like Tasks and Notes, that enables you to create, rename, delete, and manage your different lists with ease. With the powerful sidebar, you can have multiple lists at the same time, making it easier than ever to organize your items and work. Lists now also has a brand new UI. Similar to tasks, type an item in the input field, and viola, you've added a new item to the list! Enjoy the new interface with powerful new features like edit, delete, and more to work with your items! We made Lists easier and more powerful than ever with this major rework 🔥!"
+        },
+        {
+          "title": "Tasks Updates",
+          "content": "We fixed a bunch of bugs in Tasks, from managing task items to renaming the task list, you can now enjoy a seamless smooth bugless task management app with refined features to manage your tasks and your workflow 🛠️!"
+        },
+        {
+          "title": "Bug Fixes",
+          "content": "Other than the bugs fixed in Tasks, we also fixed a bunch of navigation, appearance, and managing issues on other tabs to make your experience on MacIdeas faster and more optimized 🪲!"
+        }
+      ],
+      "others": [
+        "Applied MacWeb sidebar to every tab of the app.",
+        "Updated the about section of the app.",
+        "Minor appearance updates.",
+        "Minor bug fixes."
+      ],
+      "menulinks": ["Notes Rework", "Lists Rework", "Tasks Updates", "Bug Fixes", "Others"]
+    }
+  },
+  {
+    "id": 22,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas v.1.0 September Update!",
+    "sidetitle": "September Update",
+    "date": "2024-09-01",
+    "author": "Tony",
+    "content": {
+      "description": "With the introduction of the awesome Drawings tab, MacIdeas version 1.0 is oficially available with all the major tabs to help you boost your productivity even more than before!!! Other than the new Drawings tab, we also have a couple minor changes and tweaks this update:",
+      "paragraphs": [
+        {
+          "title": "NEW TAB: Drawings!",
+          "content": "Sure, you can use Notes to jot down your ideas or use Tasks to manage your tasks, and use Lists to list out items. But what's better than drawing something out and visualizing it? Or to create something? Or to imagine something? The new Drawings tab is here, and it gives you infinite possibilities. You can use it however you want, to learn, to make, or to just draw for fun! You can switch colors, adjust brush size, and more. Even better, a lot of features are coming in the future for you to use it like a whiteboard or create a mindmap to plan for something. You can do anything with the new Drawings tab 🖌️!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "Because we believe in quality over quantity, we're focusing on fewer individual apps with many features rather than making a bunch of apps with less quality. That's why we decided to merge the Drawings tab with the originally planned Boards tab. The Boards tab was planned to be an interactive whiteboard and mindmap maker, but we figured that's very similar to what we planned for the Drawings tab. To make MacIdeas more effective and not confusing, we're integrating all the features we planned for Boards to the Drawings tab in the future, so stay tuned 🔥!"
+        }
+      ],
+      "others": [
+        "Updated homepage with links for the MacIdeas tabs.",
+        "Removed unnecessary files.",
+        "Reorganized some files.",
+        "Minor appearance updates.",
+        "Minor bug fixes."
+      ],
+      "menulinks": ["New Tab: Drawings", "Site Improvements", "Others"]
+    }
+  },
+  {
+    "id": 23,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas v.1.3 November Update!",
+    "sidetitle": "November Update",
+    "date": "2024-11-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this first feature drop update after the MacIdeas version 1.0 update, we're not only releasing a bunch of new exciting content and features that boost your productivity, but also improving and fixing a lot of stuff, along with a new update schedule! Let's see what's new with this big update:",
+      "paragraphs": [
+        {
+          "title": "MULTIPLE TASK LISTS",
+          "content": "Back in the July update, we introduced the new Create List feature for Lists that allows you to create new lists and check/manage multiple lists at the same time, instead of only limiting to one list. We're very excited to announce that we're releasing this feature to MacIdeas Tasks, too! Now, you can create multiple task lists each with different tasks, and view/manage them individually! You can also rename or delete task lists. With this powerful new feature, you're no longer limited to one task list, but you can create multiple task lists each for a different job and switch between them seamlessly! Now, your productivity's only limitations is you 🔥!"
+        },
+        {
+          "title": "TASKS IMPROVEMENTS",
+          "content": "Other than allowing you to create different task lists, we also rewrote the code logic behind Tasks so it's more performance optimized, faster speeds, and more user friendly! We also added a new welcome landing page for tasks and fixed a couple bugs with Tasks. Now, you can manage your tasks easier and faster than ever before ✅!"
+        },
+        {
+          "title": "NEW NOTES FEATURES",
+          "content": "Before this update, you could only change the font size of your note, which didn't do much. But now, we're turning MacIdeas Notes into a rich text editor that can format, organize, and create unique text. In this update, we're adding four new feautures: Bold, Italic, Underline, and Strikthrough to MacIdeas Notes! Simply select the text in the note you want to format, then choose which formatting option you want, then click on the button, then you're done! This makes Notes so much more helpful because you can easily see important text or sentences thanks to formatting! We're planning on adding more options like highliting and making lists to make Notes ever more powerful in the future 📝!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "We tweaked with the overall style for a little bit to make sure that your experience on MacIdeas is intuitive and appealing to use. We added a small title for each button and feature that explains what it does when you hover over it so you'll never get stuck not knowing what a button is for. We also added some quality of life changes like pressing the enter key to finish editing a task."
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like the new update schedule we're applying to other MacWeb apps, MacIdeas is also getting a new update schedule. From this update forward, MacIdeas is going to get an update every 3 months. This means we'll release a new update for MacIdeas each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features 📅!"
+        }
+      ],
+      "others": ["Minor appearance updates.", "Minor bug fixes."],
+      "menulinks": ["Task Lists", "Tasks Improvements", "Notes Features", "Content Improvements", "Update Schedule", "Others"]
+    }
+  },
+  {
+    "id": 24,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas v.1.5 Winter Update!",
+    "sidetitle": "Winter Update",
+    "date": "2025-02-01",
+    "author": "Tony",
+    "content": {
+      "description": "The MacIdeas v.1.5 Winter Update is here! With the refreshed redesign look, the brand new Calendar Tab, and more features and improvements! Check out what's new to MacIdeas this update below:",
+      "paragraphs": [
+        {
+          "title": "REDESIGNED & REFRESHED",
+          "content": "MacIdeas was a completely different app, Ify, a year ago, so it has a lot of outdated design, styling, and appearance. With the recent release of MacWeb Site Material 5.0, we've decided to use this opportunity to completely redesign the looks and layouts of MacIdeas using MacWeb Site Material 5.0. We made it so that the platform looks more consitent from page to page, more modern, and focuses your attention on the important information and your tasks. We also made the user experience more intuitive and easier to navigate. From now on, you can enjoy a sleeker, more modern, organized, appealing, useful, and intuitive experience when using MacIdeas 💡!"
+        },
+        {
+          "title": "NEW TAB: Calendar!",
+          "content": "Recently, we renamed our time app, MacTime, to MacTools with a bunch of new features and new tabs, and the app now focuses on small utilitiy tools instead of productivity apps. Because of this, we've moved the Calendar tab from MacTools to MacIdeas because MacIdeas is all about making your ideas come to life and making you more productive with your tasks and work. With the new Calendar tab now in MacIdeas, you can keep track of all your events, tasks, and more all in one place along with other productivity tools! This will make MacIdeas more powerful than ever and we'll integrate tasks and lists with Calendar in the future 📅!"
+        }
+      ],
+      "others": [
+        "Changed update announcement to a modal to match with MacWeb Site Material 5.0.",
+        "Minor appearance updates.",
+        "Minor bug fixes."
+      ],
+      "menulinks": ["Redesign", "New Tab: Calendar", "Others"]
+    }
+  },
+  {
+    "id": 25,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.5 Anniversary Update",
+    "sidetitle": "Anniversary Update",
+    "date": "2024-02-11",
+    "author": "Tony",
+    "content": {
+      "description": "Not only is this massive MacLearn update the first prerelease update, it's also MacLearn's birthday. Exactly 365 days ago, on the 11th of February, 2023, MacWeb's first app, MacLearn, was born. Over this year, many, many things happened. But MacLearn's still here. It went from Coding Place to MacCode, and finally to MacLearn, this app went through a lot of changes. In this busy year, MacLearn went from 2 tutorial articles to 26, with tons of other new pages, courses, features, and more planned to be released. To honor this incredible year for MacWeb, here's a massive anniversary update to MacLearn.",
+      "paragraphs": [
+        {
+          "title": "APP REBRANDING",
+          "content": "We're expanding MacLearn to become the best and the most resourceful online learning education platform, so we renamed it from MacCode (which only focused on coding) to MacLearn, where you can access tons of valuable resources and support for a wide variety of subjects and knowledge. We're also rolling out massive user interface changes, user experience updates, and a new logo for this anniversary rebranding 📖! "
+        },
+        {
+          "title": "NEW COURSES",
+          "content": "We basically recreated the whole app in this massive update, because we're giving out massive changes to existing courses (HTML and Refrences) and releasing tons of new courses, articles, and resources for almost any subject in the future! In the next couple updates, we're gonna be publishing the CSS and JavaScript courses, so stay tuned 🆕!"
+        },
+        {
+          "title": "NEW ARTICLES",
+          "content": "From the old Coding Place to the new MacLearn, there's a lot of information that needed to be updated and rewritten, plus even more updates for functionality and appearance changes. We rewrote every article and also published some new ones, so you can learn and master a course more easily! On top of that, we're also introducing new quizzes and exercises for you practice in this update ✏️! "
+        },
+        {
+          "title": "NEW NAVIGATION BAR",
+          "content": "In order to give you the easiest, quickest, and most effective way to learn different subjects, we're rolling out a brand new powerful navigation bar on top of each pages! It has many dropdown menus for course catagories and a help menu, and when you hover over them, a list of subjects and courses will appear, and you can navigate to any course you want easily just by clicking on it! This makes all the courses organized while being easily accessible at the same time! We also added new styles, effects, and links to align MacLearn to MacWeb Site Material 2 so it feels the same as other MacWeb apps 🔥! "
+        },
+        {
+          "title": "NEW APPEARANCE",
+          "content": "To make MacLearn more user friendly, modern, and unified with other MacWeb apps and match with MacWeb Site Material 2, we revamped the whole layout, content, and styling for every single page to enhance your experience on MacLearn! With carefully designed pages, you'll have a better and more comfortable learning experience 🎨! "
+        },
+        {
+          "title": "NEW PAGE: Playground!",
+          "content": "What's the point of learning to code if you can't try it out on your own? That's why we're releasing our brand new in-app online code editor Playground in this update, so you can try out your coding skills, practice, and be a master of programming! Currently, you can code in HTML, CSS, and JavaScript in Playground, and more languages will be supported in Playground soon 🧑‍💻!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like all the other MacWeb apps, MacLearn will also receive regular updates monthly, with new contents, resources, articles, pages, features, and more releasing on the first day of each month! Because of regular updates, soon, MacLearn will have tons of new courses, resources, and features 📆!"
+        },
+        {
+          "title": "FUTURE PLANS",
+          "content": "From this anniversary update to the version 1.0 release, we'll continue rolling out awesome features, tutorials, and more. The primary focus we'll be working on is the learning path. We'll add more exercises and quizzes for learners to test their skills, and by doing that, they'll remember more and master courses more easily. We'll also make the learning process fun by adding game elements and more to help with your learning journey. Onward ✈️!"
+        }
+      ],
+      "others": [
+        "Changed HTML and Refrences to Beta Courses.",
+        "Brand new appearance and functionalities on each tab and page.",
+        "Brand new pages.",
+        "Brand new sidebars.",
+        "Brand new visual effects.",
+        "Brand new user interface and user experience.",
+        "Bug fixes and navigational problem fixes.",
+        "Fixed footer problems and new footer content.",
+        "New feedback form and support page.",
+        "New update page.",
+        "New home page course page and content.",
+        "New update banner on top of the home page.",
+        "Removed many pages because of site renovation."
+      ],
+      "menulinks": [
+        "App Rebranding",
+        "New Courses",
+        "New Articles",
+        "New Nav Bar",
+        "New Appearance",
+        "New Page",
+        "New Update Schedule",
+        "Future Plans",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.12 March Update",
+    "sidetitle": "March Update",
+    "date": "2024-03-01",
+    "author": "Tony",
+    "content": {
+      "description": "Only 17 days after the huge anniversary update, MacLearn is receiving yet another update, only huger and better. This is probably the BIGGEST update that's ever been dropped for any MacWeb app! From Code Labs to new looks, from new articles to tons of new features, March update is bringing so many exciting stuff for MacLearn that's gonna help your learning experience by A TON. We've basically remade the whole platform from the ground up. This update changes MacLearn so much that this article will be too long for anyone to read. So dive in if you want, or just skim through the headers. Let's go! ",
+      "paragraphs": [
+        {
+          "title": "NEW LOOKS!",
+          "content": "We completely refreshed the layouts, styling, colors, and looks on every single one of our pages. We updated the homepage and several other tabs to create a more welcoming and modern experience on MacLearn. We also gave each article and tutorial a complete fresh new look with a darker background, lighter and bigger text, improved sidebar navigateability, and the placement of buttons and text fields. Other than these, we also updated the appearance by a ton across the entire site, to help you focus on learning, with an appealing and refreshing look, and not getting distracted by other stuff on the page 🖌️!"
+        },
+        {
+          "title": "INTRODUCING: QUIZ 2.0!",
+          "content": "The old quizzes we had for MacLearn was terrible. The functionality, the implementation, the interface, and the questions were all outdated and barely usable. That's why we completely remade Quiz from scratch, introducing: Quiz 2.0! With this new quiz system, you can choose when to start a new quiz, go forward and backward between questions, look at the options more clearly, select your answer easily, being able to see your score, and either review or move on along the course after finishing the quiz. We added so many more features and convenience that make it easier to practice and use your skills 📝!"
+        },
+        {
+          "title": "NEW FEATURE: CODE LAB!",
+          "content": "I'm speaking from experiences here: learning to code without trying it out yourself does not make you learn anything. Sure, you can memorize what syntax does what, but without trying it out and playing around it, you don't really understand how it works. That's why we're adding a brand new feature: Code Lab, to MacLearn! It's basically a mini code editor playground built in on the page, along with the tutorial, so you can immediately try out the new skills you learned from that article! You can enter anything from the left editor and see the output in realtime on the right! This makes it so much easier to let you really understand and try out the new skills you learned 🧑‍💻!"
+        },
+        {
+          "title": "NEW FEATURE: CODE SNIPPET!",
+          "content": "Other than the extremely powerful and useful Code Lab, we also added a new feature: Code Snippet, to MacLearn! Code Snippets provide an example of a piece of code that demonstrates how a new skill is used in that coding language. With this new feature, it's easier than ever to see the real code and try it out yourself 📎!"
+        },
+        {
+          "title": "NEW FEATURE: TOP BAR",
+          "content": "Our articles and tutorials often cover a lot of stuff and the page often gets very long. With the new Top Bar always sticking on the top of a page, it has info about the page like page title, last updated date, and several buttons that we'll talk about below. With the new top bar, it's easier to see the page's related info and functionality 📊."
+        },
+        {
+          "title": "NEW FEATURE: SAVE!",
+          "content": "This is definitely one of the most important new features we've ever released on MacLearn. You can now save your favorite tutorials pages to view them again in the future or as a bookmark! This makes it much more easier to review important skills or tricky topics. It also lets you continue your learning journey on the course! You can view all your saved pages in the Me tab ⭐!"
+        },
+        {
+          "title": "NEW FEATURE: SHARE!",
+          "content": "Another crazy feature we're dropping in this update is the new Share Page feature! Now, with a single click of a button, you can share a MacLearn article on many different social media platforms, or copy the link of the page! With this feature, you can spread the knowledge and resources on MacLearn to everyone for them to learn 📨!"
+        },
+        {
+          "title": "NEW FEATURE: REPORT!",
+          "content": "Encountered a bug on the page or just on MacLearn in general? Or do you just want to submit a feedback? The third feature we're releasing in this update: Report, does just that! Click on it, fill out a form, submit, and you're done ⚠️!"
+        },
+        {
+          "title": "REWRITTEN PAGES!",
+          "content": "Ever since the old Coding Place from well over a year ago, too much has happened. We've improved our app quality by a ton, and things have changed, too. So we basically rewrote and improved every single page in MacLearn to keep the info and resoruces up to date and quality 👍!"
+        },
+        {
+          "title": "NEW COURSE HOMEPAGE!",
+          "content": "We're not even close to done with so many major imporvements and updates so far! We completely revamped each of our couse's homepage to keep it comprehensive, visually appealing, and useful to everyone 🏠."
+        },
+        {
+          "title": "NEW COURSE NAVIGATION!",
+          "content": "Because of our improvements on MacLearn's quality, we've decided to add some new pages to our existing courses and changed the order or the articles a bit to focus on various topics and better match a learner's flow and provide them a better learning journey through the courses ✈️!"
+        },
+        {
+          "title": "NEW TAB: ME!",
+          "content": "To see all your saved pages, your learner's profile, and your progress on the courses, simply go to the new Me tab from the navigation bar to access all your profile's information 🏫!"
+        }
+      ],
+      "others": [
+        "Fixed article dates to American format.",
+        "Fixed outdated contents and improved optimization on each page.",
+        "Fixed appearance bugs and problems.",
+        "Fixed Refrences and other pages navigational problems and bugs.",
+        "Fixed footer date and related information.",
+        "Removed About page and moved it to MacBlog, MacWeb's info hub.",
+        "Removed initial release date of the article, only the updated date is displayed."
+      ],
+      "menulinks": [
+        "New Looks",
+        "Quiz 2.0",
+        "Code Lab",
+        "Code Snippet",
+        "Top Bar",
+        "New Feature: Save",
+        "New Feature: Share",
+        "New Feature: Report",
+        "Rewritten Pages",
+        "New Homepage",
+        "New Navigation",
+        "New Tab: Me",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.12.5 April Update",
+    "sidetitle": "April Update",
+    "date": "2024-04-01",
+    "author": "Tony",
+    "content": {
+      "description": "We barely touched MacLearn this month, because we already updated it a month ago, and it was MASSIVE. This month, we focused on revamping MacBlog and improving MacVG, so we didn't do that much changes to MacLearn, so let's see what's different here:",
+      "paragraphs": [
+        {
+          "title": "NEW LOOKS!",
+          "content": "We updated the sidebar on the left of each article so each section of each unit is seperated properly by their articles with new quizzes, sections, and units that help you learn and practice coding more 🎓!"
+        }
+      ],
+      "others": [
+        "Fixed Quiz 2.0 not saving and a new finish page.",
+        "Fixed Quiz 2.0 previous and next buttons not working properly.",
+        "Fixed Quiz 2.0 bugs and issues.",
+        "Minor appearance and functionality changes."
+      ],
+      "menulinks": ["New Looks", "Others"]
+    }
+  },
+  {
+    "id": 28,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.14 July Update",
+    "sidetitle": "July Update",
+    "date": "2024-07-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this huge update after the last update from more than 3 months ago, we have a lot of new changes, content, and features to announce, including a NEW BETA COURSE on MacLearn! Check out all the updates we made to MacLearn below!",
+      "paragraphs": [
+        {
+          "title": "NEW BETA COURSE: CSS!",
+          "content": "As we promised, we're releasing the brand new and long waited new course: MacLearn CSS Course, in the fall of 2024, but before that, we need to roll out the beta version for testing and feedback purposes to make MacLearn more perfect. That's why we're releasing the beta course to everyone in this update, with tons of new tutorials, content, topics, quizzes, units, and so much more about CSS! Although we're still massively updating the beta course and its articles, we're releasing it to the public for you to learn a bit more and give feedback to improve MacLearn! We hope to turn MacLearn into the best platform to aquire an important skill, that's why we're constantly releasing and updating courses about web development, and make you a master of it! With the addition of the CSS course, MacLearn will have more resources than ever for a beginner like you to learn about web dev 🆕!"
+        },
+        {
+          "title": "NEW LEARNING PATH!",
+          "content": "We completely replanned the learning paths of our courses to make your learning experience the most efficient, effective, and easy way to learn and master a new skill! Previously, we only had two units with two quizzes with a bunch of tutorials, but now, we seperated articles into smaller units that have tutorials focusing on the same topic, boosting the efficiency on understanding. We also added a bunch new quizzes at the end of each smaller unit (that's a lot more quizzes!) to make you practice and think about what you learned to root your understanding. With these changes, it's easier than ever to learn, practice, review, and master the skill with a better flow of knowledge 🗺️!"
+        },
+        {
+          "title": "NEW COURSE STRUCTURES!",
+          "content": "Along with the seperation of smaller units focusing on a key topic, we seperated each course into two sections: Beginner and Advanced, each with 5 to 8 different subunits with a quiz at the end of each subunit. That makes a total of almost 20 quizzes and exercises in a course, meaning that you have more opportunites to practice what you've learned on the key topics, and move on to focus on the next. There's also new buttons at the bottom of the side bar that takes you to the previous or the next section, for easier navigation between the large collection of resources here on MacLearn 🏫!"
+        },
+        {
+          "title": "CONTENT UPDATES!",
+          "content": "Because of the major updates on our course structure, there's a lot to be updated! We created a bunch of new tutorials and articles to provide even more knowledge and resources on the key topics of the subunits, and we also updated the content of each article to be more accurate and focused on the key topic. On top of that, we released new quizzes that also focus on the key topics, to make sure you've really mastered that subunit! We also updated some outdated content and reorganized some files and folders for a cleaner, faster, and smoother experience on MacLearn 🔥!"
+        },
+        {
+          "title": "APPEARANCE UPDATES!",
+          "content": "With the constant improvements on the styling of MacWeb apps, many of MacLearn's older pages and articles are getting out of date, so we updated our styling on MacLearn Playground to look more modern and match with the new designs of MacLearn. We also updated some older pages' layouts and appearance to fix broken styling and to make the pages look more clean and unified with other MacLearn pages. We also applied some minor changes to the genral appearance of MacLearn. Enjoy the new refreshed look of the pages 🖌️!"
+        }
+      ],
+      "others": [
+        "Updated content on many pages and tutorials.",
+        "Fixed navigation issues on the side bar.",
+        "Fixed navigation issues on the navigation bar.",
+        "Fixed navigation issues on older pages.",
+        "Fixed navigation issues on some quizzes.",
+        "Fixed broken styling and layouts on older pages.",
+        "Reorganized some files and folders.",
+        "Minor appearance and functionality changes."
+      ],
+      "menulinks": ["New Course", "Learning Path", "Course Structure", "Content Updates", "Appearance Updates", "Others"]
+    }
+  },
+  {
+    "id": 29,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.19 September Update",
+    "sidetitle": "September Update",
+    "date": "2024-09-01",
+    "author": "Tony",
+    "content": {
+      "description": "We've released MacLearn, massively updated it, and added so much new stuff and content in the past year, and we're finally moving from its early phases closer and closer to v.1.0 release. In this crazy massive update, we jumped straight from v.0.14 to v.0.18, and for a good reason. Even though there's only 5 changes, they're all massive. We changed almost everything about MacLearn in this huge update. Here's what's new:",
+      "paragraphs": [
+        {
+          "title": "HUGE COURSE RESTRUCTURE",
+          "content": "This is easily the biggest change we've ever applied to MacLearn. We had some rather ambitious plans of courses for MacLearn in the future, but because we're a small team and there's many other apps we're also actively working on, it's impossible to achieve these plans and complete the 20+ courses ranging from algebra to history. So we cancelled them. There's just not enoughh resources and time available, and it might not be worth it if we went all in and developed these courses. This is a loss on MacLearn's potential, but after the initial stages of MacLearn and after everything's done, fixed, and stabilized, and after we've grown enough, maybe there's a chance we'll bring some of these courses (or all of them) back in the future. For now, we've reduced the original planned 26 courses down to 3, focusing on our basic web development courses: HTML, CSS, and References. HTML is currently in beta testing, and CSS and References are still in development. We hope the reimagined and restructured MacLearn can be more focused on a few specific courses, bringing more educational resources to people interested in these topics. See you there 🎒!"
+        },
+        {
+          "title": "FOLDERS & FILES REORGANIZATION",
+          "content": "Other than the huge removal of courses and deleting their related files and folders, we also updated how we organize our files and folders within MacLearn's structure. We moved some files/folders around, deleted many unneccessary files/folders, renamed some things, and made the site's files more organized and clean to work with. Because of this change, we had to update a lot of pages because of the huge file organization changes and fixed many broken links/styling along the process. This made MacLearn feel much more clean and fresh 📂."
+        },
+        {
+          "title": "CSS ADVANCED SECTION!",
+          "content": "In this update, we're releasing the advanced section of the CSS course! This is a huge step forward on the development of MacLearn, because it provides even more tutorials, resources, and education on the advanced aspects of CSS, making the course more complete and resourceful for everyone. Because the advanced section is released, we're adding a bunch more advanced tutorials, pages, and more! We also updated and fixed broken links in the course sidebar navigation and the CSS homepage because of the advanced section addition 📚!"
+        },
+        {
+          "title": "CSS BEGINNER SECTION COMPLETED!",
+          "content": "We're very excited to announce that the beginner section of the newest released course, MacLearn CSS Course, is complete! All the articles, tutorials, and resources you need to learn the basics for CSS are all completed and finished! We added so many new articles and tutorials, improved the navigation of the section, and updated a bunch of old content and patched many bugs. The quizzes and exercises in this section will be completed in the next update. The CSS course is now better than ever for you to start learning and styling your website 🖌️!"
+        },
+        {
+          "title": "NEW TAB: Me!",
+          "content": "What's the point of a learning platform if you can't track your own learning progress? That's what the brand new Me Tab is for! With the new Me, you can now check your learner's profile on MacLearn, how much progress you've made on your courses, along with your starred pages and tutorials. With this useful new tab, your learning experience is more customized than ever! More features and customization to your profile will be coming in future updates, so stay tuned 🧑‍🎓!"
+        }
+      ],
+      "others": [
+        "Added new pages and tutorials.",
+        "Updated links, images, and content on many pages and tutorials.",
+        "Fixed navigation issues on the side bar.",
+        "Fixed broken styling and layouts on older pages.",
+        "Removed the hover tilting effect from the homepage.",
+        "Removed the announcement banner on unneeded pages.",
+        "Minor bug fixes.",
+        "Minor appearance and functionality changes."
+      ],
+      "menulinks": ["Course Restructure", "File Reorganization", "CSS Advanced", "CSS Completed", "New Tab: Me", "Others"]
+    }
+  },
+  {
+    "id": 30,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.23 November Update",
+    "sidetitle": "November Update",
+    "date": "2024-11-01",
+    "author": "Tony",
+    "content": {
+      "description": "This huge update is yet another big step towards MacLearn's version 1.0. With this update, we're completing all the courses, perfecting the website, bringing a huge refreshed redesign to the platform, and so much more! Here are what we changed in this crazy update:",
+      "paragraphs": [
+        {
+          "title": "CSS ADVANCED COMPLETED!",
+          "content": "We introduced the CSS course advanced section just last update, and we've already added all the tutorials in the CSS advanced section in this update! Now, you can fully access all the resources and lessons we've created for more advanced CSS concepts! Not only will this help you learn and understand more about CSS, it also marks the completion of the CSS course on MacLearn ✅!"
+        },
+        {
+          "title": "ENTIRE CSS COURSE COMPLETED!",
+          "content": "Not only did we finish adding all the tutorials in the CSS advanced section, we also finished adding and perfecting all the quizzes and exercises in both the CSS advanced section and the CSS beginner section in this update! Now, you can practice all the skills you've learned from the course in well-designed quizzes that will boost your understanding of CSS concepts even more! This means that we've finished adding everything we planned for the CSS course, meaning that all the courses on MacLearn are now completed 🔥!"
+        },
+        {
+          "title": "REDESIGNED & REFRESHED",
+          "content": "Since MacLearn is our oldest app, its styling, design, and UI were very outdated and chaotic, so with the recent release of MacWeb Site Material 5.0, we've decided to use this opportunity to compltely redesign the looks and layouts of MacLearn from the ground up using MacWeb Site Material 5.0. We made it so that the platform looks more consitent from page to page, more modern, and focuses your attention on the important information. We also made the user experience more intuitive and easier to navigate. From now on, you can enjoy an easier, more modern, organized, appealing, useful, and intuitive experience when using MacLearn 🖊️! (Note that this is a very huge change on MacLearn, so it's still a work in progress, but most of MacLearn already has the new design applied)"
+        },
+        {
+          "title": "CODE LABS 2.0",
+          "content": "The old interactive playground, Code Labs 1.0, featured a code editor on the left, and an output window on the right. Sure, it worked fine, but it's not good enough for MacLearn. Today, we're introducing Code Labs 2.0 that features tabs for different editors and the output window! Every interactive Code Lab now has 4 different tabs that you can switch from: HTML, CSS, JavaScript, and Output. You can switch between different languages' editors in no time. We made this change so there's a lot more space to work with, when coding or when viewing the output, instead of the old cramped space that's divided in half. You also get to see and modify different languages' codes, instead of only one language. Other than this, we also enhanced the overall experience and updated some Code Labs' content 🧪!"
+        },
+        {
+          "title": "CONTENT UPDATES",
+          "content": "In this huge update, we also updated a lot of tutorials' content and information to keep them up to date and useful when learning about web development. We optimized the code behind every single tutorial on the platform for them to load faster, more readable, and more organized with all that information. This update makes your experience on MacLearn more seamless than ever 🏫!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS",
+          "content": "Other than all the huge changes listed above, we also fixed and improved a lot of aspects about MacLearn. Because of the new design system and UI, we've moved the Me tab to the profile icon on the top right corner or the screen. We also revamped the CSS course homepage because of all the exciting new tutorials and quizzes. And, you can now save CSS tutorials to the Me tab, too. We made all these changes to help make your experience on MacLearn easier, more intuitive, and seamless 💪."
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like the new update schedule we're applying to other MacWeb apps, MacLearn is also getting a new update schedule. From this update forward, MacLearn is going to get an update every 3 months. This means we'll release a new update for MacLearn each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features 📅!"
+        }
+      ],
+      "others": [
+        "Updated major tabs' content.",
+        "Updated some interactive Code Labs.",
+        "Updated some tutorials' content.",
+        "Updated dates on some tutorials.",
+        "Fixed broken styling and layouts on older pages.",
+        "Minor bug fixes.",
+        "Minor appearance and functionality changes."
+      ],
+      "menulinks": [
+        "CSS Advanced",
+        "CSS Completed",
+        "Redesign",
+        "Code Labs 2.0",
+        "Content Updates",
+        "Content Improvements",
+        "Update Schedule",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.0.25 Winter Update",
+    "sidetitle": "Winter Update",
+    "date": "2025-02-01",
+    "author": "Tony",
+    "content": {
+      "description": "This huge update is yet another big step towards MacLearn's version 1.0. With this update, we've completed applying the Site Material 5.0 redesign across the entire platform and every single page, updated site content, improved and fixed a bunch of stuff, and so much more! Here are what we changed in this crazy update:",
+      "paragraphs": [
+        {
+          "title": "REDESIGN COMPLETED!",
+          "content": "Since last update, we've been hard at work to complete applying the new Site Material 5.0 redesign across the entire platform to improve usability, visual appearance, and overall performance of MacLearn. In this update, we updated every HTML tutorial page to give them the cleaner better redesigned view and interface. We also applied the redesign to every HTML and CSS quiz page and some other pages on MacLearn to ensure everything works properly and look unified 🔥!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS!",
+          "content": "To ensure each page works as expected with the new Site Material 5.0 redesign, we updated every HTML tutorial page's content and user interface. We also temporarily removed the Save, Report, and Share features to make sure the platform doesn't break. Don't worry, they'll come back next update or in the near future. We also fixed a bunch of appearance bugs and updated some site appearance on older pages to match with the redesign. We removed some unneccesary files and code and optimized some code as well. We also changed the update announcement modal with a new thumbnail image and layout to match with MacWeb's design system 💪."
+        }
+      ],
+      "others": [
+        "Updated some interactive Code Labs.",
+        "Updated some tutorials' content.",
+        "Fixed broken styling and layouts on older pages.",
+        "Removed extra code and files.",
+        "Appearance and functionality changes.",
+        "Minor bug fixes."
+      ],
+      "menulinks": ["Redesign Completed", "Content Improvements", "Others"]
+    }
+  },
+  {
+    "id": 32,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.0.5 Release",
+    "sidetitle": "January Release",
+    "date": "2024-01-20",
+    "author": "Tony",
+    "content": {
+      "description": " Today, a brand new MacWeb app is made public: MacTime! Keep track of your time and your tasks with Time, Calendar, Timer, Stopwatch, Focus, and more features from MacTime! Check the time, add events in Calendar, add a count down, measure time, and focus on your work with this brand new handy app for you! ",
+      "paragraphs": [
+        {
+          "title": "NEW APP: MacTime!",
+          "content": " A new app is coming to MacWeb: MacTime! With this powerful new app, your work and daily lives both got easier! Keep track of important events, tasks, and dates with our customizable timing features! Know the time in different time zones, create and schedule events, create a count down, time an event, and focus on work, and so much more! We are very excited to announce the new MacTime's first verion 0.5 release, because this app will be so awesome for productivity ⚒️! "
+        },
+        {
+          "title": "NEW TAB: Time!",
+          "content": " Time is the homepage of MacTime. It shows the precise time of your time zone down to a second's accuracy! You can see the time clearly, see the date, and more time related information! More features like time zones, customization, weather, and other useful functionalities will also come to Time in future updates 🕒! "
+        },
+        {
+          "title": "NEW TAB: Stopwatch!",
+          "content": " You always need an app to time something, from how fast you can finish a task, time a race, or do other things, and Stopwatch helps you do that! Simply press the space bar or click the button to start timing, and click the pause button to end the timing, and press reset to use time again! More features and customization will also come in future updates ⏱️! "
+        },
+        {
+          "title": "NEW TABS COMING SOON",
+          "content": "Even more apps will come to MacTime soon! Calendar, where you can create events for each day and keep track of your work; Timer, where you can create a count down timer for an event; and Focus, where you can create a focus session for work! These awesome new features will come to MacTime in future updates, as this release is only version 0.5 📅!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE",
+          "content": "Just like all the other MacWeb apps, MacTime will also receive regular updates annually, with new features and changes releasing on the first day of each month! Stay tuned, because soon MacTime will become so feature packed that you cannot resist to use it for productivity 🔥! "
+        }
+      ],
+      "others": [
+        "Brand new appearance and functionalities on each tab and page.",
+        "Added MacWeb's sidebar to easily navigate between all MacWeb apps.",
+        "A refreshed look matching the release of MacWeb Site Material 2.",
+        "Brand new visual affects.",
+        "Brand new user interface and user experience."
+      ],
+      "menulinks": [
+        "New App Release",
+        "New Tab: Time",
+        "New Tab: Stopwatch",
+        "New Tabs Coming Soon",
+        "New Update Schedule",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.0.6 February Update",
+    "sidetitle": "February Update",
+    "date": "2024-02-03",
+    "author": "Tony",
+    "content": {
+      "description": "At the beginning of this month, our newly developed and released app, MacTime, is getting its version 0.6 update with a bunch of new features, changes, and more! Let's see what's new in this early but important update!",
+      "paragraphs": [
+        {
+          "title": "NEW TAB: Timer!",
+          "content": "This is definitely one of the most important, fundational, and useful features for MacTime. What is a time app when it doesn't have a count down timer? So we're introducing a count down timer that can count down from 5 seconds to more than 10 minutes! As this is more of a fundational feature update, we only developed the basic features, with a Start/End button, time display, and a progress bar that shows how much time has passed. This is a very simple but powerful tab. Don't worry, more advanced features and customizations are coming to MacTime Timer in future updates, so stay tuned ⌛!"
+        },
+        {
+          "title": "NEW COLLAPSIBLE MENU",
+          "content": "Following the release of MacWeb Site Material 2, we introduced the sidebar on different MacWeb apps and other appearance changes, including the brand new collapsible menus. We're also adding a collapsible menu in MacTime: Help! Help is where you can get update information, app documentation, feedback, and more support directly from MacTime, so you won't have any trouble using any of our apps while also using MacTime in the most effective way 📃!"
+        },
+        {
+          "title": "What's the Future of MacTime?",
+          "content": "For the first few updates since v.0.5 release, we'll continue pushing out basic and foundational features like Time, Stopwatch, Focus... , and after these basic features are all settled, we'll be rolling out more customizations, settings, and other options on these tabs for a more advanced user experience when using MacTime in later updates. So stay tuned, because you're gonna want to use the powerful MacTime app for your daily tasks 🔮! "
+        }
+      ],
+      "others": [
+        "Minor appearance and functionality changes on each tab and page.",
+        "New appearance and content of the update announcement banner.",
+        "Bug fixes on timer not counting properly and time not working.",
+        "Bug fixes on time not displaying correctly and navigation changes.",
+        "Minor user interface and user experience updates."
+      ],
+      "menulinks": ["New Tab: Timer", "New Collapsible Menu", "Future of MacTime", "Others"]
+    }
+  },
+  {
+    "id": 34,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.0.9 March Update",
+    "sidetitle": "March Update",
+    "date": "2024-03-01",
+    "author": "Tony",
+    "content": {
+      "description": "At the beginning of this month, our newly developed and released app, MacTime, is getting its version 0.6 update with a bunch of new features, changes, and more! Let's see what's new in this early but important update!",
+      "paragraphs": [
+        {
+          "title": "NEW TAB: Alarm!",
+          "content": "What can better help you track your time than a powerful alarm? Introducing: MacTime Alarm! Now, you can choose a precise time to set an alarm, and as long as you keep the tab open, you'll get a reminder once the time's up! Simply click on the dropdowns and select \"Set Alarm\", and you can work without distraction and with Alarm to help you manage your time more efficiently without getting lost in time ⏰! "
+        },
+        {
+          "title": "NEW TAB: Countdown!",
+          "content": "Countdown is another powerful time tool developed by MacTime that shows you how much time is left until a future date! It can be as general as hundreds of years away, or as specific as seconds! Get the precise and accurate countdown for a date using the Countdown tab! You can use it to see how many days you have for an important event, or for the New Year countdown! Use Countdown however you like with more customizations coming in future updates 📅!"
+        },
+        {
+          "title": "NEW TAB: Focus!",
+          "content": "Focus could be one of the most important time productivity tools in MacTime! Focus helps you focus for a session of time that you can customize, and every time the session ends, it lets you rest for 5 minutes until you can focus and work again! Focus uses the Pomodoro Technique to help you get the most out of your time while not being too stressed! Simply click the Start button and follow the prompts on the screen to use it ⏲️!"
+        },
+        {
+          "title": "NEW APPEARANCE!",
+          "content": "Along with other MacWeb apps, MacTime is also getting its own color for a more unified, distinct, modern, and comfortable user experience! Originally we had dark blue for logo color, gold for accent color, and a lot of other random colors, but in this update, we changed all the colors to either green or neutral, so it's easier to navigate and use the app. Green also represents growth, which is what MacTime is for: to help you grow and improve with our powerful time management tools! The new colors also make the experience more vibrant and easier on the eyes 🎨."
+        }
+      ],
+      "others": [
+        "Minor appearance and functionality changes on each tab and page.",
+        "Minor adjustments on each tab and page.",
+        "Fixed Clock and timer bugs and Stopwatch not working properly.",
+        "Updated timer progress bar for a more intuitive and modern look.",
+        "Updated navigation bar and help menu."
+      ],
+      "menulinks": ["New Tab: Alarm", "New Tab: Countdown", "New Tab: Focus", "New Appearance", "Others"]
+    }
+  },
+  {
+    "id": 35,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.0.10 April Update",
+    "sidetitle": "April Update",
+    "date": "2024-04-01",
+    "author": "Tony",
+    "content": {
+      "description": "All right, this MacTime update is pretty small and we didn't make a lot of new features or changes, as we're mainly focusing on revamping MacBlog (it was really bad compared to our other apps) and releasing new features to our core game site MacVG. So, let's see what changes we did to MacTime in this update:",
+      "paragraphs": [
+        {
+          "title": "NEW TAB: World Clock!",
+          "content": "This really isn't a new tab, technically, because all we did was moving the old MacTime homepage to a new page called World Clock, without anything new or any other changes. The reason why we did this? See the paragraph down below. With this change, the meaning of each of the MacTime page is more clear, and all the world clock related features and content are going to be on the World Clock tab in the future for your time zone needs! Now MacTime is more complete with different time functionalities 🌐!"
+        },
+        {
+          "title": "NEW HOMEPAGE!",
+          "content": "The new MacTime homepage now features a sidebar on the right and a main pane on the left. You can now choose which widgets to pin to your MacTime homepage! This makes MacTime way more accessible, customizable, and fast, as you only need one page to see every MacTime apps! Simply select the widgets and they'll show up on the main panel, and you can do anything with the widgets on your time needs with MacTime 📌!"
+        }
+      ],
+      "others": [
+        "Minor appearance and functionality changes on each tab and page.",
+        "The announcement banner now only shows up on the homepage.",
+        "Fixed Sidebar and announcement banner not working on the countdown page."
+      ],
+      "menulinks": ["New Tab: World Clock", "New Homepage", "Others"]
+    }
+  },
+  {
+    "id": 36,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.1.0 July Update 🎉",
+    "sidetitle": "July Update",
+    "date": "2024-07-01",
+    "author": "Tony",
+    "content": {
+      "description": "We have some exciting things to announce about MacTime today: with more than 6 months of development, updates, innovations, and fixing bugs, the first stable complete version of MacTime, version 1.0, is released! With this major milestone, MacTime is more mature, and everything we envisioned for MacTime v.1.0 is now fully functional, with no bugs present! You can finally enjoy the stable MacTime without \"coming soon\" features or any issues! Calendar is released in this update, along with new looks and patches on some bugs. Here's what's new with this update:",
+      "paragraphs": [
+        {
+          "title": "NEW TAB: Calendar!",
+          "content": "Calendar is the final tab completing MacTime, making this update the version 1.0 update. It has been a \"coming soon\" feature for more than half a year, and now it's finally here! This makes MacTime more powerful than ever because you can now manage your time more effectively and easily with Calendar. Want to keep track of your schedule and events? Just use MacTime Calendar! It records down any event and reminds you of it! Simply cilck on a day on the calendar to set an event! Click on the event again to remove it. You can also go to other months, and set events for them 📆!"
+        },
+        {
+          "title": "NEW LOOKS!",
+          "content": "Following the release of MacWeb site material 3, we added responsive designs and features to all our apps, including MacTime, because a lot of people have been complaining about website not working when using a phone, a smaller screen, or when zooming in. With this improvement, MacTime automatically adjusts its content to fit the screen size perfectly without not being able to use some features, buttons, or links. This change made it easier for everyone to access the website and enjoy the same experience. We also updated some appearance and styling updates to fit MacWeb Site Material 3 🔥."
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE!",
+          "content": "Just like the new update schedule we recently appiled to every other MacWeb app execpt for MacVG, MacTime is also getting an update every 2 months now, instead of the previous 1 month. We made this change because we believe that quality is more important than quantity, and every app should have \"quality\" development time before rushing out an update, so all the apps get \"quality\" features without bugs, while giving our developers a \"quality\" break time. This means that each update comes with more features and changes that are refined and tested, ensuring the \"quality\" of the app 🆕!"
+        },
+        {
+          "title": "What about the future?",
+          "content": "This is the version 1.0 of MacTime, so that means you won't update it any more, right? Wrong! It's true that we won't release new tabs, but we'll push out more and more features and enhancements on the existing tabs! We'll make MacTime more complete and powerful with additional features, settings, upgrades, and customizations coming to each of the tab in the future. Stay tuned for these changes 🔮!"
+        }
+      ],
+      "others": [
+        "Fixed sidebar not working on the tabs.",
+        "Minor appearance and functionality changes and fixes on some tabs.",
+        "Updated homepage panel content because of the new Calendar tab and some bugs."
+      ],
+      "menulinks": ["New Tab: Calendar", "New Looks", "Update Schedule", "MacTime's Future", "Others"]
+    }
+  },
+  {
+    "id": 37,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTime v.1.4 November Update",
+    "sidetitle": "November Update",
+    "date": "2024-11-01",
+    "author": "Tony",
+    "content": {
+      "description": "In this huge update on MacTime, we're rolling out a brand new refreshed redesign, a bunch of powerful new features, important improvements, changes, and so much more! We haven't had a good update on MacTime for a while, so here's all the awesome stuff we're adding to MacTime coming your way:",
+      "paragraphs": [
+        {
+          "title": "NEW FEATURE: Focus Mode!",
+          "content": "In this update, we're introducing a brand new focus mode that you can turn on in the Timer tab to turn your timer into a focus timer for work! If you remember, we had an individual tab called Focus for this functionality, but we figured that focus and timer work basically the same, just that focus has a break and more advanced features. To toggle the new focus mode in the Timer tab, simply click on the switch on the top right of the Timer tab and you can toggle focus mode on and off! With the introduction of focus mode, we're removing the old Focus tab. Along with this, we also fixed some bugs and made some improvements in the Timer tab 💪."
+        },
+        {
+          "title": "Countdown Improvements",
+          "content": "We added a bunch of quality of life improvements and fixes to the countdown tab. First of all, we improved the code and math behind countdown to provide correct results when it comes to leap years. Second, we removed the month value in the countdown result and it's now days (e.g. 1 month and 3 days now shows 33 days). Note that this also counts in 30 day and 31 day months. Because of this change, when you're inputing the countdown date you have to write the date in this format: month/day. Other than that, we also added a notification sound when the countdown ends, added a new End button to end countdown early, and you can now directly start countdown just by pressing enter after inputing the values. Finaly, we improved the performance of countdown and some visual effects 🔥."
+        },
+        {
+          "title": "REDESIGNED & REFRESHED",
+          "content": "This is probably the single biggest change across the entire MacWeb ecosystem. Because today, we're announcing MacWeb Site Material 5.0! With this brand new refined design system for MacWeb, the looks, user interfaces, and user experience will be completely refreshed and will be much more consitent, modern, easy to use, and appealing throughout MacWeb. With this new design on MacTime, it looks, feels, and works way more intuitive and it will be easier than ever to use MacTime for all your timing needs and make you more productive than ever! Not only that, the app now looks more updated, modern, and appealing to use 💡!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE!",
+          "content": "Just like the new update schedule we're applying to other MacWeb apps, MacTime is also getting a new update schedule. From this update forward, MacTime is going to get an update every 3 months. This means we'll release a new update for MacTime each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features 📅!"
+        },
+        {
+          "title": "Content Improvements",
+          "content": "Other than all these awesome new changes above, we changed the old World Clock tab to the Time tab so it's more straigtforward and self explanatory. We made a new navigation bar with a new Tools dropdown containing the Timer and Countdown tabs so the tabs are more organized and easier to naviagate. We also fixed a bunch of bugs, optimized performance, and deleted and reorganized some files for MacTime 🔨."
+        }
+      ],
+      "others": [
+        "Because of Site Material 5.0 redesign, the modern update announcement modal has a brand new look to provide more information along with a thumbnail and a button for the update.",
+        "Updated general appearance throughout the whole app.",
+        "Minor appearance and functionality fixes on some tabs.",
+        "Updated navigation and homepage content."
+      ],
+      "menulinks": ["Focus Mode", "Countdown Changes", "Redesign", "Update Schedule", "Content Improvements", "Others"]
+    }
+  },
+  {
+    "id": 38,
+    "category": "Update",
+    "app": "MacTools",
+    "title": "MacTools v.2.0 Winter Update",
+    "sidetitle": "Winter Update",
+    "date": "2025-02-01",
+    "author": "Tony",
+    "content": {
+      "description": "This huge update basically turned MacTools into a new app: renamed it from MacTime to MacTools, new utilities, new features, a bunch of changes, fixes, and more! MacTime was only about tools on time mangement, but MacTools expands the scope to utilities on many aspects like math, text, time, and more! This app is no longer a time app, but a helpful companion that provides a tool for anything you need!",
+      "paragraphs": [
+        {
+          "title": "RENAMED APP!",
+          "content": "MacTime, the old app, was already good enough with a bunch of powerful tabs and features. But we didn't feel satisfied. That's why we've expanded the scope of the new app, called MacTools, to a place where you can find all sorts of tools and utilities, not just for time, but for general needs like math, text, time, and more coming in the future. That's also why we renamed the app to MacTools, a place for tools. We're really excited to make this change because MacTools can serve you and more people with a bunch of new tools on different needs instead of just time mangement utilities. We also changed the logo from a clock to a wrench and a hammer, representing tools 🔨! (Note that this is a very big change, so there's still some work in progress across the MacWeb platform.)"
+        },
+        {
+          "title": "NEW MATH UTILITIES!",
+          "content": "Developing math utilities is one of our focuses in this version 2.0 update and expanding the scope of the new app. No matter who you are, an algebra student or a professional engineer, you can use MacTool's new math calculators to get your work done. We're introducing the Algebra Formulas Calculator (distance and quadratic formula and slope of line), the Unit Converter (data and temperature), Geometry Formulas Calculator (area and other properties on a variety of shapes), and the Geometric Sequences Calculator (sum of terms and last term). We hope to bring a little more convenience with math using these brand new tools and calculators ➗!"
+        },
+        {
+          "title": "NEW TEXT UTILITIES!",
+          "content": "Creating text utilities is another one of our focuses in this version 2.0 update and expanding the scope of the new app. We're bringing 3 convenient text tools in this update: Cipher Decoder and Encoder (Atbash, Caesar, and Vigenere) and the Text Formatter, where you can do all sorts of formatting and modifying with text. You can crack/create codes or make your text look however you want with these new tools 💬!"
+        },
+        {
+          "title": "TIME UTILITIES CHANGES!",
+          "content": "Because we're adding so many new tools and features, we organized the original time tools into a Time Dropdown where you can access all the original tabs, except for Calendar. We moved the Calendar from MacTime to MacIdeas recently, because we thought Calendar matched with MacIdeas' productivity theme better and doesn't really fit in the tools theme of the new MacTools. We also did some slight modifications and fixes on the original time utilities ⌚."
+        },
+        {
+          "title": "NEW TAB: Tools!",
+          "content": "To make it easier and more convenient to browse all our wide range of new tools, we made a new Tools Tab where you can find all the tool categories, utilities, and sections on MacTools. Easily find the tool you need and get things done with the new Tools tab ✅!"
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS!",
+          "content": "With all these new tools and utilities, we had to update the content of the app a lot. We updated the homepage so you can easily browse all our tools and the featured utilities, and we also removed the widget pinning feature on the homepage because of all the new tools. We'll bring the widget pinning feature back in the future with the Widgets tab. We also updated the navigation bar with many dropdowns to organize all the tools and enhance the browsing experience on MacTools. We also optimized a bunch of code and files so everything runs faster and more smoothly 🔥."
+        }
+      ],
+      "others": [
+        "New appearance.",
+        "Updated navigation bar tabs and dropdowns.",
+        "Updated general appearance throughout the whole app.",
+        "Minor appearance and functionality fixes on some tabs.",
+        "Updated navigation and homepage content."
+      ],
+      "menulinks": [
+        "Renamed App",
+        "New Math Utilities",
+        "New Text Utilities",
+        "Time Utilities Changes",
+        "New Tab: Tools",
+        "Content Improvements",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Prerelease Update Log",
+    "sidetitle": "Prerelease Log",
+    "date": "2023-04-13",
+    "author": "Tony",
+    "content": {
+      "description": "All right, I'm just warning you here that this is very weird. I (this was back when this company was single-membered) didn't do a very good job recording down at exactly what date I did what, so some of these could be the wrong dates, and I'm not even sure the actual release date of MacWeb??? (probably 9.17.2023) And there's also logs that happened after the release and whatever garbage? Sorry, this is just too confusing, so here is the very messy update log:",
+      "paragraphs": [
+        {
+          "title": "4.13.2023",
+          "content": "I started my isolated Portfolio website on Replit, put my projects in it, and published it on Replit."
+        },
+        {
+          "title": "6.15.2023",
+          "content": "I created MacVG (previously TonyMac129) with 286 games, lots of features, and more."
+        },
+        {
+          "title": "9.6.2023",
+          "content": "I gave my portfolio a small revamp."
+        },
+        {
+          "title": "9.13.2023",
+          "content": "I renamed TonyMac129 to MacVG and had the idea to merge all my websites and projects into a big personal website (what you're looking at right now) so it's easier to organize files and stuff."
+        },
+        {
+          "title": "9.16.2023",
+          "content": "Planned on what the website looks like; decided to put all my projects, webpages, websites, coding files, portfolio, and more in it; and changed GitHub username."
+        },
+        {
+          "title": "9.17.2023",
+          "content": "Created MacWeb website; the basic structure of the website; organized MacVG, Portfolio, and all related files, folders, webpages, and materials into the website; created the home page; the about page; linked webpages to MacWeb; created the UI design; the logo; and published the website to GitHub."
+        },
+        {
+          "title": "9.19.2023",
+          "content": "Updated the broken UI and content for the \"Coding\" page in MacWeb Portfolio, the nav bar user effect, and fixed pages connection errors. "
+        },
+        {
+          "title": "9.22.2023",
+          "content": "Completed & further improved the content in the \"Coding\" page in MacWeb Portfolio, the nav bar revamp and UI updates on the older pages, structure reorganization, new Portfolio logo, new pages and updates projects in portfolio, and error fixes. "
+        },
+        {
+          "title": "10.9.2023 ~ 10.22.2023",
+          "content": "Moved MacWeb portfolio to an isolated website and gave it a revamp (again), planned about apps to make, app tree, organized the whole company, hired new members, organized apps and stuff, and uploaded a lot of new things, making the future roadmap for MacWeb clearer."
+        },
+        {
+          "title": "10.17.2023",
+          "content": "Acquired Coding Place into MacWeb company for free (it was my old project) as MacCode and did some file organization, app tree improvements, and appearance changes."
+        },
+        {
+          "title": "10.23.2023",
+          "content": "Acquired Ify for free (it was my older project, too) into MacWeb company as MacWork and did some file organization, app tree improvements, and appearance changes."
+        },
+        {
+          "title": "10.27.2023",
+          "content": "Reorganized apps and home page, and added the Blogs page for MacWeb."
+        },
+        {
+          "title": "11.6.2023",
+          "content": "Started working on MacWork. (will release soon!!!hopefully)"
+        }
+      ],
+      "others": ["Isolated my portfolio into another seperate website that's completely seprated from MacWeb."],
+      "menulinks": [
+        "4.13.2023",
+        "6.15.2023",
+        "9.6.2023",
+        "9.13.2023",
+        "9.16.2023",
+        "9.17.2023",
+        "9.19.2023",
+        "9.22.2023",
+        "10.9.2023 ~ 10.22.2023",
+        "10.17.2023",
+        "10.23.2023",
+        "10.27.2023",
+        "11.6.2023",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Site Material 1.5",
+    "sidetitle": "Site Material 1.5",
+    "date": "2023-11-28",
+    "author": "Tony",
+    "content": {
+      "description": "To be honest, MacWeb was a huge mess before the release of Site Material. Site Material is a new way to imagine MacWeb, it specifies the styling and looks of a MacWeb app, it also determines how MacWeb app works. Site Material makes our apps look unified, modern, and functional. It makes your experience with MacWeb better, more modern, and more seamless than ever. Let's see what's new with this version of Site Material:",
+      "paragraphs": [
+        {
+          "title": "NAVIGATION BAR!",
+          "content": "We're clearing things out on how MacWeb apps work. The navigation bar on the top of each app guides you through different Tabs, or pages and subapps, of that app. It's a quick way for you to navigate through that MacWeb app."
+        },
+        {
+          "title": "SIDEBAR",
+          "content": "Sidebar is a little bit different than the navigation bar. The navigation bar navigates you in the app, but the sidebar navigates you out of the app, into different MacWeb apps. It basically guides you through the entire MacWeb system. It appears when you hit your cursor to the left edge of the screen, and there's gonna be a small vertical bar that pops up with app logos, allowing you to navigate."
+        }
+      ],
+      "others": [
+        "We organized our apps, plans, projects, and app tree for what we're focusing on right now and what we can wait for a year or two!"
+      ],
+      "menulinks": ["Navigation Bar", "Sidebar", "Others"]
+    }
+  },
+  {
+    "id": 41,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Site Material 2",
+    "sidetitle": "Site Material 2",
+    "date": "2024-01-19",
+    "author": "Tony",
+    "content": {
+      "description": "Before this important appearance update, MacWeb is still a chaotic new born app and each app looks and works differently from each other. The appearance was also not up to date and not very functional, that's why we poured hours of work into redesigning and reimagining the entire MacWeb, making Site Material 2. Let's see what's new here:",
+      "paragraphs": [
+        {
+          "title": "ROLLING OUT NOW!",
+          "content": "Updates of the MacWeb Site Material 2 appearance have been rolling out since November, but today, all of MacWeb's apps, pages, and every single place of MacWeb finished updating to Site Material 2!"
+        },
+        {
+          "title": "NEW VERTICLE SIDEBAR!",
+          "content": "New vertical sidebar on the left of each page of each MacWeb app that navigates you through different MacWeb apps, and it only appears when the user's cursor hits the left edge of the screen, and if you click anywhere else, the sidebar's gonna hide away again, to save more space to focus, while also having the convenience of navigating between different apps!"
+        },
+        {
+          "title": "NEW EFFECTS!",
+          "content": "New hovering effect when hovering over different tabs within a MacWeb app, for more modern and appealing effects and user experience!"
+        },
+        {
+          "title": "NEW LOGOS!",
+          "content": "New logos for each MacWeb app that look more distinct, clearn, modern, and easy to recgonize! We also applied the new logos to the logo at the top left of the horizontal navigational bar to make the app more unified and visually appealing!"
+        }
+      ],
+      "others": [
+        "Minor appearance updates.",
+        "Minor navigational updates.",
+        "Reorganized files and content for a faster and seamless experience."
+      ],
+      "menulinks": ["Rolling Out Now", "New Sidebar", "New Effects", "New Logos", "Others"]
+    }
+  },
+  {
+    "id": 42,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Site Material 2.1",
+    "sidetitle": "Site Material 2.1",
+    "date": "2024-03-16",
+    "author": "Tony",
+    "content": {
+      "description": "As we keep expanding and developing new features and apps in MacWeb, we're also making new appearance changes, including the release of MacWeb Site Material 2.1 that brings a brand new look to the apps that you love!",
+      "paragraphs": [
+        {
+          "title": "NEW COLORS FOR EACH APP",
+          "content": "We gave each of our apps a distinct main color so you can distinct them easily from each other, and it also looks more vibrant with the vivid colors. We gave MacLearn a blue color, which associates with growth and education, so it perfectly reflects the purpose of MacLearn. We also gave MacTime a green color, which means management and improvement, and MacVG orange, which means excitement and vibrancy. We gave MacBlog a purple color, which associates with information. This change unifies the appearance of each page in MacWeb apps, distincts each app from each other, and it has a better look than the old color schemes with random colors being used. This is a huge improvement on design. The new colors are used as the logo color, accent color, and primary color within each app, with mainly neutral background."
+        },
+        {
+          "title": "NEW APPEARANCE!",
+          "content": "General appearance changes that match MacWeb apps with Site Material 2.1."
+        }
+      ],
+      "others": ["Navigation fixes and bug fixes."],
+      "menulinks": ["New Colors", "New Appearance", "Others"]
+    }
+  },
+  {
+    "id": 43,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Site Material 3",
+    "sidetitle": "Site Material 3",
+    "date": "2024-05-01",
+    "author": "Tony",
+    "content": {
+      "description": "In the huge overall MacWeb May update, we released a new app, released a bunch of new features, content, and fixes on many of our apps, and we're also launching the brand new designs of MacWeb Site Material 3! Responsive designs, mobile improvements, accessibility enhancements, and a more modernized look, all coming in Site Material 3! Let's see what's new:",
+      "paragraphs": [
+        {
+          "title": "RESPONSIVE DESIGN & MOBILE",
+          "content": "The main highlight, and the one we spent the most time on, is the responsive designs on each MacWeb app so it works across different screens and devices. We had very annoying and ugly appearance issues when you use other devices than a computer to use the apps or when you're zooming in. To fix this, the navigation bar on the top auto adjusts its content, fitting all the links into one dropdown menu. If that's still too crowded, there's gonna be a button that expands the side menu for links. This update made the navigation and the experience using the app way more convenient, fast, cleaner, and easier on the eyes. The content also auto adjusts to fit the screen size and not waste any space or stretching out of the screen. Here are some before and after comparison images of this huge improvement 📱.<img src=\"/macblog/media/43-img-1.png\" style=\"width: 100%; margin-top: 20px; border-radius: 10px;\"><img src=\"/macblog/media/43-img-2.png\" style=\"width: 100%; margin-top: 20px; border-radius: 10px;\">"
+        },
+        {
+          "title": "APPEARANCE UPDATES",
+          "content": " Other than the responsive design interface, we also updated our navigation and content apperances to make it more user friendly, modern, and clean. We also fixed some styling issues and bugs such as animations not working properly, wrong colors, spacing issues, and more. With this enhancement, we hope to bring a better experience to all our users, no matter what device they're using 🔥!"
+        }
+      ],
+      "others": [
+        "Minor appearance updates.",
+        "Minor navigational updates.",
+        "Minor file organization changes.",
+        "Appearance bug fixes."
+      ],
+      "menulinks": ["Responsive Design & Mobile", "Appearance Updates", "Others"]
+    }
+  },
+  {
+    "id": 44,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "MacWeb Site Material 5",
+    "sidetitle": "Site Material 5",
+    "date": "2024-10-25",
+    "author": "Tony",
+    "content": {
+      "description": "This is THE single biggest update across all of MacWeb ever! Last time we released a new version of MacWeb Site Material was only version 3, and this update we skipped version 4 and came directly to 5. That's how big this update on our design material is! Our UI, UX, layout, designs, colors, and everything else got changed on this huge site material update! With this huge update, your experience on MacWeb is enhanced and improved by a lot, so let's see what's new with Site Material 5:",
+      "paragraphs": [
+        {
+          "title": "NEW UI, UX & LAYOUT",
+          "content": "Our most important goal for this Site Material update is to make the designs and UI of all MacWeb apps look more modern, easier to use, and more consitent with each other. The old Site Material we had on our apps was inconsitent, inefficient, and kind of outdated. That's why we completely redesigned almost everything on all our apps (that's a lot a lot a lot of work trust me)! From a new unified navigation bar design and effects, to brand new layouts on different pages and new sidebars, we've completely revamped the designs of all MacWeb apps! We also changed all the buttons, links, and cards everywhere to work more intuitively, look better, and more consitent across different apps. Check the refreshed redesigned apps out for yourself to see the massive style changes we've applied to the apps 🔥! (note that this is still a work in progress and some things are still being tweaked)"
+        },
+        {
+          "title": "NEW COLORS!",
+          "content": "We've changed the color palette of Site Material so almost everything has the same main background color, with darker backgrounds for cards, and primary colors for action buttons or places that need to be emphasized. We also changed up different primary colors for each app a little so the design works with the background better and more smoothly. This makes MacWeb apps look more consitent and more modern, and easier to use than ever 🎨."
+        },
+        {
+          "title": "NEW EFFECTS!",
+          "content": "New hovering effect when hovering over different tabs within a MacWeb app, for more modern and appealing effects and user experience, and new hover effects on different cards 💡!"
+        },
+        {
+          "title": "NEW UPDATE SCHEDULE!",
+          "content": "From now on, we'll be applying a new update schedule to all MacWeb apps. From this update forward, each app is going to get an update every 3 months. This means we'll release a new update for it in each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features for each of the apps 📅!"
+        }
+      ],
+      "others": [
+        "Content updates for Site Material 5 compatibility.",
+        "Visual updates for Site Material 5 compatibility.",
+        "Removed unnecessary files for a faster and cleaner experience."
+      ],
+      "menulinks": ["New UI & UX", "New Colors", "New Effects", "Update Schedule", "Others"]
+    }
+  },
+  {
+    "id": 45,
+    "category": "Update",
+    "app": "MacIdeas",
+    "title": "MacIdeas Prerelease Update Log",
+    "sidetitle": "Prerelease Log",
+    "date": "2023-08-02",
+    "author": "Tony",
+    "content": {
+      "description": "MacIdeas, this amazing productivity app by MacWeb, has been through A LOT of updates, changes, and revamps. It was originally developed and called Ify in the August of 2023, and then got acquired by MacWeb in fall 2023 and was renamed to MacWork with a brand new interface, appearance, features, and many others new features planned to be added but wasn't published. It got abandoned for a while but picked up again in April 2024, and was completely reimagined again. It was renamed to MacIdeas and had a new roadmap, new appreance, new features, and more planned in the future. See all the updates from these seperate phases below! For all the updates after the June 2024 release of MacIdeas, see the detailed dedicated articles for them on the left sidebar! The prerelase logs aren't detailed and it's very chaotic, so beware.",
+      "paragraphs": [
+        {
+          "title": "v.0.5 | 10/23/2023",
+          "content": "Ify acquiered by MacWeb and renamed to MacWork! Ify was officially merged into MacWeb as MacWork, one of its apps! We are very excited to see more features, changes, improvements, and updates to come! Goodbye Ify, hello MacWork, the most powerful productivity app! All the features, appearance, and all the pages were entirely transformed into the new MacWork and the app organization was completely changed. We moved many pages around and deleted some unneccessary files and folders. Now you can have the easiest navigation between apps! We will still publish the complete and powerful versions of MacWork as an app and an extension like previously promised to boost your productivity even more! New apps: Docs and MacText! What's a productivity app without a text editor? Or two text editors?! We are proud to announce that we're adding Docs for powerful text edits and MacText for powerful text modification! Docs can do anything a text editor can, and beyond! You can type paragraphs, format them into nice-looking articles, print them, add imges and media, put special effects, and more all on the app! MacText helps your paragraph become better! It can correct your grammar, shorten text, capatilize all, and more! Overall performance improvements and updates. New app appearance! With the acquierance of Ify, the app is also getting a complete visual revamp and user interface! We added more MacWeb elements so your experience would keep getting better and better! We removed the Ify sidebar and added the horizontal navigation bar on the top of the page for quicker access between each MacWork apps for direct integration and easier UI and UX. We restyled all the elements and apps to match the overall MacWeb theme and repositioned all the elements for better UX! Huge performance improvements, updates, and a lot of bug fixes."
+        },
+        {
+          "title": "v.0.2 | 9/10/2023",
+          "content": "New Feature: Notes! What's the most productive way to create an idea, write it down, and share it to others? That's right, Ify Notes! Whenever you're learning something or having a new idea, keep it in Ify Notes! You can now add notes, edit them, and save them from an easy to use user interface! New user interface: edit notes directly in the textarea at the center of the page, save them using the Save Notes button at the bottom of the page, and brand new page layout. New Page: Ify Support! Don't know how to use a feature in Ify? No problem, Ify Support's got you covered! You can find each feature's detailed descriptions and easily navigate through them! Don't forget to drop a feedback or ask any questions using Ify Feedback! Improved User Interface and Functionalities Updated user interface Appearance and user special effects. Bug fixes, including task editing not working, tasks saving, notes saving not working, and other functionality improvements. Overall performance improvements and minor updates."
+        },
+        {
+          "title": "v.0.1.6 | 8/26/2023",
+          "content": "New Feature: Tasks Editing! Want to edit your task for a better idea? No problem, Ify Tasks Editing has you covered! Just click the pen icon on the tool bar and start editing your text! You can add or remove text, add emojis, and any symbol to your task item! After finished editing the task, click anywhere else on the screen and the changes will be automatically saved! New Feature: Tasks Drag & Drop! In order to boost your productivity even more, you can now reorder tasks for your works and priority tasks! Simply drag the task item to where you want it to be in the task list and drop it on the blue line indicating the position! Improved User Interface and Functionalities Fixed task managing interface and new task completing effect. Appearance and effects improvements. Improved sidebar navigation. Bug fixes, including remove button animation, tasks dragging bug, tasks editing not working, and other functionality improvements. Overall performance improvements and minor updates."
+        },
+        {
+          "title": "v.0.1.3 | 8/2/2023",
+          "content": "Introducing Ify: Let Your Ideas Fly! Ify: Let Your Ideas Fly is an app that boosts your ideas and productivity! Ify is the collection of 4 must-needed productivity apps for your work! Set your goals using Ify Tasks; write and draw your ideas down using Ify Notes and Ify Sketches; and create focusing sessions on your work using Ify Focus! Even better, it's completely free and ad-free, with web version and browser extension version so you can get help from Ify anywhere, anytime! Ify beta version officially launched on GitHub for testing! New Feature: Tasks! Tasks made easy. Add your works and goals to Ify Tasks and boost your productivity to finish them all! You can now add tasks, complete them, and remove them from an organized tasks list! New user interface: input bar at the bottom of the page, create task button in the input bar, new task list item style, and brand new elements placement. New Page: Updates! See what's new with Ify in the Updates page and try them out! Keep track of Ify updates and know all the changes! New User Interface and Functionalities Brand new Ify interface with dark appearance. Sidebar for easier navigation between Tasks, Notes, Sketches, and Focus. New logo design and new links. More comfortable section and link designs. Bug fixes, including tasks not removing from localStorage, no ding sound effect when completed task, and scripting connections. Overall performance improvements and minor updates."
+        }
+      ],
+      "others": [
+        "Renamed the app from Ify to MacWork, and finally to MacIdeas on release with many major changes on the basic functionalities of the app and its purpose."
+      ],
+      "menulinks": ["v.0.5", "v.0.2", "v.0.1.6", "v.0.1.3", "Others"]
+    }
+  },
+  {
+    "id": 46,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "MacBlog v.2.0 Update!",
+    "sidetitle": "v.2.0 Update",
+    "date": "2025-01-20",
+    "author": "Tony",
+    "content": {
+      "description": "We never really paid much attention to MacBlog in terms of maintaining it, optimizing its code and features, and making it as easy and intuitive to use as possible. That changes in this huge update where we're announcing the second major version of MacBlog. With this update, we've completely revamped the way MacBlog works so it's way easier to use and for us to maintain and create new posts. Let's see what's new with this update:",
+      "paragraphs": [
+        {
+          "title": "NEW DATA GENERATION METHOD!",
+          "content": "This is basically the main point of this update on MacBlog. Before this update, there were all kinds of messy folders and files and data nested inside one another and it was extremely hard to maintain or create new posts for MacBlog. In this update, we've concentrated every single piece of data for MacBlog's posts, updates, tips, and more into one cohesive file that's easy to maintain and edit upon. Each post's content is also going to be rendered dynamically from this data file onto one single page, meaning the pages will look way more unified, clean, and easy to use. Because we changed how MacBlog works, we also optimized the code behind it so it's faster and smoother than ever 🔥!"
+        },
+        {
+          "title": "REORGANIZED FILES!",
+          "content": "Like we said above, we basically changed the entire structure of MacBlog this update, so we got rid of all the unnecessary extra files, code, data, and folders to improve MacBlog's performance and size. We also reorganized some files to different folders so it's easier to find where they are located 📁."
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS!",
+          "content": "Because everything is in one single data file, we're also changing how the links to the posts are displayed. Everytime there's a new post being added, the new link to that post will automatically pop up everywhere the link should be accessible, meaning we no longer have to manually add a link to the new post everywhere. This improves consistency and automation of MacBlog. We also slightly changed some posts' names and content to make sure everything is up to date ⬆️."
+        }
+      ],
+      "others": [
+        "Updated some posts' names and contnet.",
+        "Fixed appearance issues.",
+        "Minor appearance and functionality changes and fixes."
+      ],
+      "menulinks": ["New Data Generation", "Reorganized Files", "Content Improvements", "Others"]
+    }
+  },
+  {
+    "id": 47,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "MacLearn v.1.0 Spring Release!",
+    "sidetitle": "Spring Release",
+    "date": "2025-05-01",
+    "author": "Tony",
+    "content": {
+      "description": "We're very excited to announce that MacLearn v1.0 is finally here — the biggest update on the app ever. This update isn’t just a version bump — it’s a total transformation. From fully dynamic article and quiz generation, to powerful new features like search, XP tracking, achievements, notifications, and recently viewed tracking, MacLearn Spring Release brings a completely revamped learning experience. The entire platform is now cleaner, faster, and smarter — with better code, fewer files, and 100% dynamically generated posts to optimize performance. CSS and HTML courses are fully dynamic, quizzes have been reworked and optimized, and references now come with Code Labs, save/share/report buttons, and improved UI. Welcome to the first official release of MacLearn.",
+      "paragraphs": [
+        {
+          "title": "REVAMPED POST RENDERING",
+          "content": "The biggest thing we're changing about MacLearn in this massive update is how articles in courses and quizzes are being generated from data files. Previously, we had everything on static content and it was really difficult, inconvenient and messy to change or update. Now that everything generates dynamically from a single data file the performance of the app has been drastically improved and all the features work together seamlessly and it's also way easier for us to update and maintain the contain or code. This change affects every course and reference on the platform right now 💻!"
+        },
+        {
+          "title": "REVAMPED QUIZZES",
+          "content": "Because we completely changed how quizzes are rendered from the data files, we also used this chance to organize the code and the questions for the quizzes into a single file that's incredibly optimized and fast. We not only updated the questions, we added analysis for the questions and the correct answers as well so you can see what you did wrong, what the correct option is, and improve next time. We also fixed a bunch of bugs in quizzes 🔥."
+        },
+        {
+          "title": "SEARCH",
+          "content": "As MacLearn keeps expanding with new content, courses, and more, it might be a little hard to navigate around the platform the quickly find the information you need, so we're rolling out a new search bar at the top of each page to help you quickly find and acces whatever information you need! Simply type a keyword and you'll see a page with results listed if there's anything in the title or article that matches the keyword along with a preview of the article! This makes finding information way more convenient and easier for everyone 🔍!"
+        },
+        {
+          "title": "COURSE COMPLETION",
+          "content": "We're introducing a new item on MacLearn: XP! Everytime you complete a quiz in any course with 100% accuracy you earn 100 XP along with a notification for it. XP offers a way to keep track of your progress on the quizzes and provide more motivation for your learning! You can check your XP from the home page where there's a progress bar for each course showing how much of the total XP you've collected. If you collect all the XP in a course, you officially finish the course 📚!"
+        },
+        {
+          "title": "REVAMPED ME PAGE",
+          "content": "We're adding 2 new sections along side the Saved section to the Me page in this update: Achievements and Recently Viewed! You can now earn achievements for learning and completing quizzes on MacLearn regularly that show on your learner profile! A notification also shows up when you earn one so you get your accomplishment! This gamifies the learning process and makes it more engaging and fun. With the Recently Viewed section, you can see the last 5 most recent articles you read on MacLearn and have easy access to quickly hop back to where you left off and keep learning! We also added a clear data option in case you want to wipe all your data on MacLearn 🏅."
+        },
+        {
+          "title": "CONTENT IMPROVEMENTS!",
+          "content": "We've added the Save, Share, and Report buttons back to both the HTML and CSS course, as well as all of the references! Instead of showing a panel of social media links, the Share button now directly copies the article link onto your clipboard so you can share it easily however you want! You can now save or share your favorite articles from anywhere on MacLearn easily with these buttons on the top of the page. We also added new notifications that pop up from user actions such as saving an article, completing a quiz, and more! Other than that, we also incorporated Code Labs into references so you can quickly check out the code function without leaving the page and aquire the knowledge better! We also updated some references and content across the platform to make everything more up to date 💪."
+        }
+      ],
+      "others": [
+        "Fixed appearance bugs and problems.",
+        "Reorganized and deleted many unused files.",
+        "Updated coruse homepage links and Me Saved page links.",
+        "Updated footer year display.",
+        "Fixed HTML Code Lab not showing full code.",
+        "Fixed HTML Code Lab render styling bug.",
+        "All quiz code files have been merged into one single file.",
+        "Optimized quiz code.",
+        "No longer able to go back after finishing a quiz.",
+        "Removed all static HTML files in all courses.",
+        "Removed redundant code and files."
+      ],
+      "menulinks": [
+        "Revamped Post Rendering",
+        "Revamped Quizzes",
+        "Search",
+        "Course Completion",
+        "Revamped Me Page",
+        "Content Improvements",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG v.3.1 Spring Update!",
+    "sidetitle": "Spring Update",
+    "date": "2025-05-01",
+    "author": "Tony",
+    "content": {
+      "description": "As MacVG's approaching its 2 year anniversary, the platform is becoming more complete. Over the years we've released countless new games, features, improvements, and fixes, and MacVG has finally reached the state we were hoping to achieve with the recent massive v.3.0 update. That's why MacVG updates from now on will be relatively small and will basically only include new game drops and bug fixes. In this update, we're mainly just adding a couple new games and fixing/improving some existing features and getting rid of some bugs. Let's see what we did this update:",
+      "paragraphs": [
+        {
+          "title": "20 NEW GAMES",
+          "content": "We added 20 new games to MacVG in this update, including some popular hit games like Run, Earn to Die, Gladihoppers, and Fortnite(?!) along with many other awesome fun games! You can check out all the new games in the New Tab and maybe you'll discover your next favorite game! Enjoy playing these new games on MacVG 🆕!"
+        },
+        {
+          "title": "NEW FOOTER",
+          "content": "We haven't updated MacVG's footer for almost 2 years, and it was a bit empty and outdated, so we decided to revamp the footer in this update. We put a new description along with Mail, YouTube, GitHub, and Discord links as icons on the bottom of the footer for easy access to our social links and get in contact with us. We also changed the layout and style slightly to look more visually appealing and functional. The copyright disclaimer year now also updates automatically so we don't have to manually change it every year."
+        }
+      ],
+      "others": [
+        "Updated some games' description and controls.",
+        "Fixed the bug of clearn search button not disappearing after removing search query.",
+        "Fixed minor appearance bugs and problems."
+      ],
+      "menulinks": ["20 New Games", "New Footer", "Others"]
+    }
+  },
+  {
+    "id": 49,
+    "category": "Post",
+    "app": "MacTools",
+    "title": "Improving MacTools Countdown Accuracy with a Day-Based System",
+    "sidetitle": "Countdown Accuracy",
+    "date": "2024-02-22",
+    "author": "Tony",
+    "content": {
+      "description": "Fixing MacTools time countdown accuracy.",
+      "paragraphs": [
+        {
+          "title": "What we did",
+          "content": "The old Mactime countdown had issues with accuracy when setting dates far into the future, sometimes being off by hours or even days. To fix this, we switched to a day-based countdown system instead of using months and days. Months can have different numbers of days, which made the old system inaccurate. Now, we count the total number of days and use an average of 30 days per month to convert it into months. This makes it easier to understand without causing errors. It's a simple but clever solution."
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["Fix", "Others"]
+    }
+  },
+  {
+    "id": 50,
+    "category": "Post",
+    "app": "MacVG",
+    "title": "Streamlining Downloads for a Better Experience on MacVG",
+    "sidetitle": "Improving Downloads",
+    "date": "2024-03-05",
+    "author": "Tony",
+    "content": {
+      "description": "We completely recoded the MacVG download button to improve the user experience significantly while helping us work less.",
+      "paragraphs": [
+        {
+          "title": "We're shutting down the old download button in MacVG for several good reasons:",
+          "content": "We're shutting down the old download button in MacVG for several good reasons: 1. More than 80% of the games won't work when downloaded and run on file protocol because they're based on the Unity game engine. 2. There are too many requests for us to process, and most of the games requested won't work because of the previous reason anyway. 3.There are legal and ethical issues with licensing, distribution, and copyright on many games. Using a Google form for download requests is slow, inefficient, and unprofessional. So, we've decided to remove the download button for all games that don't work and only keep it for games with a free distribution license that work on file protocol. This way, we tackle three big problems at once. We've also done away with the Google form and Google Drive setup. Instead, we’ve zipped the folders (a smart and simple solution). Now, when users click the download button, the zipped folder will automatically download. They can then unzip it and enjoy the games offline, making sure they're playing copyright-free games without us having to process so many download requests."
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["Improvement", "Others"]
+    }
+  },
+  {
+    "id": 51,
+    "category": "Post",
+    "app": "MacVG",
+    "title": "Resolving the MacVG Update Issue with a maintenance break",
+    "sidetitle": "MacVG Maintenance",
+    "date": "2024-04-01",
+    "author": "Tony",
+    "content": {
+      "description": "We had a maintenance break earlier for a good reason below:",
+      "paragraphs": [
+        {
+          "title": "Why Maintenance?",
+          "content": "Today was a really bad day because GitHub Desktop couldn't handle updating the huge game site, making MacVG unavailable. The April update for MacVG was pretty big, so I copied the entire folder to the remote repository. But GitHub Desktop took forever to update and push it, causing the remote to disconnect multiple times. I had deleted all the files beforehand, so the game site was completely empty. I tried a lot of solutions, and nothing worked until I realized that GitHub Desktop only pushes the changed files each time. So, I divided the MacVG folder into smaller sections and uploaded each section one by one. It took a long time, but I gradually uploaded 30 games at a time, then 40, then 50, repeating until all the games and other files were uploaded to the remote repository. That's how we fixed this huge MacVG issue in just 2 hours. Let's go!"
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["Fix", "Others"]
+    }
+  },
+  {
+    "id": 52,
+    "category": "Post",
+    "app": "MacVG",
+    "title": "More Than 30 Bugged MacVG Games Now Playable",
+    "sidetitle": "Fixed Bugged Games",
+    "date": "2024-06-06",
+    "author": "Tony",
+    "content": {
+      "description": "We fixed a bunch of bugged games that hadn't been working for a long time.",
+      "paragraphs": [
+        {
+          "title": "How We Fixed Them",
+          "content": "So, there’s been a problem on MacVG since the huge January update on 1/1/2024, where you couldn’t type in certain games, making them almost unplayable. The experience was terrible. While working on the July update, we went through the JavaScript files to optimize and improve performance. We checked each code and found an event listener that was preventing the keydown event’s default actions, meaning you couldn’t type in games. We have no idea why that piece of code was there, but after removing it, the bug was finally fixed! Now you can type in so many games. Thanks to your feedback, we identified and resolved this issue! This fix didn’t have any negative impact, so you can now enjoy tons of games like the Vex series, Google Feud, Mario, Minecraft, and more, which you couldn't play before due to the annoying bug!"
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["Fix", "Others"]
+    }
+  },
+  {
+    "id": 53,
+    "category": "Post",
+    "app": "MacWeb",
+    "title": "Finally Being Able to Commit on GitHub Faster",
+    "sidetitle": "Commit on GitHub",
+    "date": "2023-10-27",
+    "author": "Tony",
+    "content": {
+      "description": "I discovered a tool that could boost GitHub commits significantly faster.",
+      "paragraphs": [
+        {
+          "title": "The Tool",
+          "content": "I wanted to reupload the entire MacVG game site to GitHub, but the online site wouldn't allow me to upload files larger than 25mb. Then, I found out about the tool GitHub Desktop, which seemed to be able to handle large amount of changes and commits. I logged onto ChatGPT and asked for help on how to use GitHub Desktop since I wanted to use it for uploading stuff. After watching a bunch of YouTube tutorials that didn't really help, I finally found one that did and managed to upload \"10 Minutes Till Dawn\" to GitHub via GitHub Desktop. Then, I did some more research, changed my global identity settings, and downloaded Git. Finally, I went into the settings (Files -> Options) and disabled SSH, and it worked successfully!"
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["The Tool", "Others"]
+    }
+  },
+  {
+    "id": 54,
+    "category": "Post",
+    "app": "MacVG",
+    "title": "How We Solved the MacVG 2.0 Progress Lost Issue",
+    "sidetitle": "Restored Progress Loss",
+    "date": "2023-12-20",
+    "author": "Tony",
+    "content": {
+      "description": "We found a way to fix the issue with the games' progress not being saved.",
+      "paragraphs": [
+        {
+          "title": "The Fix",
+          "content": "We recently decided to embed all games using iframes so users can have more games on the screen, more control, and extra features. With the new 2.0 update, we introduced a brand-new UI for each game page and updated URLs and links for each game. At first, we placed the game HTML files with the new UI outside the original parent folder for the games. This caused local storage access issues due to browser cross-origin problems, resulting in game progress resets. So, we moved the refreshed HTML files inside the games' folders to avoid cross-origin issues and make sure your progress is saved. Thanks to this change, your game progress is safe and sound. Enjoy your uninterrupted gaming experience!"
+        }
+      ],
+      "others": ["None"],
+      "menulinks": ["The Fix", "Others"]
+    }
+  }
+]
