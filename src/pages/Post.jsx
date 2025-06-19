@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import { posts } from "../assets/assets";
-import { useNavigate, useParams } from "react-router";
+import { useNavigate, useParams,Link } from "react-router";
 import { useEffect, useState } from "react";
 import "./Post.css";
 
@@ -43,9 +43,9 @@ function Post() {
                   {posts.map((post) => {
                     console.log(post.id);
                     return (
-                      <a style={{ color: post.id == id ? "var(--primary-color)" : "" }} href={`/macblog/post/${post.id}`}>
+                      <Link style={{ color: post.id == id ? "var(--primary-color)" : "" }} to={`/post/${post.id}`}>
                         {post.sidetitle ? post.sidetitle : post.title.replace(post.app, "")}
-                      </a>
+                      </Link>
                     );
                   })}
                 </div>

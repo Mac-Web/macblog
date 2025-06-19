@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router";
+import { HashRouter, Routes, Route } from "react-router";
 import Home from "./pages/Home";
 import Apps from "./pages/Apps";
 import Updates from "./pages/Updates";
@@ -14,7 +14,7 @@ import ScrollTop from "./components/ScrollTop";
 function App() {
   return (
     <>
-      <BrowserRouter basename="macblog">
+      <HashRouter>
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -28,7 +28,7 @@ function App() {
         </Routes>
         <Footer />
         <ScrollTop />
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }

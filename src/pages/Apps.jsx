@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Card from "../components/Card";
-import { macvg, maclearn, macideas, mactools, macweb } from "../assets/assets";
+import { macvg, maclearn, macideas, mactools, macblog, macweb } from "../assets/assets";
 
 function Apps() {
   return (
@@ -29,7 +29,7 @@ function Apps() {
         />
         <Card
           link="/apps/macblog"
-          img="/logo.png"
+          img={macblog}
           name="MacBlog"
           description="The information hub for everything related to our apps."
         />
