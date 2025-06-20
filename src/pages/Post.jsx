@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import { posts } from "../assets/assets";
-import { useNavigate, useParams,Link } from "react-router";
+import { useNavigate, useParams, Link } from "react-router";
 import { useEffect, useState } from "react";
 import "./Post.css";
 
@@ -40,8 +40,7 @@ function Post() {
                   {year}
                 </h3>
                 <div className="sidelinks">
-                  {posts.map((post) => {
-                    console.log(post.id);
+                  {posts.reverse().map((post) => {
                     return (
                       <Link style={{ color: post.id == id ? "var(--primary-color)" : "" }} to={`/post/${post.id}`}>
                         {post.sidetitle ? post.sidetitle : post.title.replace(post.app, "")}
@@ -67,9 +66,17 @@ function Post() {
           <div className="menu-links">
             {post.content?.menulinks.map((link, index) => {
               return (
-                <a href={`#st${index}`} className="menu-link">
+                <span
+                  className="menu-link"
+                  key={index}
+                  onClick={() => {
+                    const el = document.getElementById(`st${index}`);
+                    if (el) el.scrollIntoView({ behavior: "smooth" });
+                  }}
+                  type="button"
+                >
                   {link}
-                </a>
+                </span>
               );
             })}
           </div>

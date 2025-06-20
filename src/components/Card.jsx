@@ -5,11 +5,10 @@ function Card({ link, img = null, name, description = null, blank = false }) {
   return (
     <motion.div
       initial={{ y: 100, opacity: 0 }}
-      whileInView={{ y: 0, opacity: 1 }}
+      animate={{ y: 0, opacity: 1 }}
       whileHover={{ scale: 1.05, y: -10 }}
       whileTap={{ scale: 1.02, y: -5 }}
       transition={{ duration: 0.7, type: "spring" }}
-      viewport={{ once: true }}
     >
       <Link to={link} className="card" target={blank ? "_blank" : ""}>
         {img && <img src={img} className="card-img" />}

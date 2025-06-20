@@ -2196,5 +2196,41 @@
       "others": ["None"],
       "menulinks": ["The Fix", "Others"]
     }
+  },
+  {
+    "id": 55,
+    "category": "Update",
+    "app": "MacWeb",
+    "title": "Introducing: MacWeb 2.0",
+    "sidetitle": "MacWeb 2.0",
+    "date": "2025-08-01",
+    "author": "Tony",
+    "content": {
+      "description": "I know we've said this countless times, but this update, for sure, is the biggest one we've had so far. After all, we're remaking every single MacWeb app from scratch with a brand new technology/programming language to make our apps more flexible, interactive, and easier to maintain, all while incorporating a new look on all the apps. Other than that, we're also making a lot of changes to the apps themselves. Let's see what the new MacWeb is all about:",
+      "paragraphs": [
+        {
+          "title": "Remaking Apps",
+          "content": "We're transitioning every single MacWeb app's programming language from using vanilla JS to the JavaScript library React. This will significantly improve the interactivity, scalability, performance, and managebility of the apps, because we're using reusable components and modules that are dynamically generated and react to user events more quickly. Because we're switching to a new technology to build our apps, we also need to recode all the existing features and programs from scratch, so this will be an extremely big and large-scale update across our apps. We took this oppotunity of having the freedom to do whatever we wanted with the apps and redesigned all our apps, again, this time more appealing, modern, and functional than ever ⚛️!"
+        },
+        {
+          "title": "Site Material 2.0",
+          "content": "Like we mentioned above, we're completely redesigning the design styles and looks of our apps, as well as incorporating some other new elements and features. With Site Material 2.0, we're incorporating vibrant animations on user interactions and other elements to provide a much better user experience with a small element of fun. We're rolling out a new navigation bar with the logo and the tabs, as well as 2 new buttons: light mode toggle and view source. The light mode button toggles between light and dark modes, providing more customization and accessbility for all kinds of needs on our apps. All of our apps are open source on GitHub, so users can click on the view source button to check our code and even provide contribution/suggestions. We're also adding a more complete footer to each of our apps with more detailed navigation, social links, and more. On top of that, we're updating our apps' logos so they're more simple, distinct, and visually appealing 🎨!"
+        },
+        {
+          "title": "App Changes",
+          "content": "Because we're doing so much recently with MacWeb 2.0 and everything, we have decided to just focus development on our 2 most popular apps: MacVG and MacLearn. This means we're pausing development on MacTools and MacIdeas as they're not content driven and can't bring us the return we're hoping for right now. In a few years, it's possible we'll continue development, but for now they will not be updated. This doesn't mean they will be shut down, they will still be accessible and work perfectly fine, but they won't be receiving new features, fixes, or changes in a long time. Because we're only focusing on MacVG and MacLearn right now, we're also removing some integration of the apps such as the old MacWeb sidebar used for accessing other MacWeb apps. This kind of breaks the old \"ecosystem\" we had, and our apps are kind of distinct standalone apps now. MacBlog and the MacWeb landing page will not be removed as they serve more as information support apps instead of actual apps like MacVG and MacLearn are 🔥."
+        },
+        {
+          "title": "Version Changes",
+          "content": "We're resetting the versions of MacWeb, Site Material, and all of our apps (excluding MacIdeas and MacTools as they will not be updated) to be at v.2.0 regardless of previous versions, because the apps are being rebuilt from the ground up with a brand new programming language with a brand new design, along with a ton of new features, content, and more. The apps are also more interactive, flexible, visually appealing, and functional than ever before 📈!"
+        },
+        {
+          "title": "The Future",
+          "content": "We're very excited to share our vision of MacWeb 2.0 with all of you in the future with a ton of new content, features, and even new apps! Given enough time, resources, and support from the users, we could enhance all our apps with advanced features such as user-generated content, user data, real time applications, AI features, and more! We're also looking to hire more talented developers and people to help out with improving our apps, increasing income, reviving MacIdeas and MacTools, and publishing more powerful apps in the future 📱!"
+        }
+      ],
+      "others": ["Updated app icons and logos.", "Improved routing and URL paths."],
+      "menulinks": ["Remaking Apps", "Site Material 2.0", "App Changes", "Version Changes", "The Future", "Others"]
+    }
   }
 ]
