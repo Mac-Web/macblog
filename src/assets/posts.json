@@ -39,8 +39,19 @@
           "content": "In the first update (creation) of MacVG, we forked the main branch of 75kh0.github.io, website created by 3kh0, Echo the Coder, added all 281 games from 3kh0, uploaded new pages, codes, and files pre-made by me, added the update log, updated website structure, pages, files, and appearance, updated 70 games on styling and improvements, updated 10 games on thumbnails, published the website, and deleted the unnecessary files, pages and directories, 503 in total."
         }
       ],
-      "others": ["Renamed the website to TonyMac129."],
-      "menulinks": ["7.21.2023", "7.18.2023", "7.10.2023", "7.5.2023", "6.20.2023", "6.17.2023", "6.10.2023", "Others"]
+      "others": [
+        "Renamed the website to TonyMac129."
+      ],
+      "menulinks": [
+        "7.21.2023",
+        "7.18.2023",
+        "7.10.2023",
+        "7.5.2023",
+        "6.20.2023",
+        "6.17.2023",
+        "6.10.2023",
+        "Others"
+      ]
     }
   },
   {
@@ -127,7 +138,12 @@
         "Fixed Random Game Selector not working.",
         "Removed 5 games for maintenance and crashing issues."
       ],
-      "menulinks": ["Random Game Selector", "Tool Bar", "Update Schedule", "Others"]
+      "menulinks": [
+        "Random Game Selector",
+        "Tool Bar",
+        "Update Schedule",
+        "Others"
+      ]
     }
   },
   {
@@ -159,7 +175,12 @@
         "Fixed Random Game Selector not working.",
         "Removed 5 games for maintenance and crashing issues."
       ],
-      "menulinks": ["Favorites", "Download", "Bug Report", "Others"]
+      "menulinks": [
+        "Favorites",
+        "Download",
+        "Bug Report",
+        "Others"
+      ]
     }
   },
   {
@@ -347,7 +368,15 @@
         "Updated different catagories because of new games and organization.",
         "Added the YouTube link at the footer."
       ],
-      "menulinks": ["Recent Games", "New Tab: Originals", "New Menus", "New Sidebar", "New Logo", "25 New Games", "Others"]
+      "menulinks": [
+        "Recent Games",
+        "New Tab: Originals",
+        "New Menus",
+        "New Sidebar",
+        "New Logo",
+        "25 New Games",
+        "Others"
+      ]
     }
   },
   {
@@ -378,7 +407,11 @@
         "Removed some appearance bugs and animations.",
         "Removed the back button from the tool bar because it's ... useless."
       ],
-      "menulinks": ["New Appearance", "Deep Dark Theme", "Others"]
+      "menulinks": [
+        "New Appearance",
+        "Deep Dark Theme",
+        "Others"
+      ]
     }
   },
   {
@@ -422,7 +455,14 @@
         "New descriptions and information on several games for more info-rich experience.",
         "Updated tool bar appearance because of new features and Download Rework."
       ],
-      "menulinks": ["Download Rework", "Settings Rework", "Custom Theme", "Visual Enhancements", "About:blank Embedder", "Others"]
+      "menulinks": [
+        "Download Rework",
+        "Settings Rework",
+        "Custom Theme",
+        "Visual Enhancements",
+        "About:blank Embedder",
+        "Others"
+      ]
     }
   },
   {
@@ -463,7 +503,13 @@
         "Removed the Similar Games section on some games.",
         "Removed 2 games, Monkey Mart and Run 3, due to very strange glitches and crashes."
       ],
-      "menulinks": ["12 New Games", "New Looks", "MacBoard Rework", "Bug Fixes", "Others"]
+      "menulinks": [
+        "12 New Games",
+        "New Looks",
+        "MacBoard Rework",
+        "Bug Fixes",
+        "Others"
+      ]
     }
   },
   {
@@ -503,7 +549,13 @@
         "Removed the Similar Games section on some games.",
         "Added a new button in the about:blank section in Settings to open MacVG in about:blank quicker."
       ],
-      "menulinks": ["10 New Games", "Side Search", "Content Changes", "Bug Fixes", "Others"]
+      "menulinks": [
+        "10 New Games",
+        "Side Search",
+        "Content Changes",
+        "Bug Fixes",
+        "Others"
+      ]
     }
   },
   {
@@ -543,7 +595,12 @@
         "Removed info.css and info implementations in all game.html files.",
         "Removed MacVG User Survey."
       ],
-      "menulinks": ["30 New Games", "Content Changes", "Bug Fixes", "Others"]
+      "menulinks": [
+        "30 New Games",
+        "Content Changes",
+        "Bug Fixes",
+        "Others"
+      ]
     }
   },
   {
@@ -582,7 +639,13 @@
         "Minor bug fixes.",
         "Minor appearance updates."
       ],
-      "menulinks": ["Atomic Survival", "Sort & Filter", "10 New Games", "Site Improvements", "Others"]
+      "menulinks": [
+        "Atomic Survival",
+        "Sort & Filter",
+        "10 New Games",
+        "Site Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -616,7 +679,12 @@
         "Minor bug fixes.",
         "Minor appearance updates."
       ],
-      "menulinks": ["40+ New Games", "Update Schedule", "Content Improvements", "Others"]
+      "menulinks": [
+        "40+ New Games",
+        "Update Schedule",
+        "Content Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -709,8 +777,15 @@
           "content": "Officially renamed MacBlog from Blogs to MacBlog, and NEW HUGE APPEARANCE UPDATES COMING SOON!!!!!!! LETS GO!!!!! (there's also updates before this v.0.1 update, but weren't recorded)"
         }
       ],
-      "others": ["Revamped and rewritten articles multiple times."],
-      "menulinks": ["3.1.2024", "1.19.2024", "11.30.2023", "Others"]
+      "others": [
+        "Revamped and rewritten articles multiple times."
+      ],
+      "menulinks": [
+        "3.1.2024",
+        "1.19.2024",
+        "11.30.2023",
+        "Others"
+      ]
     }
   },
   {
@@ -751,7 +826,14 @@
         "Removed the search bar on the top right corner of some pages because there's no functionaily available and to unify all the pages.",
         "Removed update log pages because of new pages and structural changes."
       ],
-      "menulinks": ["New Looks", "New Sidebar", "New Table of Contents", "New Pages", "Content Additions", "Others"]
+      "menulinks": [
+        "New Looks",
+        "New Sidebar",
+        "New Table of Contents",
+        "New Pages",
+        "Content Additions",
+        "Others"
+      ]
     }
   },
   {
@@ -785,7 +867,12 @@
         "Fixed many old broken pages and content.",
         "Fixed and updated sidebar and menu content."
       ],
-      "menulinks": ["New Pages", "Content Improvements", "Update Schedule", "Others"]
+      "menulinks": [
+        "New Pages",
+        "Content Improvements",
+        "Update Schedule",
+        "Others"
+      ]
     }
   },
   {
@@ -819,7 +906,12 @@
         "Fixed and updated sidebar and menu content.",
         "Fixed minor bugs and issues."
       ],
-      "menulinks": ["New Tabs", "Sidebar Collapse", "Site Improvements", "Others"]
+      "menulinks": [
+        "New Tabs",
+        "Sidebar Collapse",
+        "Site Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -853,7 +945,11 @@
         "Removed thumb images for posts.",
         "Removed featured update section on the Updates tab."
       ],
-      "menulinks": ["Redesign", "Content Improvements", "Others"]
+      "menulinks": [
+        "Redesign",
+        "Content Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -947,7 +1043,13 @@
         "Minor appearance updates.",
         "Minor bug fixes."
       ],
-      "menulinks": ["Notes Rework", "Lists Rework", "Tasks Updates", "Bug Fixes", "Others"]
+      "menulinks": [
+        "Notes Rework",
+        "Lists Rework",
+        "Tasks Updates",
+        "Bug Fixes",
+        "Others"
+      ]
     }
   },
   {
@@ -977,7 +1079,11 @@
         "Minor appearance updates.",
         "Minor bug fixes."
       ],
-      "menulinks": ["New Tab: Drawings", "Site Improvements", "Others"]
+      "menulinks": [
+        "New Tab: Drawings",
+        "Site Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -1012,8 +1118,18 @@
           "content": "Just like the new update schedule we're applying to other MacWeb apps, MacIdeas is also getting a new update schedule. From this update forward, MacIdeas is going to get an update every 3 months. This means we'll release a new update for MacIdeas each quarter of the year. Specifically, February, May, August, and November. Each update will be named after the season (Spring Update, Fall Update, etc). We made this change so the schedule is more consitent and regular and we have more time to develop exciting new features 📅!"
         }
       ],
-      "others": ["Minor appearance updates.", "Minor bug fixes."],
-      "menulinks": ["Task Lists", "Tasks Improvements", "Notes Features", "Content Improvements", "Update Schedule", "Others"]
+      "others": [
+        "Minor appearance updates.",
+        "Minor bug fixes."
+      ],
+      "menulinks": [
+        "Task Lists",
+        "Tasks Improvements",
+        "Notes Features",
+        "Content Improvements",
+        "Update Schedule",
+        "Others"
+      ]
     }
   },
   {
@@ -1041,7 +1157,11 @@
         "Minor appearance updates.",
         "Minor bug fixes."
       ],
-      "menulinks": ["Redesign", "New Tab: Calendar", "Others"]
+      "menulinks": [
+        "Redesign",
+        "New Tab: Calendar",
+        "Others"
+      ]
     }
   },
   {
@@ -1224,7 +1344,10 @@
         "Fixed Quiz 2.0 bugs and issues.",
         "Minor appearance and functionality changes."
       ],
-      "menulinks": ["New Looks", "Others"]
+      "menulinks": [
+        "New Looks",
+        "Others"
+      ]
     }
   },
   {
@@ -1269,7 +1392,14 @@
         "Reorganized some files and folders.",
         "Minor appearance and functionality changes."
       ],
-      "menulinks": ["New Course", "Learning Path", "Course Structure", "Content Updates", "Appearance Updates", "Others"]
+      "menulinks": [
+        "New Course",
+        "Learning Path",
+        "Course Structure",
+        "Content Updates",
+        "Appearance Updates",
+        "Others"
+      ]
     }
   },
   {
@@ -1314,7 +1444,14 @@
         "Minor bug fixes.",
         "Minor appearance and functionality changes."
       ],
-      "menulinks": ["Course Restructure", "File Reorganization", "CSS Advanced", "CSS Completed", "New Tab: Me", "Others"]
+      "menulinks": [
+        "Course Restructure",
+        "File Reorganization",
+        "CSS Advanced",
+        "CSS Completed",
+        "New Tab: Me",
+        "Others"
+      ]
     }
   },
   {
@@ -1406,7 +1543,11 @@
         "Appearance and functionality changes.",
         "Minor bug fixes."
       ],
-      "menulinks": ["Redesign Completed", "Content Improvements", "Others"]
+      "menulinks": [
+        "Redesign Completed",
+        "Content Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -1489,7 +1630,12 @@
         "Bug fixes on time not displaying correctly and navigation changes.",
         "Minor user interface and user experience updates."
       ],
-      "menulinks": ["New Tab: Timer", "New Collapsible Menu", "Future of MacTime", "Others"]
+      "menulinks": [
+        "New Tab: Timer",
+        "New Collapsible Menu",
+        "Future of MacTime",
+        "Others"
+      ]
     }
   },
   {
@@ -1527,7 +1673,13 @@
         "Updated timer progress bar for a more intuitive and modern look.",
         "Updated navigation bar and help menu."
       ],
-      "menulinks": ["New Tab: Alarm", "New Tab: Countdown", "New Tab: Focus", "New Appearance", "Others"]
+      "menulinks": [
+        "New Tab: Alarm",
+        "New Tab: Countdown",
+        "New Tab: Focus",
+        "New Appearance",
+        "Others"
+      ]
     }
   },
   {
@@ -1555,7 +1707,11 @@
         "The announcement banner now only shows up on the homepage.",
         "Fixed Sidebar and announcement banner not working on the countdown page."
       ],
-      "menulinks": ["New Tab: World Clock", "New Homepage", "Others"]
+      "menulinks": [
+        "New Tab: World Clock",
+        "New Homepage",
+        "Others"
+      ]
     }
   },
   {
@@ -1591,7 +1747,13 @@
         "Minor appearance and functionality changes and fixes on some tabs.",
         "Updated homepage panel content because of the new Calendar tab and some bugs."
       ],
-      "menulinks": ["New Tab: Calendar", "New Looks", "Update Schedule", "MacTime's Future", "Others"]
+      "menulinks": [
+        "New Tab: Calendar",
+        "New Looks",
+        "Update Schedule",
+        "MacTime's Future",
+        "Others"
+      ]
     }
   },
   {
@@ -1632,7 +1794,14 @@
         "Minor appearance and functionality fixes on some tabs.",
         "Updated navigation and homepage content."
       ],
-      "menulinks": ["Focus Mode", "Countdown Changes", "Redesign", "Update Schedule", "Content Improvements", "Others"]
+      "menulinks": [
+        "Focus Mode",
+        "Countdown Changes",
+        "Redesign",
+        "Update Schedule",
+        "Content Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -1753,7 +1922,9 @@
           "content": "Started working on MacWork. (will release soon!!!hopefully)"
         }
       ],
-      "others": ["Isolated my portfolio into another seperate website that's completely seprated from MacWeb."],
+      "others": [
+        "Isolated my portfolio into another seperate website that's completely seprated from MacWeb."
+      ],
       "menulinks": [
         "4.13.2023",
         "6.15.2023",
@@ -1795,7 +1966,11 @@
       "others": [
         "We organized our apps, plans, projects, and app tree for what we're focusing on right now and what we can wait for a year or two!"
       ],
-      "menulinks": ["Navigation Bar", "Sidebar", "Others"]
+      "menulinks": [
+        "Navigation Bar",
+        "Sidebar",
+        "Others"
+      ]
     }
   },
   {
@@ -1831,7 +2006,13 @@
         "Minor navigational updates.",
         "Reorganized files and content for a faster and seamless experience."
       ],
-      "menulinks": ["Rolling Out Now", "New Sidebar", "New Effects", "New Logos", "Others"]
+      "menulinks": [
+        "Rolling Out Now",
+        "New Sidebar",
+        "New Effects",
+        "New Logos",
+        "Others"
+      ]
     }
   },
   {
@@ -1854,8 +2035,14 @@
           "content": "General appearance changes that match MacWeb apps with Site Material 2.1."
         }
       ],
-      "others": ["Navigation fixes and bug fixes."],
-      "menulinks": ["New Colors", "New Appearance", "Others"]
+      "others": [
+        "Navigation fixes and bug fixes."
+      ],
+      "menulinks": [
+        "New Colors",
+        "New Appearance",
+        "Others"
+      ]
     }
   },
   {
@@ -1884,7 +2071,11 @@
         "Minor file organization changes.",
         "Appearance bug fixes."
       ],
-      "menulinks": ["Responsive Design & Mobile", "Appearance Updates", "Others"]
+      "menulinks": [
+        "Responsive Design & Mobile",
+        "Appearance Updates",
+        "Others"
+      ]
     }
   },
   {
@@ -1920,7 +2111,13 @@
         "Visual updates for Site Material 5 compatibility.",
         "Removed unnecessary files for a faster and cleaner experience."
       ],
-      "menulinks": ["New UI & UX", "New Colors", "New Effects", "Update Schedule", "Others"]
+      "menulinks": [
+        "New UI & UX",
+        "New Colors",
+        "New Effects",
+        "Update Schedule",
+        "Others"
+      ]
     }
   },
   {
@@ -1954,7 +2151,13 @@
       "others": [
         "Renamed the app from Ify to MacWork, and finally to MacIdeas on release with many major changes on the basic functionalities of the app and its purpose."
       ],
-      "menulinks": ["v.0.5", "v.0.2", "v.0.1.6", "v.0.1.3", "Others"]
+      "menulinks": [
+        "v.0.5",
+        "v.0.2",
+        "v.0.1.6",
+        "v.0.1.3",
+        "Others"
+      ]
     }
   },
   {
@@ -1986,7 +2189,12 @@
         "Fixed appearance issues.",
         "Minor appearance and functionality changes and fixes."
       ],
-      "menulinks": ["New Data Generation", "Reorganized Files", "Content Improvements", "Others"]
+      "menulinks": [
+        "New Data Generation",
+        "Reorganized Files",
+        "Content Improvements",
+        "Others"
+      ]
     }
   },
   {
@@ -2074,7 +2282,11 @@
         "Fixed the bug of clearn search button not disappearing after removing search query.",
         "Fixed minor appearance bugs and problems."
       ],
-      "menulinks": ["20 New Games", "New Footer", "Others"]
+      "menulinks": [
+        "20 New Games",
+        "New Footer",
+        "Others"
+      ]
     }
   },
   {
@@ -2093,8 +2305,13 @@
           "content": "The old Mactime countdown had issues with accuracy when setting dates far into the future, sometimes being off by hours or even days. To fix this, we switched to a day-based countdown system instead of using months and days. Months can have different numbers of days, which made the old system inaccurate. Now, we count the total number of days and use an average of 30 days per month to convert it into months. This makes it easier to understand without causing errors. It's a simple but clever solution."
         }
       ],
-      "others": ["None"],
-      "menulinks": ["Fix", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "Fix",
+        "Others"
+      ]
     }
   },
   {
@@ -2113,8 +2330,13 @@
           "content": "We're shutting down the old download button in MacVG for several good reasons: 1. More than 80% of the games won't work when downloaded and run on file protocol because they're based on the Unity game engine. 2. There are too many requests for us to process, and most of the games requested won't work because of the previous reason anyway. 3.There are legal and ethical issues with licensing, distribution, and copyright on many games. Using a Google form for download requests is slow, inefficient, and unprofessional. So, we've decided to remove the download button for all games that don't work and only keep it for games with a free distribution license that work on file protocol. This way, we tackle three big problems at once. We've also done away with the Google form and Google Drive setup. Instead, we’ve zipped the folders (a smart and simple solution). Now, when users click the download button, the zipped folder will automatically download. They can then unzip it and enjoy the games offline, making sure they're playing copyright-free games without us having to process so many download requests."
         }
       ],
-      "others": ["None"],
-      "menulinks": ["Improvement", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "Improvement",
+        "Others"
+      ]
     }
   },
   {
@@ -2133,8 +2355,13 @@
           "content": "Today was a really bad day because GitHub Desktop couldn't handle updating the huge game site, making MacVG unavailable. The April update for MacVG was pretty big, so I copied the entire folder to the remote repository. But GitHub Desktop took forever to update and push it, causing the remote to disconnect multiple times. I had deleted all the files beforehand, so the game site was completely empty. I tried a lot of solutions, and nothing worked until I realized that GitHub Desktop only pushes the changed files each time. So, I divided the MacVG folder into smaller sections and uploaded each section one by one. It took a long time, but I gradually uploaded 30 games at a time, then 40, then 50, repeating until all the games and other files were uploaded to the remote repository. That's how we fixed this huge MacVG issue in just 2 hours. Let's go!"
         }
       ],
-      "others": ["None"],
-      "menulinks": ["Fix", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "Fix",
+        "Others"
+      ]
     }
   },
   {
@@ -2153,8 +2380,13 @@
           "content": "So, there’s been a problem on MacVG since the huge January update on 1/1/2024, where you couldn’t type in certain games, making them almost unplayable. The experience was terrible. While working on the July update, we went through the JavaScript files to optimize and improve performance. We checked each code and found an event listener that was preventing the keydown event’s default actions, meaning you couldn’t type in games. We have no idea why that piece of code was there, but after removing it, the bug was finally fixed! Now you can type in so many games. Thanks to your feedback, we identified and resolved this issue! This fix didn’t have any negative impact, so you can now enjoy tons of games like the Vex series, Google Feud, Mario, Minecraft, and more, which you couldn't play before due to the annoying bug!"
         }
       ],
-      "others": ["None"],
-      "menulinks": ["Fix", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "Fix",
+        "Others"
+      ]
     }
   },
   {
@@ -2173,8 +2405,13 @@
           "content": "I wanted to reupload the entire MacVG game site to GitHub, but the online site wouldn't allow me to upload files larger than 25mb. Then, I found out about the tool GitHub Desktop, which seemed to be able to handle large amount of changes and commits. I logged onto ChatGPT and asked for help on how to use GitHub Desktop since I wanted to use it for uploading stuff. After watching a bunch of YouTube tutorials that didn't really help, I finally found one that did and managed to upload \"10 Minutes Till Dawn\" to GitHub via GitHub Desktop. Then, I did some more research, changed my global identity settings, and downloaded Git. Finally, I went into the settings (Files -> Options) and disabled SSH, and it worked successfully!"
         }
       ],
-      "others": ["None"],
-      "menulinks": ["The Tool", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "The Tool",
+        "Others"
+      ]
     }
   },
   {
@@ -2193,8 +2430,13 @@
           "content": "We recently decided to embed all games using iframes so users can have more games on the screen, more control, and extra features. With the new 2.0 update, we introduced a brand-new UI for each game page and updated URLs and links for each game. At first, we placed the game HTML files with the new UI outside the original parent folder for the games. This caused local storage access issues due to browser cross-origin problems, resulting in game progress resets. So, we moved the refreshed HTML files inside the games' folders to avoid cross-origin issues and make sure your progress is saved. Thanks to this change, your game progress is safe and sound. Enjoy your uninterrupted gaming experience!"
         }
       ],
-      "others": ["None"],
-      "menulinks": ["The Fix", "Others"]
+      "others": [
+        "None"
+      ],
+      "menulinks": [
+        "The Fix",
+        "Others"
+      ]
     }
   },
   {
@@ -2203,7 +2445,7 @@
     "app": "MacWeb",
     "title": "Introducing: MacWeb 2.0",
     "sidetitle": "MacWeb 2.0",
-    "date": "2025-08-01",
+    "date": "2025-07-30",
     "author": "Tony",
     "content": {
       "description": "I know we've said this countless times, but this update, for sure, is the biggest one we've had so far. After all, we're remaking every single MacWeb app from scratch with a brand new technology/programming language to make our apps more flexible, interactive, and easier to maintain, all while incorporating a new look on all the apps. Other than that, we're also making a lot of changes to the apps themselves. Let's see what the new MacWeb is all about:",
@@ -2221,6 +2463,10 @@
           "content": "Because we're doing so much recently with MacWeb 2.0 and everything, we have decided to just focus development on our 2 most popular apps: MacVG and MacLearn. This means we're pausing development on MacTools and MacIdeas as they're not content driven and can't bring us the return we're hoping for right now. In a few years, it's possible we'll continue development, but for now they will not be updated. This doesn't mean they will be shut down, they will still be accessible and work perfectly fine, but they won't be receiving new features, fixes, or changes in a long time. Because we're only focusing on MacVG and MacLearn right now, we're also removing some integration of the apps such as the old MacWeb sidebar used for accessing other MacWeb apps. This kind of breaks the old \"ecosystem\" we had, and our apps are kind of distinct standalone apps now. MacBlog and the MacWeb landing page will not be removed as they serve more as information support apps instead of actual apps like MacVG and MacLearn are 🔥."
         },
         {
+          "title": "Landing Page Revamp",
+          "content": "Other than completely revamping our apps from scratch, we're also reimagining the MacWeb landing page with this huge update. Previously, the landing page was just 5 app link cards and nothing else, which might have confused some users what MacWeb even is. That's why with the new landing page, we not only redesigned the appearance of it, integrated animations, and added the light mode toggle and view source buttons, we also added a short section for each of the 5 apps with the app's description, logo, and 2 links that take you to the actual app and the MacBlog landing page. This not only gives new users more information on what MacWeb and its apps are, it also provides something old users might not have known before for them to discover. We also added a comprehensive footer at the bottom of the landing page 🧠!"
+        },
+        {
           "title": "Version Changes",
           "content": "We're resetting the versions of MacWeb, Site Material, and all of our apps (excluding MacIdeas and MacTools as they will not be updated) to be at v.2.0 regardless of previous versions, because the apps are being rebuilt from the ground up with a brand new programming language with a brand new design, along with a ton of new features, content, and more. The apps are also more interactive, flexible, visually appealing, and functional than ever before 📈!"
         },
@@ -2229,8 +2475,191 @@
           "content": "We're very excited to share our vision of MacWeb 2.0 with all of you in the future with a ton of new content, features, and even new apps! Given enough time, resources, and support from the users, we could enhance all our apps with advanced features such as user-generated content, user data, real time applications, AI features, and more! We're also looking to hire more talented developers and people to help out with improving our apps, increasing income, reviving MacIdeas and MacTools, and publishing more powerful apps in the future 📱!"
         }
       ],
-      "others": ["Updated app icons and logos.", "Improved routing and URL paths."],
-      "menulinks": ["Remaking Apps", "Site Material 2.0", "App Changes", "Version Changes", "The Future", "Others"]
+      "others": [
+        "Updated app icons and logos.",
+        "Improved routing and URL paths."
+      ],
+      "menulinks": [
+        "Remaking Apps",
+        "Site Material 2.0",
+        "App Changes",
+        "Landing Page Revamp",
+        "Version Changes",
+        "The Future",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "category": "Update",
+    "app": "MacBlog",
+    "title": "Introducing: MacBlog 2.0",
+    "sidetitle": "MacBlog 2.0",
+    "date": "2025-07-31",
+    "author": "Tony",
+    "content": {
+      "description": "It seems weird that the last update we released for MacBlog was named \"v.2.0 Update\" and this update is named \"MacBlog 2.0\", but this is definitely not a mistake. Because of the MacWeb 2.0 massive update we recently introduced to all our apps (MacVG, MacLearn, and MacBlog), we're resetting MacBlog's version number to 2.0. In this incredibly massive update, we rebuilt MacBlog from the ground up with modern technology and redesigned the whole site to look more visually appealing. Here's everything we did in this update:",
+      "paragraphs": [
+        {
+          "title": "MacBlog Reengineered",
+          "content": "We've rebuilt every bit of MacBlog from the ground up with the modern JavaScript library React instead of vanilla plain JavaScript to massively improve the app's interactivity and performance so your experience on MacBlog can be smoother than ever. This also changes the structure of the files and data and how everything's rendered, so a lot of bugs are also removed. This change also makes the development of the app more manageble and scalable, which means we can push out updates with more features and consistency in the future! Changing to a different programming language also unlocks a bunch of new features for us, such as adding subtle animations across MacBlog so your experience on MacBlog is more interactive 🔥!"
+        },
+        {
+          "title": "MacBlog Redesigned",
+          "content": "Because we were already redeveloping the app from scratch, we used the freedom to do whatever we wanted with the app to also completely redesign MacBlog's user interface so it's easier to use and look more visually appealing and modern. Every page across the platform is now darker, sleeker, and more consistent with other elements on the page! Better colors, spacing, layout, and typography will ensure you get the best experience reading our articles and navigating the site! Not only that, we redesigned MacBlog's logo as well to honor this version 2.0 milestone. We removed the white hexagon from the logo so it's just a purple rounded square with a circle and an i 🎨."
+        },
+        {
+          "title": "New Features",
+          "content": "We're aiming to make all MacWeb apps consitent, which not only incldues the overall design, but also the page elements and features. We've introduced a new navigation bar and a new footer across MacWeb apps with the transition to using React, and that includes MacBlog too. You can now toggle the site between light and dark modes with the sun icon on the top right to customize the site to fit your likings better! This makes the site more accessible because everyone has different preferences and we're working hard to satisfy everyone's needs at once. You can also click on the GitHub icon next to the light mode toggle to view MacBlog's source code, and you're more than welcome to contribute either by submitting an issue or a pull request! We've also made the site's navigation more accessible to everyone by putting MacBlog tabs, information links, other MacWeb apps, our social links, and credits to the new footer at the bottom of every page 💡!"
+        }
+      ],
+      "others": [
+        "Updated app icons and logos.",
+        "Improved routing and URL paths.",
+        "Fixed deployment issues.",
+        "Fixed analytics tracking."
+      ],
+      "menulinks": [
+        "MacBlog Reengineered",
+        "MacBlog Redesigned",
+        "New Features",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "Introducing: MacVG 2.0",
+    "sidetitle": "Summer Update",
+    "date": "2025-08-01",
+    "author": "Tony",
+    "content": {
+      "description": "We've said this so many times, but I promise this is the last \"MacVG's biggest update ever!!!\" update. We've completely rewritten the code behind MacVG with a brand new modern technology to massively enhance the interactivity, features, and performance of MacVG. We also released 6 or 7 new games and features with this update, so let's welcome the Summer update!",
+      "paragraphs": [
+        {
+          "title": "MacVG Reengineered",
+          "content": "We've rebuilt every bit of MacVG from the ground up with the modern JavaScript library React instead of vanilla plain JavaScript to massively improve the app's interactivity and performance so your gaming experience on MacVG can be smoother than ever. Because React is so scalable and flexible, we won't have to fundamentally change how MacVG works again, which means no more \"biggest update ever!\". This also changes the structure of the files and data and how everything's rendered, so a lot of bugs are also removed. React is built for app interactivity, so all the features on MacVG such as search, sort, favorite, etc will be faster and smoother than ever. This change also makes the development of the app more manageble and improves the scalability of the code, which means we can push out updates with more features and consistency in the future! Changing to a different programming language also unlocks a bunch of new features for us, such as adding subtle animations across MacVG so your gaming experience is more interactive 🔥!"
+        },
+        {
+          "title": "MacVG Redesigned",
+          "content": "Because we were already redeveloping the app from scratch, we used the freedom to do whatever we wanted with the app to also completely redesign MacVG's user interface so it's easier to use and look more visually appealing and modern. Every page across the platform is now darker, sleeker, and more consistent with other elements on the page! Better colors, spacing, layout, and typography will ensure you get the best experience using the platform and navigating between games! We've removed the side navigation panel on game pages in favor of the new navigaiton bar on the top to fit more links along with a new powerful universal search bar. Not only that, we redesigned MacVG's logo as well to honor this version 2.0 milestone. We removed the white hexagon from the logo so it's just a simple orange rounded square with a controller 🖌️!"
+        },
+        {
+          "title": "New Features",
+          "content": "We're aiming to make all MacWeb apps consitent, which not only incldues the overall design, but also the page elements and features. We revamped all the outdated game buttons (favorite, share, download, report, full screen) so they work more seamlessly and fit with the new design better! We've introduced a new navigation bar and a new footer across MacWeb apps with the transition to using React, and that includes MacVG too. You can now toggle the site between light and dark modes directly with the sun icon on the top right to customize the site to fit your likings better! This makes the site more accessible because everyone has different preferences and we're working hard to satisfy everyone's needs at once. You can also click on the GitHub icon next to the light mode toggle to view MacVG's source code, and you're more than welcome to contribute either by submitting an issue or a pull request! We've also made the site's navigation more accessible to everyone by putting MacVG tabs, information links, other MacWeb apps, our social links, and credits to the new footer at the bottom of every page 💡!"
+        },
+        {
+          "title": "Revamped Tabs",
+          "content": "We updated each MacVG tab's content with new games and information, as well as changing the Settings menu. Because we've done so much in this update (bro, we rebuilt an entire app from scratch in less than a month) we couldn't recode all the setting options from the old MacVG with React, so we permanantly removed cloaker presets and themes, and temporarily removed custom theme (stay tuned, it'll return soon!). We added a new themes dropdown menu with 4 brand new themes that look super clean and pleasant, and they work across the entire app. You can now customize the cloaker completely with a custom name and a custom tab icon. All the other features have been recoded, so don't worry 🏗️!"
+        }
+      ],
+      "others": [
+        "Added release sorting option.",
+        "Updated app icons and logos.",
+        "Improved routing and URL paths.",
+        "Fixed deployment issues.",
+        "Fixed analytics tracking.",
+        "Fixed bugs.",
+        "Added more ads (shhhh...)."
+      ],
+      "menulinks": [
+        "MacVG Reengineered",
+        "MacVG Redesigned",
+        "New Features",
+        "Revamped Tabs",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "category": "Update",
+    "app": "MacLearn",
+    "title": "Introducing: MacLearn 2.0",
+    "sidetitle": "Summer Update",
+    "date": "2025-08-01",
+    "author": "Tony",
+    "content": {
+      "description": "We've said this so many times, but I promise this is the last \"MacLearn's biggest update ever!!!\" update. We've completely rewritten the code behind MacLearn with a brand new modern technology to massively enhance the interactivity, features, and performance of MacLearn. We also released many new features with this update, so let's welcome the Summer update!",
+      "paragraphs": [
+        {
+          "title": "MacLearn Reengineered",
+          "content": "We've rebuilt every bit of MacLearn from the ground up with the modern JavaScript library React instead of vanilla plain JavaScript to massively improve the app's interactivity and performance so your learning experience on MacLearn can be smoother than ever. Because React is so scalable and flexible, we won't have to fundamentally change how MacLearn works again, which means no more \"biggest update ever!\". This also changes the structure of the files and data and how everything's rendered, so a lot of bugs are also removed. React is built for app interactivity, so all the features on MacLearn such as quizzes, code lab, search, favorite, etc will be faster and smoother than ever. This change also makes the development of the app more manageble and improves the scalability of the code, which means we can push out updates with more features and consistency in the future! Changing to a different programming language also unlocks a bunch of new features for us, such as adding subtle animations across MacLearn so your learning experience is more interactive 🔥!"
+        },
+        {
+          "title": "MacLearn Redesigned",
+          "content": "Because we were already redeveloping the app from scratch, we used the freedom to do whatever we wanted with the app to also completely redesign MacLearn's user interface so it's easier to use and look more visually appealing and modern. Every page across the platform is now darker, sleeker, and more consistent with other elements on the page! Better colors, spacing, layout, and typography will ensure you get the best experience reading articles and navigating between apps! We've removed a bunch of outdated content and replaced it with new up to date pages for better learning resrouces. Not only that, we redesigned MacLearn's logo as well to honor this version 2.0 milestone. We removed the white hexagon from the logo so it's just a simple blue rounded square with a book 🖌️!"
+        },
+        {
+          "title": "New Features",
+          "content": "We're aiming to make all MacWeb apps consitent, which not only incldues the overall design, but also the page elements and features. We revamped all the outdated article buttons (favorite, share, report) so they work more seamlessly and fit with the new design better! We've introduced a new navigation bar and a new footer across MacWeb apps with the transition to using React, and that includes MacLearn too. You can now toggle the site between light and dark modes directly with the sun icon on the top right to customize the site to fit your likings better! This makes the site more accessible because everyone has different preferences and we're working hard to satisfy everyone's needs at once. You can also click on the GitHub icon next to the light mode toggle to view MacLearn's source code, and you're more than welcome to contribute either by submitting an issue or a pull request! We've also made the site's navigation more accessible to everyone by putting MacLearn tabs, information links, other MacWeb apps, our social links, and credits to the new footer at the bottom of every page 💡!"
+        },
+        {
+          "title": "Revamped Tabs",
+          "content": "We updated a bunch of tabs and pages on MacLearn while transitioning the app to React. We added an accordion element on course pages so you can show and collapse each unit of the course with the articles and quizzes clearly listed out in order! The me page also has the new accordion for saved articles and pages. On top of that, the recent actvities section on the me page now also displays recently viewed quizzes 📖."
+        }
+      ],
+      "others": [
+        "Improved a lot of features.",
+        "Improved article navigation.",
+        "Added more notifications.",
+        "Updated site navigation.",
+        "Updated app icons and logos.",
+        "Updated outdated content.",
+        "Updated file paths and folders.",
+        "Improved routing and URL paths.",
+        "Fixed deployment issues.",
+        "Fixed analytics tracking.",
+        "Fixed bugs."
+      ],
+      "menulinks": [
+        "MacLearn Reengineered",
+        "MacLearn Redesigned",
+        "New Features",
+        "Revamped Tabs",
+        "Others"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "category": "Update",
+    "app": "MacVG",
+    "title": "MacVG v2.1 Fall Update",
+    "sidetitle": "Fall Update",
+    "date": "2025-12-01",
+    "author": "Tony",
+    "content": {
+      "description": "As we bring out Christmas decorations, jackets, and some hot cocoa to get ready for winter, we're finally releasing the MacVG Fall Update on the first day of winter! We've been pretty busy with school, work, and other stuff lately so the fall update was delayed a bit from the planned November 1st release to December 1st. This is the first regular update after MacVG was completely rebuilt from scratch in the summer update. In this medium update, we added 10+ new games, added a gamer profile page, added quality of life updates, and more! Discover everything we did in this update below:",
+      "paragraphs": [
+        {
+          "title": "Me Tab",
+          "content": "The main focus of this update is the brand new customizable Me tab that we added to MacVG. The Me tab is where your gamer profile is, and it lets you express yourself and show off to other gamers! Add a custom gamer tag, about me bio paragraph, and select a custom profile picture that represents you the best! Along with the gamer profile, we're also introducing streaks in this update, so keep logging on MacVG everyday, grow the streak, and earn that shiny badge displayed at the top of your profile! In the next winter update we're releasing in February, we'll add gaming achievements, favorite curated games and more on the profile page 🎮!"
+        },
+        {
+          "title": "New Games",
+          "content": "We added relatively few games this update compared to previous updates because we were focusing more on the new Me tab and other features. However, we still managed to add more than 10 new games to MacVG in this update, including some popular hit games, so go check out all the new games in the New Tab and maybe you'll discover your next favorite game! Enjoy playing these new games on MacVG 🆕!"
+        },
+        {
+          "title": "Quality of Life Changes",
+          "content": "In this update, we made a lot of small but significant quality of life changes across MacVG to improve the overall user experience. We updated the overall styling so the different themes fit with dark/light modes better as well as the new pages, content, and elements. We changed how filtering options display the game count so everything works more smoothly, optimized, and accurately. On top of that, we also added lazy loading of all the games on the home page so only a small section of it renders at once so your poor potato school computer doesn't have to render every game's thumbnail at once, significantly boosting the performance and speed of the game site. We also optimized SEO and monetization to make MacVG more discoverable and make the community more engaged by introducing the brand new exciting Discord server. Join the new server now by clicking on the link on the footer 🔥!"
+        }
+      ],
+      "others": [
+        "Released new Discord server for MacWeb!",
+        "Added banner ads.",
+        "Updated styling.",
+        "Fixed bugs."
+      ],
+      "menulinks": [
+        "Me Tab",
+        "New Games",
+        "Quality of Life Changes",
+        "Others"
+      ]
     }
   }
 ]
